@@ -49,65 +49,48 @@
         {%- endif -%}
       </div>
     </header>
+  
 
+  <div class="home">
     <div class="wrapper">
-        <header {% unless site.description or site.github.project_tagline %} class="without-description" {% endunless %}>
-        <h1>{{ site.title | default: site.github.repository_name }}</h1>
-        {% if site.description or site.github.project_tagline %}
-            <p>{{ site.description | default: site.github.project_tagline }}</p>
-        {% endif %}
-        <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ github_name }}</small></a></p>
-        </header>
+      <header {% unless site.description or site.github.project_tagline %} class="without-description" {% endunless %}>
+      <h1>The piQTL project</h1>
+      {% if site.description or site.github.project_tagline %}
+          <p>{{ site.description | default: site.github.project_tagline }}</p>
+      {% endif %}
     </div>
-  </body>
 
-<div class="home">
-  {%- if page.title -%}
-    <h1 class="page-heading">{{ page.title }}</h1>
-  {%- endif -%}
+  <div class="wrapper">
+    <div class="page-content">
+      {{ content }}
+    </div> 
+  </div>
 
-<div class="wrapper">
-  <div class="page-content">
-    {{ content }}
-  </div> 
+  <h2><b>Data visualization</b></h1>
 
-</div>
+  <iframe frameborder="no" src="https://serohijos-piqtl.shinyapps.io/piQTL_manhattan/"> </iframe>
 
-<iframe frameborder="no" src="https://serohijos-piqtl.shinyapps.io/piQTL_manhattan/"> </iframe>
+  <iframe frameborder="no" src="https://serohijos-piqtl.shinyapps.io/piQTL_genome_browser/"> </iframe>
 
-<iframe frameborder="no" src="https://serohijos-piqtl.shinyapps.io/piQTL_genome_browser/"> </iframe>
+  <div class="wrapper">
+    <h2>Useful link</h3>
+    <p class="view"><a href="{{ site.github.repository_url }}"></a>Download the raw data of the project</a></p>
+    <p class="view"><a href="{{ site.github.repository_url }}">View the Code Repository on GitHub <small>{{ github_name }}</small></a></p>
+    </header>
+  </div>
 
+</body>
 
 <footer class="site-footer h-card">
   <data class="u-url" href="{{ "/" | relative_url }}"></data>
 
   <div class="wrapper">
-
-    <div class="footer-col-wrapper">
-      <div class="footer-col">
-        <p class="feed-subscribe">
-          <a href="{{ site.feed.path | default: 'feed.xml' | absolute_url }}">
-            <svg class="svg-icon orange">
-              <use xlink:href="{{ 'assets/minima-social-icons.svg#rss' | relative_url }}"></use>
-            </svg><span>Subscribe</span>
-          </a>
-        </p>
-      {%- if site.author %}
-        <ul class="contact-list">
-          {% if site.author.name -%}
-            <li class="p-name">{{ site.author.name | escape }}</li>
-          {% endif -%}
-          {% if site.author.email -%}
-            <li><a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
-          {%- endif %}
-        </ul>
-      {%- endif %}
-      </div>
-      <div class="footer-col">
-        <p>{{ site.description | escape }}</p>
-      </div>
-    </div>
-
+    <h4>Contact</h4>
+    Principal Investigators:
+    <li><a class="u-email" href="mailto:adrian.serohijos@umontreal.ca">Adrian Serohijos</a></li>
+    <li><a class="u-email" href="mailto:stephen.michnick@umontreal.ca">Stephen Michnick</a></li>
+    
+    <!-- <li><a class="u-email" href="mailto:savandara.besse@umontreal.ca">Savandara Besse</a></li> -->
   </div>
 </footer>
 </html>

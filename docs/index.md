@@ -4,6 +4,3 @@
 
 layout: home
 ---
-
-<h1>Hello world</h1>
-Looking at Manhattan plots 
