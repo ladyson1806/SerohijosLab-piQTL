@@ -256,7 +256,7 @@ PLATFORMS
 
 DEPENDENCIES
   faraday-retry (~> 2.2)
-  github-pages
+  github-pages (~> 228)
   http_parser.rb (~> 0.6.0)
   jekyll-feed (~> 0.12)
   jekyll-remote-theme (~> 0.4.3)
