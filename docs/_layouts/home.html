@@ -1,0 +1,82 @@
+---
+layout: base
+---
+<style>
+  body{
+      margin: 0; /* Remove default margin */
+  }
+  iframe{      
+      display: block;  /* iframes are inline by default */   
+      height: 100vh;  /* Set height to 100% of the viewport height */   
+      width: 100vw;  /* Set width to 100% of the viewport width */     
+      border: none; /* Remove default border */
+      background: lightyellow; /* Just for styling */
+  }
+</style>
+
+
+<div class="home">
+  {%- if page.title -%}
+    <h1 class="page-heading">The {{ page.title }} project</h1>
+  {%- endif -%}
+
+<div class="wrapper">
+  <div class="page-content">
+    {{ content }}
+  </div>  
+</div>
+
+<iframe frameborder="no" src="https://serohijos-piqtl.shinyapps.io/piQTL_manhattan/"> </iframe>
+
+<iframe frameborder="no" src="https://serohijos-piqtl.shinyapps.io/piQTL_genome_browser/"> </iframe>
+
+
+  <!-- {% if site.paginate %}
+    {% assign posts = paginator.posts %}
+  {% else %}
+    {% assign posts = site.posts %}
+  {% endif %}
+
+
+  {%- if posts.size > 0 -%}
+    {%- if page.list_title -%}
+      <h2 class="post-list-heading">{{ page.list_title }}</h2>
+    {%- endif -%}
+    <ul class="post-list">
+      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+      {%- for post in posts -%}
+      <li>
+        <span class="post-meta">{{ post.date | date: date_format }}</span>
+        <h3>
+          <a class="post-link" href="{{ post.url | relative_url }}">
+            {{ post.title | escape }}
+          </a>
+        </h3>
+        {%- if site.show_excerpts -%}
+          {{ post.excerpt }}
+        {%- endif -%}
+      </li>
+      {%- endfor -%}
+    </ul>
+
+    {% if site.paginate %}
+      <div class="pager">
+        <ul class="pagination">
+        {%- if paginator.previous_page %}
+          <li><a href="{{ paginator.previous_page_path | relative_url }}" class="previous-page">{{ paginator.previous_page }}</a></li>
+        {%- else %}
+          <li><div class="pager-edge">•</div></li>
+        {%- endif %}
+          <li><div class="current-page">{{ paginator.page }}</div></li>
+        {%- if paginator.next_page %}
+          <li><a href="{{ paginator.next_page_path | relative_url }}" class="next-page">{{ paginator.next_page }}</a></li>
+        {%- else %}
+          <li><div class="pager-edge">•</div></li>
+        {%- endif %}
+        </ul>
+      </div>
+    {%- endif %}
+
+  {%- endif -%} -->
+
+</div>
