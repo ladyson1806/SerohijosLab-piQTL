@@ -38,14 +38,12 @@
             </label>
     
             <div class="trigger">
-              <!-- {%- for path in page_paths -%}
+              {%- for path in page_paths -%}
                 {%- assign my_page = site.pages | where: "path", path | first -%}
                 {%- if my_page.title -%}
-                <a class="page-link" href="{{ mypage.url }}">{{ my_page.title | escape }}</a>
+                <a class="page-link" href="{{ my_page.url | permalink }}">{{ my_page.title | escape }}</a>
                 {%- endif -%}
-              {%- endfor -%} -->
-              <a class="page-link" href="https://ladyson1806.github.io/piQTL/genome_browser">Genome browser</a>
-              <a class="page-link" href="https://ladyson1806.github.io/piQTL/manhattan">Manhattan plots</a>
+              {%- endfor -%}
             </div>
           </nav>
         {%- endif -%}
