@@ -1,6 +1,11 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+layout: default
 ---
+
+<!-- INSERT PICTURE-->
+
+
+###  __Related links__
+    
+- <a href="{{ site.github.repository_url }}">Download the raw data of the project (available soon)</a>
+- <a href="{{ site.github.repository_url }}">Access to the code on GitHub <small>{{ github_name }}</small></a>
