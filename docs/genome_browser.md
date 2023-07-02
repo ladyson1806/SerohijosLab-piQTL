@@ -5,7 +5,7 @@ type: genome_browser
 permalink: /piQTL/genome_browser
 ---
 
-### __Instruction__
+## Instruction
 1. Click on `Add LD blocks, CUT, SUT and XUT annotations` for loading the non-coding RNA annotations. Features are seen at the chromosome level.
 
 2. Choose your PPI of interest and your drug of interest from the choice boxes.
