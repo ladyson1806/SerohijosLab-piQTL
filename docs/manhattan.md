@@ -2,7 +2,7 @@
 layout: shiny_app
 title: Manhattan plots
 type: manhattan
-permalink: /visualization/manhattan
+permalink: /manhattan
 ---
 ## Brief description
 

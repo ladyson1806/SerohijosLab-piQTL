@@ -2,7 +2,7 @@
 layout: shiny_app
 title: Genome browser
 type: genome_browser
-permalink: /visualization/genome_browser
+permalink: /genome_browser
 ---
 
 ## Brief description
