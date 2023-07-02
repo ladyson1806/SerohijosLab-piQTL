@@ -26,6 +26,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ladyson1806.github.io/piQTL" # the base hostname & protocol for your site, e.g. http://example.com
 manhattan_app: "https://serohijos-piqtl.shinyapps.io/piQTL_manhattan/"
 genome_browser_app: "https://serohijos-piqtl.shinyapps.io/piQTL_genome_browser/"
+# bioproject_url:
 twitter_username: SavvyBioInfo
 github_username:  ladyson1806
 
