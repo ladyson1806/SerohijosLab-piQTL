@@ -22,8 +22,8 @@ title: piQTL
 email: savandara.besse@umontreal.ca
 description: >- # this means to ignore newlines until "baseurl:"
   The protein-protein interaction-based QTL or piQTL project aims to understand how genetic variations across of a population of yeast inbreds could potentially influence the quantitative variation of the protein-protein complex formation.
-baseurl: "/piQTL" # the subpath of your site, e.g. /blog
-url: "https://ladyson1806.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://ladyson1806.github.io/piQTL" # the base hostname & protocol for your site, e.g. http://example.com
 manhattan_app: "https://serohijos-piqtl.shinyapps.io/piQTL_manhattan/"
 genome_browser_app: "https://serohijos-piqtl.shinyapps.io/piQTL_genome_browser/"
 # bioproject_url:
