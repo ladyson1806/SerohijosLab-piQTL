@@ -2,7 +2,7 @@
 layout: shiny_app
 title: Genome browser
 type: genome_browser
-permalink: /piQTL/genome_browser
+permalink: /genome_browser
 ---
 
 ## Instruction
