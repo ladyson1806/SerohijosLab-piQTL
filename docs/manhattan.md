@@ -2,7 +2,7 @@
 layout: shiny_app
 title: Manhattan plots
 type: manhattan
-permalink: /piQTL/manhattan
+permalink: /manhattan
 ---
 
 ## Visualization of piQTLs
