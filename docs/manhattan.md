@@ -2,10 +2,10 @@
 layout: shiny_app
 title: Manhattan plots
 type: manhattan
-permalink: /manhattan
+permalink: /piQTL/manhattan
 ---
 
-## Description
+## Visualization of piQTLs
 
 __Manhattan plots__ are showing the location of piQTLs along the entire yeast genome. 
 piQTLs are defined as peaks that pass by the thresold shown by the blue line. 

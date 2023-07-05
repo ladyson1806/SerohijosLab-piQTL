@@ -2,10 +2,10 @@
 layout: shiny_app
 title: Genome browser
 type: genome_browser
-permalink: /genome_browser
+permalink: /piQTL/genome_browser
 ---
 
-## Instruction
+## How to use this genome browser
 
 1. Click on `Add LD blocks, CUT, SUT and XUT annotations` for loading the non-coding RNA annotations. Features are seen at the chromosome level.
 
