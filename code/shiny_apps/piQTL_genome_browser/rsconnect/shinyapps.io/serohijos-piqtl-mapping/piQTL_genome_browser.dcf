@@ -1,0 +1,14 @@
+name: piQTL_genome_browser
+title: piQTL_genome_browser
+username:
+account: serohijos-piqtl-mapping
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9328820
+bundleId: 7412285
+url: https://serohijos-piqtl.shinyapps.io/piQTL_genome_browser/
+when: 1688332014.23261
+lastSyncTime: 1688332014.23264
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: app_V0.R

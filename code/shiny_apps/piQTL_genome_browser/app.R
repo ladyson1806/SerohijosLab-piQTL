@@ -65,8 +65,7 @@ server <- function(input, output, session) {
 
     f_LDs <-"./data/genome_annotations/LD_blocks.csv"
     LDs.gff3 <- read.table(f_LDs, sep=",", header=TRUE, as.is=TRUE)
-    LDTrack <- loadGFF3TrackFromLocalData(session, id="igvShiny_0", "LD blocks", LDs.gff3, color='grey', colorByAttribute='type', colorTable=list(), displayMode="EXPANDED", trackHeight=50, visibilityWindow=100000)
-    display(LDTrack, session, id="igvShiny_0", deleteTracksOfSameName = TRUE)
+    loadGFF3TrackFromLocalData(session, id="igvShiny_0", "LD blocks", LDs.gff3, color='grey', colorByAttribute='type', colorTable=list(), displayMode="EXPANDED", trackHeight=50, visibilityWindow=100000)
     
     f_CUTs <- "./data/genome_annotations/Xu_2009_CUTs_V64.csv"
     CUTs.gff3 <- read.table(f_CUTs, sep=",", header=TRUE, as.is=TRUE)

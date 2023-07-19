@@ -1,0 +1,13 @@
+name: piQTL_manhattan
+title: piQTL_manhattan
+username:
+account: serohijos-piqtl-mapping
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9328757
+bundleId: 7412295
+url: https://serohijos-piqtl.shinyapps.io/piQTL_manhattan/
+when: 1688332248.87889
+lastSyncTime: 1688332248.8789
+asMultiple: FALSE
+asStatic: FALSE
