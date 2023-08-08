@@ -1,0 +1,5 @@
+new("big.matrix.descriptor", description = list(sharedType = "FileBacked", 
+    filename = "piQTL_dec_2022.geno.bin", dirname = "../../results/04a_rMVP/formatted_inputs/piQTL_dec_2022/", 
+    totalRows = 8644L, totalCols = 357L, rowOffset = c(0, 8644
+    ), colOffset = c(0, 357), nrow = 8644, ncol = 357, rowNames = NULL, 
+    colNames = NULL, type = "char", separated = FALSE))
