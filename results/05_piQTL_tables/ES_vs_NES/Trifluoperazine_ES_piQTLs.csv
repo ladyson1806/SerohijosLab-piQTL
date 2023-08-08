@@ -1,0 +1,1124 @@
+SNP,PPI,Chr,Pos,Effect_Trifluoperazine,-log_pval,snps_class_up,snps_class_down,locus_id,name,sgd_id,description,Effect_noDrug
+3710,RET2:EMP70,6,101306.0,-0.338536800385938,3.1591582819314485,Promoter,Promoter,tP(UGG)F_NFR/NDR,0,0,0,0.0
+10482,noPPI:reference,15,487554.0,-0.66225109008072,3.6641732495396777,Promoter,Promoter,tN(GUU)O2_NFR/NDR,0,0,0,0.0
+10482,RET2:EMP47,15,487554.0,-0.325801126567636,3.2039223551359157,Promoter,Promoter,tN(GUU)O2_NFR/NDR,0,0,0,0.0
+8810,ERG11:ORM2,13,505070.0,0.412414011269943,3.1313755331648254,Promoter,Promoter,tL(CAA)M_NFR/NDR,0,0,0,0.0
+8810,ERV25:ORM2,13,505070.0,0.394507523733581,3.017478263179265,Promoter,Promoter,tL(CAA)M_NFR/NDR,0,0,0,0.0
+5681,HUG1:ALO1,9,210783.0,-0.477570255416918,3.084804826411116,Promoter,Promoter,tI(AAU)I2_NFR/NDR,0,0,0,0.0
+4528,ERV25:EMP47,7,739112.0,-0.575179897997379,3.01330028047007,Promoter,Promoter,tI(AAU)G_NFR/NDR,0,0,0,0.0
+10116,ALO1:ADE17,15,111138.0,0.58005998860367,3.176770590510512,Promoter,Promoter,tG(UCC)O_NFR/NDR,0,0,0,0.0
+11946,RET2:SNA3,16,873367.0,-0.334148284791327,3.409181076604085,ORF,Verified ORF,YPR164W,MMS1,SGDID:S000006368,"""Subunit of E3 ubiquitin ligase complex involved in replication repair; stabilizes protein components of the replication fork such as the fork-pausing complex and leading strand polymerase ; preventing fork collapse and promoting efficient recovery during replication stress; regulates Ty1 transposition; involved with Rtt101p in nonfunctional rRNA decay""",0.0
+11946,HNM1:MID2,16,873367.0,-0.464150146054623,3.0412984593472627,ORF,Verified ORF,YPR164W,MMS1,SGDID:S000006368,"""Subunit of E3 ubiquitin ligase complex involved in replication repair; stabilizes protein components of the replication fork such as the fork-pausing complex and leading strand polymerase ; preventing fork collapse and promoting efficient recovery during replication stress; regulates Ty1 transposition; involved with Rtt101p in nonfunctional rRNA decay""",0.0
+11946,SNA4:GTR2,16,873367.0,-0.478777430046675,3.035921889454804,ORF,Verified ORF,YPR164W,MMS1,SGDID:S000006368,"""Subunit of E3 ubiquitin ligase complex involved in replication repair; stabilizes protein components of the replication fork such as the fork-pausing complex and leading strand polymerase ; preventing fork collapse and promoting efficient recovery during replication stress; regulates Ty1 transposition; involved with Rtt101p in nonfunctional rRNA decay""",0.0
+11945,HUG1:ALO1,16,873246.0,-0.509885800137151,3.438281717259717,ORF,Verified ORF,YPR164W,MMS1,SGDID:S000006368,"""Subunit of E3 ubiquitin ligase complex involved in replication repair; stabilizes protein components of the replication fork such as the fork-pausing complex and leading strand polymerase ; preventing fork collapse and promoting efficient recovery during replication stress; regulates Ty1 transposition; involved with Rtt101p in nonfunctional rRNA decay""",0.0
+11945,ERV25:ERG5,16,873246.0,-0.504656228445388,3.157134035473923,ORF,Verified ORF,YPR164W,MMS1,SGDID:S000006368,"""Subunit of E3 ubiquitin ligase complex involved in replication repair; stabilizes protein components of the replication fork such as the fork-pausing complex and leading strand polymerase ; preventing fork collapse and promoting efficient recovery during replication stress; regulates Ty1 transposition; involved with Rtt101p in nonfunctional rRNA decay""",0.0
+11944,RET2:SNA3,16,873212.0,-0.328128387152106,3.289798966806309,ORF,Verified ORF,YPR164W,MMS1,SGDID:S000006368,"""Subunit of E3 ubiquitin ligase complex involved in replication repair; stabilizes protein components of the replication fork such as the fork-pausing complex and leading strand polymerase ; preventing fork collapse and promoting efficient recovery during replication stress; regulates Ty1 transposition; involved with Rtt101p in nonfunctional rRNA decay""",0.0
+11944,SNA4:GTR2,16,873212.0,-0.493524297202942,3.186645799276492,ORF,Verified ORF,YPR164W,MMS1,SGDID:S000006368,"""Subunit of E3 ubiquitin ligase complex involved in replication repair; stabilizes protein components of the replication fork such as the fork-pausing complex and leading strand polymerase ; preventing fork collapse and promoting efficient recovery during replication stress; regulates Ty1 transposition; involved with Rtt101p in nonfunctional rRNA decay""",0.0
+11942,HUG1:ALO1,16,869725.0,-0.484512621613146,3.192183824021978,ORF,Verified ORF,YPR163C,TIF3,SGDID:S000006367,"""Translation initiation factor eIF-4B; RNA recognition motif containing single-stranded RNA binding protein that possesses RNA annealing and strand-exchange activities; stimulates the ATPase and unwinding activities of the RNA helicase eIF4A ; in a synergistic manner with eIF4G; promotes assembly of the translation initiation factor complex eIF4F and the 48S preinitiation complex; interacts with Rps20p at the head of the 40S ribosomal subunit and alters the structure of the mRNA entry channel""",0.0
+11939,HUG1:ALO1,16,864742.0,-0.481689839673581,3.139278910879725,ORF,Verified ORF,YPR161C,SGV1,SGDID:S000006365,"""Cyclin (Bur2p)-dependent protein kinase; part of the BUR kinase complex which functions in transcriptional regulation; phosphorylates the carboxy-terminal domain (CTD) of Rpo21p and the C-terminal repeat domain of Spt5p; recruits Spt6p to the CTD at the onset of transcription; regulated by Cak1p; similar to metazoan CDK9 proteins""",0.0
+11938,HUG1:ALO1,16,864283.0,-0.494391543483919,3.296571887501483,Close to 3'-UTR,Close to 3'-UTR,YPR160W,GPH1,SGDID:S000006364,"""Glycogen phosphorylase required for the mobilization of glycogen; non-essential; regulated by cyclic AMP-mediated phosphorylation; phosphorylation by Cdc28p may coordinately regulate carbohydrate metabolism and the cell cycle; expression is regulated by stress-response elements and by the HOG MAP kinase pathway""",0.0
+11937,HUG1:ALO1,16,864193.0,-0.488257386321479,3.213752433901292,Close to 3'-UTR,Close to 3'-UTR,YPR160W,GPH1,SGDID:S000006364,"""Glycogen phosphorylase required for the mobilization of glycogen; non-essential; regulated by cyclic AMP-mediated phosphorylation; phosphorylation by Cdc28p may coordinately regulate carbohydrate metabolism and the cell cycle; expression is regulated by stress-response elements and by the HOG MAP kinase pathway""",0.0
+11936,HUG1:ALO1,16,864021.0,-0.476150582735045,3.0648236648695137,Close to 3'-UTR,Close to 3'-UTR,YPR160W,GPH1,SGDID:S000006364,"""Glycogen phosphorylase required for the mobilization of glycogen; non-essential; regulated by cyclic AMP-mediated phosphorylation; phosphorylation by Cdc28p may coordinately regulate carbohydrate metabolism and the cell cycle; expression is regulated by stress-response elements and by the HOG MAP kinase pathway""",0.0
+11935,HUG1:ALO1,16,863978.0,-0.498494443441246,3.3209725576299243,ORF,Verified ORF,YPR160W,GPH1,SGDID:S000006364,"""Glycogen phosphorylase required for the mobilization of glycogen; non-essential; regulated by cyclic AMP-mediated phosphorylation; phosphorylation by Cdc28p may coordinately regulate carbohydrate metabolism and the cell cycle; expression is regulated by stress-response elements and by the HOG MAP kinase pathway""",0.0
+11934,HUG1:ALO1,16,863372.0,-0.498178497729619,3.3347419585222875,ORF,Verified ORF,YPR160W,GPH1,SGDID:S000006364,"""Glycogen phosphorylase required for the mobilization of glycogen; non-essential; regulated by cyclic AMP-mediated phosphorylation; phosphorylation by Cdc28p may coordinately regulate carbohydrate metabolism and the cell cycle; expression is regulated by stress-response elements and by the HOG MAP kinase pathway""",0.0
+11933,HUG1:ALO1,16,863263.0,-0.500886916511002,3.369471036550897,ORF,Verified ORF,YPR160W,GPH1,SGDID:S000006364,"""Glycogen phosphorylase required for the mobilization of glycogen; non-essential; regulated by cyclic AMP-mediated phosphorylation; phosphorylation by Cdc28p may coordinately regulate carbohydrate metabolism and the cell cycle; expression is regulated by stress-response elements and by the HOG MAP kinase pathway""",0.0
+11932,HUG1:ALO1,16,862181.0,-0.498890799972433,3.343050857879578,ORF,Verified ORF,YPR160W,GPH1,SGDID:S000006364,"""Glycogen phosphorylase required for the mobilization of glycogen; non-essential; regulated by cyclic AMP-mediated phosphorylation; phosphorylation by Cdc28p may coordinately regulate carbohydrate metabolism and the cell cycle; expression is regulated by stress-response elements and by the HOG MAP kinase pathway""",0.0
+11930,HUG1:ALO1,16,859953.0,-0.488047992643974,3.0518843285021773,Close to 3'-UTR,Close to 3'-UTR,YPR159W,KRE6,SGDID:S000006363,"""Glucosyl hydrolase required for beta1,6-glucan biosynthesis; type II integral membrane protein that localizes to ER ; plasma membrane ; sites of polarized growth and secretory vesicles; functionally redundant with Skn1p; KRE6 has a paralog ; SKN1 ; that arose from the whole genome duplication""",0.0
+11929,ERG11:MID2,16,859747.0,-0.417635236811808,3.1649817933234634,Close to 3'-UTR,Close to 3'-UTR,YPR159W,KRE6,SGDID:S000006363,"""Glucosyl hydrolase required for beta1,6-glucan biosynthesis; type II integral membrane protein that localizes to ER ; plasma membrane ; sites of polarized growth and secretory vesicles; functionally redundant with Skn1p; KRE6 has a paralog ; SKN1 ; that arose from the whole genome duplication""",0.0
+11928,ERG11:ORM2,16,858824.0,-0.412243585450319,3.234917541622779,ORF,Verified ORF,YPR159W,KRE6,SGDID:S000006363,"""Glucosyl hydrolase required for beta1,6-glucan biosynthesis; type II integral membrane protein that localizes to ER ; plasma membrane ; sites of polarized growth and secretory vesicles; functionally redundant with Skn1p; KRE6 has a paralog ; SKN1 ; that arose from the whole genome duplication""",0.0
+11928,ERG11:MID2,16,858824.0,-0.419422065415823,3.2296243370997635,ORF,Verified ORF,YPR159W,KRE6,SGDID:S000006363,"""Glucosyl hydrolase required for beta1,6-glucan biosynthesis; type II integral membrane protein that localizes to ER ; plasma membrane ; sites of polarized growth and secretory vesicles; functionally redundant with Skn1p; KRE6 has a paralog ; SKN1 ; that arose from the whole genome duplication""",0.0
+11928,HNM1:MID2,16,858824.0,-0.466618223749004,3.1264696168571136,ORF,Verified ORF,YPR159W,KRE6,SGDID:S000006363,"""Glucosyl hydrolase required for beta1,6-glucan biosynthesis; type II integral membrane protein that localizes to ER ; plasma membrane ; sites of polarized growth and secretory vesicles; functionally redundant with Skn1p; KRE6 has a paralog ; SKN1 ; that arose from the whole genome duplication""",0.0
+11927,HUG1:ALO1,16,858788.0,-0.510713445771405,3.4949522506021187,ORF,Verified ORF,YPR159W,KRE6,SGDID:S000006363,"""Glucosyl hydrolase required for beta1,6-glucan biosynthesis; type II integral membrane protein that localizes to ER ; plasma membrane ; sites of polarized growth and secretory vesicles; functionally redundant with Skn1p; KRE6 has a paralog ; SKN1 ; that arose from the whole genome duplication""",0.0
+11927,ERG11:MID2,16,858788.0,-0.421060768898016,3.235704311747412,ORF,Verified ORF,YPR159W,KRE6,SGDID:S000006363,"""Glucosyl hydrolase required for beta1,6-glucan biosynthesis; type II integral membrane protein that localizes to ER ; plasma membrane ; sites of polarized growth and secretory vesicles; functionally redundant with Skn1p; KRE6 has a paralog ; SKN1 ; that arose from the whole genome duplication""",0.0
+11927,ERG11:ORM2,16,858788.0,-0.400786033225771,3.0660309414030498,ORF,Verified ORF,YPR159W,KRE6,SGDID:S000006363,"""Glucosyl hydrolase required for beta1,6-glucan biosynthesis; type II integral membrane protein that localizes to ER ; plasma membrane ; sites of polarized growth and secretory vesicles; functionally redundant with Skn1p; KRE6 has a paralog ; SKN1 ; that arose from the whole genome duplication""",0.0
+11926,HUG1:ALO1,16,857866.0,-0.487872959445431,3.237568148616005,ORF,Verified ORF,YPR159W,KRE6,SGDID:S000006363,"""Glucosyl hydrolase required for beta1,6-glucan biosynthesis; type II integral membrane protein that localizes to ER ; plasma membrane ; sites of polarized growth and secretory vesicles; functionally redundant with Skn1p; KRE6 has a paralog ; SKN1 ; that arose from the whole genome duplication""",0.0
+11919,ALO1:ADE17,16,841449.0,-0.483557100193199,3.035197286898074,ORF,Uncharacterized ORF,YPR157W,TDA6,SGDID:S000006361,"""Putative protein of unknown function; induced by treatment with 8-methoxypsoralen and UVA irradiation; null mutant is sensitive to expression of the top1-T722A allele; SWAT-GFP and mCherry fusion proteins localize to the cell periphery and vacuole; TDA6 has a paralog ; VPS62 ; that arose from the whole genome duplication""",0.0
+11912,HNM1:MID2,16,839159.0,-0.489570562421686,3.278196328389864,ORF,Verified ORF,YPR156C,TPO3,SGDID:S000006360,"""Polyamine transporter of the major facilitator superfamily; member of the 12-spanner drug:H(+) antiporter DHA1 family; specific for spermine; localizes to the plasma membrane; TPO3 has a paralog ; TPO2 ; that arose from the whole genome duplication""",0.0
+11910,HUG1:ALO1,16,836372.0,-0.474352468451649,3.087170046366783,ORF,Verified ORF,YPR155C,NCA2,SGDID:S000006359,"""Protein that regulates expression of Fo-F1 ATP synthase subunits; involved in the regulation of mitochondrial expression of subunits 6 (Atp6p) and 8 (Atp8p) of the Fo-F1 ATP synthase; functions with Nca3p""",0.0
+11904,PMC1:GTR2,16,833135.0,-0.564230326218042,3.345830380153129,ORF,Verified ORF,YPR152C,URN1,SGDID:S000006356,"""Protein of unknown function containing WW and FF domains; overexpression causes accumulation of cells in G1 phase""",0.0
+11904,RET2:EMP70,16,833135.0,-0.340475451267979,3.209079177619814,ORF,Verified ORF,YPR152C,URN1,SGDID:S000006356,"""Protein of unknown function containing WW and FF domains; overexpression causes accumulation of cells in G1 phase""",0.0
+11903,ERG11:MID2,16,831753.0,-0.438090575960242,3.463101618940144,Promoter,Promoter,YPR151C_NFR/NDR,0,0,0,0.0
+11903,TPO1:MID2,16,831753.0,-0.544583794045089,3.411611060552929,Promoter,Promoter,YPR151C_NFR/NDR,0,0,0,0.0
+11903,RET2:EMP70,16,831753.0,-0.339327123158445,3.1885102135128784,Promoter,Promoter,YPR151C_NFR/NDR,0,0,0,0.0
+11902,HNM1:MID2,16,828272.0,-0.524007294090866,3.698114775920136,Promoter,Promoter,YPR148C_NFR/NDR,0,0,stable,0.0
+11902,PMC1:GTR2,16,828272.0,-0.586682323024138,3.479179728319721,Promoter,Promoter,YPR148C_NFR/NDR,0,0,stable,0.0
+11902,HUG1:ALO1,16,828272.0,-0.485232694652543,3.1043813242900646,Promoter,Promoter,YPR148C_NFR/NDR,0,0,stable,0.0
+11902,RET2:SNA3,16,828272.0,-0.317485361507445,3.070861839121908,Promoter,Promoter,YPR148C_NFR/NDR,0,0,stable,0.0
+11902,ERG11:MID2,16,828272.0,-0.414609348232239,3.0593265735804835,Promoter,Promoter,YPR148C_NFR/NDR,0,0,stable,0.0
+11901,HNM1:MID2,16,828223.0,-0.524062241301714,3.748564737451275,Promoter,Promoter,YPR148C_NFR/NDR,0,0,stable,0.0
+11901,PMC1:GTR2,16,828223.0,-0.565866662194228,3.310094000824033,Promoter,Promoter,YPR148C_NFR/NDR,0,0,stable,0.0
+11901,ERG11:MID2,16,828223.0,-0.424127846547742,3.223723716214923,Promoter,Promoter,YPR148C_NFR/NDR,0,0,stable,0.0
+11901,RET2:SNA3,16,828223.0,-0.31609285984786,3.087752221185383,Promoter,Promoter,YPR148C_NFR/NDR,0,0,stable,0.0
+11900,FMP45:HNM1,16,827031.0,-0.450312125573656,3.3360983495628105,ORF,Verified ORF,YPR148C,YPR148C,SGDID:S000006352,"""Protein of unknown function; may interact with ribosomes ; based on co-purification experiments; green fluorescent protein (GFP)-fusion protein localizes to the cytoplasm in a punctate pattern""",0.0
+11900,HUG1:ADE17,16,827031.0,-0.523785387118646,3.098287451582139,ORF,Verified ORF,YPR148C,YPR148C,SGDID:S000006352,"""Protein of unknown function; may interact with ribosomes ; based on co-purification experiments; green fluorescent protein (GFP)-fusion protein localizes to the cytoplasm in a punctate pattern""",0.0
+11900,HNM1:TPO2,16,827031.0,-0.503408360445134,3.0611133146113216,ORF,Verified ORF,YPR148C,YPR148C,SGDID:S000006352,"""Protein of unknown function; may interact with ribosomes ; based on co-purification experiments; green fluorescent protein (GFP)-fusion protein localizes to the cytoplasm in a punctate pattern""",0.0
+11900,DHH1:LSM3,16,827031.0,-0.489739934402332,3.014650648354912,ORF,Verified ORF,YPR148C,YPR148C,SGDID:S000006352,"""Protein of unknown function; may interact with ribosomes ; based on co-purification experiments; green fluorescent protein (GFP)-fusion protein localizes to the cytoplasm in a punctate pattern""",0.0
+11900,SNA4:GTR2,16,827031.0,-0.474910247369892,3.0037791742084305,ORF,Verified ORF,YPR148C,YPR148C,SGDID:S000006352,"""Protein of unknown function; may interact with ribosomes ; based on co-purification experiments; green fluorescent protein (GFP)-fusion protein localizes to the cytoplasm in a punctate pattern""",0.0
+11899,ERG11:MID2,16,825433.0,-0.441886060655779,3.5007257534767966,ORF,Dubious ORF,YPR146C,YPR146C,SGDID:S000006350,"""Dubious open reading frame; unlikely to encode a functional protein ; based on available experimental and comparative sequence data""",0.0
+11899,HNM1:MID2,16,825433.0,-0.500683720373076,3.4979087589711995,ORF,Dubious ORF,YPR146C,YPR146C,SGDID:S000006350,"""Dubious open reading frame; unlikely to encode a functional protein ; based on available experimental and comparative sequence data""",0.0
+11899,RET2:EMP70,16,825433.0,-0.348038615428153,3.3178160990400087,ORF,Dubious ORF,YPR146C,YPR146C,SGDID:S000006350,"""Dubious open reading frame; unlikely to encode a functional protein ; based on available experimental and comparative sequence data""",0.0
+11899,FMP45:HNM1,16,825433.0,-0.429819602735401,3.092551442834809,ORF,Dubious ORF,YPR146C,YPR146C,SGDID:S000006350,"""Dubious open reading frame; unlikely to encode a functional protein ; based on available experimental and comparative sequence data""",0.0
+11898,RET2:EMP70,16,823418.0,-0.356399903406705,3.4910374483268978,ORF,Verified ORF,YPR145W,ASN1,SGDID:S000006349,"""Asparagine synthetase; catalyzes the synthesis of L-asparagine from L-aspartate in the asparagine biosynthetic pathway; ASN1 has a paralog ; ASN2 ; that arose from the whole genome duplication""",0.0
+11898,ERG11:MID2,16,823418.0,-0.431313199534701,3.3875259156945163,ORF,Verified ORF,YPR145W,ASN1,SGDID:S000006349,"""Asparagine synthetase; catalyzes the synthesis of L-asparagine from L-aspartate in the asparagine biosynthetic pathway; ASN1 has a paralog ; ASN2 ; that arose from the whole genome duplication""",0.0
+11898,FMP45:HNM1,16,823418.0,-0.439094680051356,3.2391551774571994,ORF,Verified ORF,YPR145W,ASN1,SGDID:S000006349,"""Asparagine synthetase; catalyzes the synthesis of L-asparagine from L-aspartate in the asparagine biosynthetic pathway; ASN1 has a paralog ; ASN2 ; that arose from the whole genome duplication""",0.0
+11898,RET2:EMP47,16,823418.0,-0.322506258529261,3.184686468088343,ORF,Verified ORF,YPR145W,ASN1,SGDID:S000006349,"""Asparagine synthetase; catalyzes the synthesis of L-asparagine from L-aspartate in the asparagine biosynthetic pathway; ASN1 has a paralog ; ASN2 ; that arose from the whole genome duplication""",0.0
+11898,MID2:TPO4,16,823418.0,-0.548610085227806,3.1666903163791345,ORF,Verified ORF,YPR145W,ASN1,SGDID:S000006349,"""Asparagine synthetase; catalyzes the synthesis of L-asparagine from L-aspartate in the asparagine biosynthetic pathway; ASN1 has a paralog ; ASN2 ; that arose from the whole genome duplication""",0.0
+11898,MID2:PIN2,16,823418.0,-0.474104063764073,3.1634467628002807,ORF,Verified ORF,YPR145W,ASN1,SGDID:S000006349,"""Asparagine synthetase; catalyzes the synthesis of L-asparagine from L-aspartate in the asparagine biosynthetic pathway; ASN1 has a paralog ; ASN2 ; that arose from the whole genome duplication""",0.0
+11898,HUG1:ALO1,16,823418.0,-0.474209147759002,3.084555478010454,ORF,Verified ORF,YPR145W,ASN1,SGDID:S000006349,"""Asparagine synthetase; catalyzes the synthesis of L-asparagine from L-aspartate in the asparagine biosynthetic pathway; ASN1 has a paralog ; ASN2 ; that arose from the whole genome duplication""",0.0
+11897,RET2:EMP70,16,823324.0,-0.365147375283137,3.6532243834408207,ORF,Verified ORF,YPR145W,ASN1,SGDID:S000006349,"""Asparagine synthetase; catalyzes the synthesis of L-asparagine from L-aspartate in the asparagine biosynthetic pathway; ASN1 has a paralog ; ASN2 ; that arose from the whole genome duplication""",0.0
+11897,ERG11:MID2,16,823324.0,-0.426969750759922,3.337690410465457,ORF,Verified ORF,YPR145W,ASN1,SGDID:S000006349,"""Asparagine synthetase; catalyzes the synthesis of L-asparagine from L-aspartate in the asparagine biosynthetic pathway; ASN1 has a paralog ; ASN2 ; that arose from the whole genome duplication""",0.0
+11897,FMP45:HNM1,16,823324.0,-0.443923620218217,3.310607126992532,ORF,Verified ORF,YPR145W,ASN1,SGDID:S000006349,"""Asparagine synthetase; catalyzes the synthesis of L-asparagine from L-aspartate in the asparagine biosynthetic pathway; ASN1 has a paralog ; ASN2 ; that arose from the whole genome duplication""",0.0
+11897,RET2:EMP47,16,823324.0,-0.328139803670509,3.2910733494434083,ORF,Verified ORF,YPR145W,ASN1,SGDID:S000006349,"""Asparagine synthetase; catalyzes the synthesis of L-asparagine from L-aspartate in the asparagine biosynthetic pathway; ASN1 has a paralog ; ASN2 ; that arose from the whole genome duplication""",0.0
+11897,HUG1:ALO1,16,823324.0,-0.487250111504693,3.2418797748673787,ORF,Verified ORF,YPR145W,ASN1,SGDID:S000006349,"""Asparagine synthetase; catalyzes the synthesis of L-asparagine from L-aspartate in the asparagine biosynthetic pathway; ASN1 has a paralog ; ASN2 ; that arose from the whole genome duplication""",0.0
+11897,SSH1:ERG11,16,823324.0,-0.515932191467686,3.1680898806032745,ORF,Verified ORF,YPR145W,ASN1,SGDID:S000006349,"""Asparagine synthetase; catalyzes the synthesis of L-asparagine from L-aspartate in the asparagine biosynthetic pathway; ASN1 has a paralog ; ASN2 ; that arose from the whole genome duplication""",0.0
+11897,SNA4:GTR2,16,823324.0,-0.482122680954324,3.1358412548778043,ORF,Verified ORF,YPR145W,ASN1,SGDID:S000006349,"""Asparagine synthetase; catalyzes the synthesis of L-asparagine from L-aspartate in the asparagine biosynthetic pathway; ASN1 has a paralog ; ASN2 ; that arose from the whole genome duplication""",0.0
+11897,MID2:TPO4,16,823324.0,-0.54081371036088,3.097968193461742,ORF,Verified ORF,YPR145W,ASN1,SGDID:S000006349,"""Asparagine synthetase; catalyzes the synthesis of L-asparagine from L-aspartate in the asparagine biosynthetic pathway; ASN1 has a paralog ; ASN2 ; that arose from the whole genome duplication""",0.0
+11896,ALO1:ADE17,16,822959.0,-0.490587363815354,3.108151415476659,ORF,Verified ORF,YPR145W,ASN1,SGDID:S000006349,"""Asparagine synthetase; catalyzes the synthesis of L-asparagine from L-aspartate in the asparagine biosynthetic pathway; ASN1 has a paralog ; ASN2 ; that arose from the whole genome duplication""",0.0
+11895,ERV25:ERG5,16,821586.0,-0.504726193489785,3.0490842459514096,Promoter,Promoter,YPR144C_NFR/NDR,0,0,fragile,0.0
+11893,ALO1:HYR1,16,818804.0,-0.504817226270588,3.3237103749328605,ORF,Verified ORF,YPR143W,RRP15,SGDID:S000006347,"""Nucleolar protein; constituent of pre-60S ribosomal particles; required for proper processing of the 27S pre-rRNA at the A3 and B1 sites to yield mature 5.8S and 25S rRNAs""",0.0
+11893,FMP45:HNM1,16,818804.0,-0.43480208642578,3.1310374927200533,ORF,Verified ORF,YPR143W,RRP15,SGDID:S000006347,"""Nucleolar protein; constituent of pre-60S ribosomal particles; required for proper processing of the 27S pre-rRNA at the A3 and B1 sites to yield mature 5.8S and 25S rRNAs""",0.0
+11893,HNM1:MID2,16,818804.0,-0.468340629256331,3.090970976065746,ORF,Verified ORF,YPR143W,RRP15,SGDID:S000006347,"""Nucleolar protein; constituent of pre-60S ribosomal particles; required for proper processing of the 27S pre-rRNA at the A3 and B1 sites to yield mature 5.8S and 25S rRNAs""",0.0
+11892,FMP45:HNM1,16,814192.0,-0.431440063183688,3.0971765287227964,Promoter,Promoter,YPR140W_NFR/NDR,0,0,fragile,0.0
+11892,HNM1:MID2,16,814192.0,-0.4653254204325,3.064472209752372,Promoter,Promoter,YPR140W_NFR/NDR,0,0,fragile,0.0
+11892,HNM1:ERG11,16,814192.0,-0.513083952176676,3.035592931837221,Promoter,Promoter,YPR140W_NFR/NDR,0,0,fragile,0.0
+11880,HNM1:MID2,16,793703.0,-0.464414371547754,3.061468023191845,ORF,Verified ORF,YPR129W,SCD6,SGDID:S000006333,"""Repressor of translation initiation; binds eIF4G through its RGG domain and inhibits recruitment of the preinitiation complex; also contains an Lsm domain; may have a role in RNA processing; overproduction suppresses null mutation in clathrin heavy chain gene CHC1; forms cytoplasmic foci upon DNA replication stress""",0.0
+11377,GTR1:SLM4,16,228836.0,-0.49761727127118,3.162725234113044,Close to 3'-UTR,Close to 3'-UTR,YPL170W,DAP1,SGDID:S000006091,"""Heme-binding protein; involved in regulation of cytochrome P450 protein Erg11p; damage response protein ; related to mammalian membrane progesterone receptors; mutations lead to defects in telomeres ; mitochondria ; and sterol synthesis""",0.0
+11395,HUG1:ALO1,16,246835.0,-0.742449751277488,3.131218993044309,Promoter,Promoter,YPL160W_NFR/NDR,0,0,stable,0.0
+11544,MID2:WSC2,16,391737.0,0.511108339714579,3.0346767700802224,ORF,Verified ORF,YPL085W,SEC16,SGDID:S000006006,"""COPII vesicle coat protein required for ER transport vesicle budding; essential factor in endoplasmic reticulum exit site (ERES) formation ; as well as in COPII-mediated ER-to-Golgi traffic; bound to periphery of ER membranes and may act to stabilize initial COPII complexes; interacts with Sec23p ; Sec24p and Sec31p""",0.0
+10885,ERG11:ERV25,15,907053.0,0.402865982048293,3.259286577703525,ORF,Verified ORF,YOR316C,COT1,SGDID:S000005843,"""Vacuolar transporter that mediates zinc transport into the vacuole; overexpression confers resistance to cobalt and rhodium; protein abundance increases in response to DNA replication stress; COT1 has a paralog ; ZRC1 ; that arose from the whole genome duplication""",0.0
+10867,ADE17:PGM2,15,888108.0,-0.454014772306481,3.3244650037701065,Close to 3'-UTR,Close to 3'-UTR,YOR304W,ISW2,SGDID:S000005831,"""ATP-dependent DNA translocase involved in chromatin remodeling; ATPase component that ; with Itc1p ; forms a complex required for repression of a-specific genes ; INO1 ; and early meiotic genes during mitotic growth; exhibits basal levels of chromatin binding throughout the genome as well as interacts with sequence-specific factors to accurately position nucleosomes in chromatin; targeted by Ume6p- and Sua7p-dependent DNA looping to many loci genome-wide""",0.0
+10866,ADE17:PGM2,15,887279.0,-0.475317883568916,3.610671147133321,ORF,Verified ORF,YOR304W,ISW2,SGDID:S000005831,"""ATP-dependent DNA translocase involved in chromatin remodeling; ATPase component that ; with Itc1p ; forms a complex required for repression of a-specific genes ; INO1 ; and early meiotic genes during mitotic growth; exhibits basal levels of chromatin binding throughout the genome as well as interacts with sequence-specific factors to accurately position nucleosomes in chromatin; targeted by Ume6p- and Sua7p-dependent DNA looping to many loci genome-wide""",0.0
+10865,ADE17:PGM2,15,887134.0,-0.498552204649605,3.937655985930672,ORF,Verified ORF,YOR304W,ISW2,SGDID:S000005831,"""ATP-dependent DNA translocase involved in chromatin remodeling; ATPase component that ; with Itc1p ; forms a complex required for repression of a-specific genes ; INO1 ; and early meiotic genes during mitotic growth; exhibits basal levels of chromatin binding throughout the genome as well as interacts with sequence-specific factors to accurately position nucleosomes in chromatin; targeted by Ume6p- and Sua7p-dependent DNA looping to many loci genome-wide""",0.0
+10864,ADE17:PGM2,15,885299.0,-0.467881708392519,3.5194289027750045,ORF,Verified ORF,YOR304W,ISW2,SGDID:S000005831,"""ATP-dependent DNA translocase involved in chromatin remodeling; ATPase component that ; with Itc1p ; forms a complex required for repression of a-specific genes ; INO1 ; and early meiotic genes during mitotic growth; exhibits basal levels of chromatin binding throughout the genome as well as interacts with sequence-specific factors to accurately position nucleosomes in chromatin; targeted by Ume6p- and Sua7p-dependent DNA looping to many loci genome-wide""",0.0
+10856,ADE17:PGM2,15,873261.0,-0.437480990750884,3.1252458417891207,ORF,Uncharacterized ORF,YOR296W,YOR296W,SGDID:S000005822,"""Putative protein of unknown function; green fluorescent protein (GFP)-fusion protein localizes to the cytoplasm; expressed during copper starvation; YOR296W is not an essential gene""",0.0
+10855,ADE17:PGM2,15,870871.0,-0.48729715128372,3.770470476045893,ORF,Uncharacterized ORF,YOR296W,YOR296W,SGDID:S000005822,"""Putative protein of unknown function; green fluorescent protein (GFP)-fusion protein localizes to the cytoplasm; expressed during copper starvation; YOR296W is not an essential gene""",0.0
+10852,ADE17:PGM2,15,866920.0,-0.463283060561144,3.477867739157684,Promoter,Promoter,YOR293W_NFR/NDR,0,0,fragile,0.0
+10851,ADE17:PGM2,15,866884.0,-0.463514783919001,3.4726870712304705,Promoter,Promoter,YOR293W_NFR/NDR,0,0,fragile,0.0
+10854,ADE17:PGM2,15,868064.0,-0.473349929649082,3.378261543381808,ORF,Uncharacterized ORF,YOR293C-A,YOR293C-A,SGDID:S000028858,"""Putative protein of unknown function; identified by expression profiling and mass spectrometry""",0.0
+10853,ADE17:PGM2,15,867290.0,-0.496070754652938,3.8949589521771655,Close to 3'-UTR,Close to 3'-UTR,YOR292C,YOR292C,SGDID:S000005818,"""Putative protein of unknown function; green fluorescent protein (GFP)-fusion protein localizes to the vacuole; YOR292C is not an essential gene""",0.0
+10850,ADE17:PGM2,15,864445.0,-0.47491844626205,3.6247523957783887,ORF,Verified ORF,YOR291W,YPK9,SGDID:S000005817,"""Vacuolar protein with a possible role in sequestering heavy metals; has similarity to the type V P-type ATPase Spf1p; homolog of human ATP13A2 (PARK9) ; mutations in which are associated with Parkinson disease and Kufor-Rakeb syndrome""",0.0
+10849,ADE17:PGM2,15,864150.0,-0.443543472463117,3.199513930601644,ORF,Verified ORF,YOR291W,YPK9,SGDID:S000005817,"""Vacuolar protein with a possible role in sequestering heavy metals; has similarity to the type V P-type ATPase Spf1p; homolog of human ATP13A2 (PARK9) ; mutations in which are associated with Parkinson disease and Kufor-Rakeb syndrome""",0.0
+10848,ADE17:PGM2,15,863468.0,-0.491514453797234,3.781072076421821,ORF,Verified ORF,YOR291W,YPK9,SGDID:S000005817,"""Vacuolar protein with a possible role in sequestering heavy metals; has similarity to the type V P-type ATPase Spf1p; homolog of human ATP13A2 (PARK9) ; mutations in which are associated with Parkinson disease and Kufor-Rakeb syndrome""",0.0
+10847,ADE17:PGM2,15,863324.0,-0.47071588234105,3.5391529453552364,ORF,Verified ORF,YOR291W,YPK9,SGDID:S000005817,"""Vacuolar protein with a possible role in sequestering heavy metals; has similarity to the type V P-type ATPase Spf1p; homolog of human ATP13A2 (PARK9) ; mutations in which are associated with Parkinson disease and Kufor-Rakeb syndrome""",0.0
+10847,ERV25:EMP47,15,863324.0,-0.574247449367688,3.040642222260616,ORF,Verified ORF,YOR291W,YPK9,SGDID:S000005817,"""Vacuolar protein with a possible role in sequestering heavy metals; has similarity to the type V P-type ATPase Spf1p; homolog of human ATP13A2 (PARK9) ; mutations in which are associated with Parkinson disease and Kufor-Rakeb syndrome""",0.0
+10846,ADE17:PGM2,15,861655.0,-0.464606703038629,3.49105389208225,ORF,Verified ORF,YOR291W,YPK9,SGDID:S000005817,"""Vacuolar protein with a possible role in sequestering heavy metals; has similarity to the type V P-type ATPase Spf1p; homolog of human ATP13A2 (PARK9) ; mutations in which are associated with Parkinson disease and Kufor-Rakeb syndrome""",0.0
+10842,ADE17:PGM2,15,859618.0,-0.4496043695622,3.2854974972512885,ORF,Verified ORF,YOR290C,SNF2,SGDID:S000005816,"""Catalytic subunit of the SWI/SNF chromatin remodeling complex; involved in transcriptional regulation; contains DNA-stimulated ATPase activity; functions interdependently in transcriptional activation with Snf5p and Snf6p""",0.0
+10842,ERV25:EMP47,15,859618.0,-0.590579525400892,3.2098225975378085,ORF,Verified ORF,YOR290C,SNF2,SGDID:S000005816,"""Catalytic subunit of the SWI/SNF chromatin remodeling complex; involved in transcriptional regulation; contains DNA-stimulated ATPase activity; functions interdependently in transcriptional activation with Snf5p and Snf6p""",0.0
+10609,TPO1:TCB2,15,645672.0,-0.468315914850123,3.2625034243931466,ORF,Verified ORF,YOR165W,SEY1,SGDID:S000005691,"""Dynamin-like GTPase that mediates homotypic ER fusion; has a role in ER morphology; interacts physically and genetically with Yop1p and Rtn1p; functional ortholog of the human atlastin ATL1 ; defects in which cause a form of the human disease hereditary spastic paraplegia; homolog of Arabidopsis RHD3""",0.0
+10481,noPPI:reference,15,486874.0,-0.697064350248194,3.74659608746028,Close to 3'-UTR,Close to 3'-UTR,YOR086C,TCB1,SGDID:S000005612,"""Lipid-binding ER protein involved in ER-plasma membrane tethering; one of 6 proteins (Ist2p ; Scs2p ; Scs22p ; Tcb1p ; Tcb2p ; Tcb3p) that connect ER to plasma membrane and regulate PI4P levels by controlling access of Sac1p phosphatase to its substrate PI4P in PM; contains 3 calcium and lipid binding domains; non-tagged protein also localizes to mitochondria; C-termini of Tcb1p ; Tcb2p and Tcb3p interact; TCB1 has a paralog ; TCB2 ; that arose from the whole genome duplication""",0.0
+10480,SSH1:ERG11,15,484698.0,-0.550003980437111,3.5415010046009727,ORF,Verified ORF,YOR086C,TCB1,SGDID:S000005612,"""Lipid-binding ER protein involved in ER-plasma membrane tethering; one of 6 proteins (Ist2p ; Scs2p ; Scs22p ; Tcb1p ; Tcb2p ; Tcb3p) that connect ER to plasma membrane and regulate PI4P levels by controlling access of Sac1p phosphatase to its substrate PI4P in PM; contains 3 calcium and lipid binding domains; non-tagged protein also localizes to mitochondria; C-termini of Tcb1p ; Tcb2p and Tcb3p interact; TCB1 has a paralog ; TCB2 ; that arose from the whole genome duplication""",0.0
+10479,SSH1:ERG11,15,483470.0,-0.519091175655622,3.192790477003344,ORF,Verified ORF,YOR086C,TCB1,SGDID:S000005612,"""Lipid-binding ER protein involved in ER-plasma membrane tethering; one of 6 proteins (Ist2p ; Scs2p ; Scs22p ; Tcb1p ; Tcb2p ; Tcb3p) that connect ER to plasma membrane and regulate PI4P levels by controlling access of Sac1p phosphatase to its substrate PI4P in PM; contains 3 calcium and lipid binding domains; non-tagged protein also localizes to mitochondria; C-termini of Tcb1p ; Tcb2p and Tcb3p interact; TCB1 has a paralog ; TCB2 ; that arose from the whole genome duplication""",0.0
+10439,SRO9:DHH1,15,448820.0,-0.989789872096459,3.459894307524812,Close to 3'-UTR,Close to 3'-UTR,YOR065W,CYT1,SGDID:S000005591,"""Cytochrome c1; component of the mitochondrial respiratory chain; expression is regulated by the heme-activated ; glucose-repressed Hap2p/3p/4p/5p CCAAT-binding complex""",0.0
+10439,ERG11:TPO4,15,448820.0,-0.886923142346448,3.277216295973284,Close to 3'-UTR,Close to 3'-UTR,YOR065W,CYT1,SGDID:S000005591,"""Cytochrome c1; component of the mitochondrial respiratory chain; expression is regulated by the heme-activated ; glucose-repressed Hap2p/3p/4p/5p CCAAT-binding complex""",0.0
+10439,FMP45:MID2,15,448820.0,-0.886427913807551,3.0650662934510997,Close to 3'-UTR,Close to 3'-UTR,YOR065W,CYT1,SGDID:S000005591,"""Cytochrome c1; component of the mitochondrial respiratory chain; expression is regulated by the heme-activated ; glucose-repressed Hap2p/3p/4p/5p CCAAT-binding complex""",0.0
+10438,MID2:TPO2,15,448815.0,-0.902464758944551,3.428161112698824,Close to 3'-UTR,Close to 3'-UTR,YOR065W,CYT1,SGDID:S000005591,"""Cytochrome c1; component of the mitochondrial respiratory chain; expression is regulated by the heme-activated ; glucose-repressed Hap2p/3p/4p/5p CCAAT-binding complex""",0.0
+10438,FMP45:MID2,15,448815.0,-0.77565934467445,3.13604514273307,Close to 3'-UTR,Close to 3'-UTR,YOR065W,CYT1,SGDID:S000005591,"""Cytochrome c1; component of the mitochondrial respiratory chain; expression is regulated by the heme-activated ; glucose-repressed Hap2p/3p/4p/5p CCAAT-binding complex""",0.0
+10438,FMP45:HNM1,15,448815.0,-0.684141378758548,3.016464036059704,Close to 3'-UTR,Close to 3'-UTR,YOR065W,CYT1,SGDID:S000005591,"""Cytochrome c1; component of the mitochondrial respiratory chain; expression is regulated by the heme-activated ; glucose-repressed Hap2p/3p/4p/5p CCAAT-binding complex""",0.0
+10427,MID2:TPO4,15,439078.0,-0.693893282574507,4.559734202614399,ORF,Verified ORF,YOR059C,LPL1,SGDID:S000005585,"""Phospholipase; contains lipase specific GXSXG motif; maintains lipid droplet (LD) morphology; induced by transcription factor Rpn4p; protein abundance increases in response to DNA replication stress""",0.0
+10427,MID2:TPO2,15,439078.0,-0.625092095504096,4.008616656944153,ORF,Verified ORF,YOR059C,LPL1,SGDID:S000005585,"""Phospholipase; contains lipase specific GXSXG motif; maintains lipid droplet (LD) morphology; induced by transcription factor Rpn4p; protein abundance increases in response to DNA replication stress""",0.0
+10427,RET2:EMP47,15,439078.0,-0.361686208351279,3.7006416636427857,ORF,Verified ORF,YOR059C,LPL1,SGDID:S000005585,"""Phospholipase; contains lipase specific GXSXG motif; maintains lipid droplet (LD) morphology; induced by transcription factor Rpn4p; protein abundance increases in response to DNA replication stress""",0.0
+10427,MID2:WSC2,15,439078.0,-0.549620063907888,3.307004303192792,ORF,Verified ORF,YOR059C,LPL1,SGDID:S000005585,"""Phospholipase; contains lipase specific GXSXG motif; maintains lipid droplet (LD) morphology; induced by transcription factor Rpn4p; protein abundance increases in response to DNA replication stress""",0.0
+10427,RET2:EMP70,15,439078.0,-0.338231047304308,3.0327657355072515,ORF,Verified ORF,YOR059C,LPL1,SGDID:S000005585,"""Phospholipase; contains lipase specific GXSXG motif; maintains lipid droplet (LD) morphology; induced by transcription factor Rpn4p; protein abundance increases in response to DNA replication stress""",0.0
+10426,MID2:TPO4,15,433993.0,-0.650455533854242,4.260460683660842,ORF,Verified ORF,YOR058C,ASE1,SGDID:S000005584,"""Mitotic spindle midzone-localized microtubule bundling protein; microtubule-associated protein (MAP) family member; required for spindle elongation and stabilization; undergoes cell cycle-regulated degradation by anaphase promoting complex; potential Cdc28p substrate; relative distribution to microtubules decreases upon DNA replication stress""",0.0
+10426,DHH1:LSM3,15,433993.0,-0.536134366257072,3.5678955933500816,ORF,Verified ORF,YOR058C,ASE1,SGDID:S000005584,"""Mitotic spindle midzone-localized microtubule bundling protein; microtubule-associated protein (MAP) family member; required for spindle elongation and stabilization; undergoes cell cycle-regulated degradation by anaphase promoting complex; potential Cdc28p substrate; relative distribution to microtubules decreases upon DNA replication stress""",0.0
+10426,MID2:TPO2,15,433993.0,-0.551670220555648,3.3727759993683675,ORF,Verified ORF,YOR058C,ASE1,SGDID:S000005584,"""Mitotic spindle midzone-localized microtubule bundling protein; microtubule-associated protein (MAP) family member; required for spindle elongation and stabilization; undergoes cell cycle-regulated degradation by anaphase promoting complex; potential Cdc28p substrate; relative distribution to microtubules decreases upon DNA replication stress""",0.0
+10426,MID2:MAM33,15,433993.0,-0.535407114913206,3.0320379496487293,ORF,Verified ORF,YOR058C,ASE1,SGDID:S000005584,"""Mitotic spindle midzone-localized microtubule bundling protein; microtubule-associated protein (MAP) family member; required for spindle elongation and stabilization; undergoes cell cycle-regulated degradation by anaphase promoting complex; potential Cdc28p substrate; relative distribution to microtubules decreases upon DNA replication stress""",0.0
+10425,RET2:EMP47,15,430047.0,-0.376293098607832,4.109200558244155,Promoter,Promoter,YOR054C_NFR/NDR,0,0,fragile,0.0
+10425,PMC1:CTR2,15,430047.0,-0.574056325595756,3.374342127437742,Promoter,Promoter,YOR054C_NFR/NDR,0,0,fragile,0.0
+10413,ERG11:MID2,15,421830.0,-0.406000873126084,3.026969133500856,Promoter,Promoter,YOR048C_NFR/NDR,0,0,fragile,0.0
+10179,SRO9:GIS2,15,165912.0,-0.376943020375569,3.1860095373466453,ORF,Verified ORF,YOL083W,ATG34,SGDID:S000005443,"""Receptor protein involved in selective autophagy during starvation; specifically involved in the transport of cargo protein alpha-mannosidase (Ams1p); Atg19p paralog""",0.0
+10179,ADE17:GIS2,15,165912.0,-0.572773401929443,3.166691421060308,ORF,Verified ORF,YOL083W,ATG34,SGDID:S000005443,"""Receptor protein involved in selective autophagy during starvation; specifically involved in the transport of cargo protein alpha-mannosidase (Ams1p); Atg19p paralog""",0.0
+10185,SRO9:GIS2,15,169414.0,-0.391476905565954,3.446813713333021,ORF,Verified ORF,YOL082W,ATG19,SGDID:S000005442,"""Receptor protein for the cytoplasm-to-vacuole targeting (Cvt) pathway; delivers cargo proteins aminopeptidase I (Ape1p) and alpha-mannosidase (Ams1p) to the phagophore assembly site for packaging into Cvt vesicles; interaction with Atg19p during the Cvt pathway requires phosphorylation by Hrr25p""",0.0
+10184,SRO9:GIS2,15,168689.0,-0.357950308335814,3.0245707407992453,Close to 3'-UTR,Close to 3'-UTR,YOL082W,ATG19,SGDID:S000005442,"""Receptor protein for the cytoplasm-to-vacuole targeting (Cvt) pathway; delivers cargo proteins aminopeptidase I (Ape1p) and alpha-mannosidase (Ams1p) to the phagophore assembly site for packaging into Cvt vesicles; interaction with Atg19p during the Cvt pathway requires phosphorylation by Hrr25p""",0.0
+10183,SRO9:GIS2,15,168592.0,-0.358970420278482,3.05571873220271,Close to 3'-UTR,Close to 3'-UTR,YOL082W,ATG19,SGDID:S000005442,"""Receptor protein for the cytoplasm-to-vacuole targeting (Cvt) pathway; delivers cargo proteins aminopeptidase I (Ape1p) and alpha-mannosidase (Ams1p) to the phagophore assembly site for packaging into Cvt vesicles; interaction with Atg19p during the Cvt pathway requires phosphorylation by Hrr25p""",0.0
+10195,HNM1:MAM33,15,179652.0,-0.553964917717616,3.0315853294755817,ORF,Verified ORF,YOL081W,IRA2,SGDID:S000005441,"""GTPase-activating protein; negatively regulates RAS by converting it from the GTP- to the GDP-bound inactive form ; required for reducing cAMP levels under nutrient limiting conditions; IRA2 has a paralog ; IRA1 ; that arose from the whole genome duplication; defects in human homolog NF1 are associated with neurofibromatosis""",0.0
+10193,ADE17:GIS2,15,172102.0,-0.574198974507331,3.2190655127747347,ORF,Verified ORF,YOL081W,IRA2,SGDID:S000005441,"""GTPase-activating protein; negatively regulates RAS by converting it from the GTP- to the GDP-bound inactive form ; required for reducing cAMP levels under nutrient limiting conditions; IRA2 has a paralog ; IRA1 ; that arose from the whole genome duplication; defects in human homolog NF1 are associated with neurofibromatosis""",0.0
+10192,SRO9:GIS2,15,172074.0,-0.374551322986337,3.3227642378604414,ORF,Verified ORF,YOL081W,IRA2,SGDID:S000005441,"""GTPase-activating protein; negatively regulates RAS by converting it from the GTP- to the GDP-bound inactive form ; required for reducing cAMP levels under nutrient limiting conditions; IRA2 has a paralog ; IRA1 ; that arose from the whole genome duplication; defects in human homolog NF1 are associated with neurofibromatosis""",0.0
+10192,ADE17:GIS2,15,172074.0,-0.556433169909361,3.175623137179324,ORF,Verified ORF,YOL081W,IRA2,SGDID:S000005441,"""GTPase-activating protein; negatively regulates RAS by converting it from the GTP- to the GDP-bound inactive form ; required for reducing cAMP levels under nutrient limiting conditions; IRA2 has a paralog ; IRA1 ; that arose from the whole genome duplication; defects in human homolog NF1 are associated with neurofibromatosis""",0.0
+10191,SRO9:GIS2,15,171671.0,-0.383379716159593,3.3650829536202607,ORF,Verified ORF,YOL081W,IRA2,SGDID:S000005441,"""GTPase-activating protein; negatively regulates RAS by converting it from the GTP- to the GDP-bound inactive form ; required for reducing cAMP levels under nutrient limiting conditions; IRA2 has a paralog ; IRA1 ; that arose from the whole genome duplication; defects in human homolog NF1 are associated with neurofibromatosis""",0.0
+10198,SRO9:GIS2,15,181071.0,-0.419629221302249,4.012909511432857,ORF,Verified ORF,YOL080C,REX4,SGDID:S000005440,"""Putative RNA exonuclease; possibly involved in pre-rRNA processing and ribosome assembly""",0.0
+10198,ADE17:GIS2,15,181071.0,-0.568646939568523,3.260956745733547,ORF,Verified ORF,YOL080C,REX4,SGDID:S000005440,"""Putative RNA exonuclease; possibly involved in pre-rRNA processing and ribosome assembly""",0.0
+10197,SRO9:GIS2,15,180978.0,-0.410108714381098,3.78854187789864,ORF,Verified ORF,YOL080C,REX4,SGDID:S000005440,"""Putative RNA exonuclease; possibly involved in pre-rRNA processing and ribosome assembly""",0.0
+10197,ADE17:GIS2,15,180978.0,-0.572282174191859,3.2433538464872997,ORF,Verified ORF,YOL080C,REX4,SGDID:S000005440,"""Putative RNA exonuclease; possibly involved in pre-rRNA processing and ribosome assembly""",0.0
+10196,ADE17:GIS2,15,180876.0,-0.589955956937511,3.398171863641855,ORF,Verified ORF,YOL080C,REX4,SGDID:S000005440,"""Putative RNA exonuclease; possibly involved in pre-rRNA processing and ribosome assembly""",0.0
+10196,SRO9:GIS2,15,180876.0,-0.376323041006108,3.238291454702914,ORF,Verified ORF,YOL080C,REX4,SGDID:S000005440,"""Putative RNA exonuclease; possibly involved in pre-rRNA processing and ribosome assembly""",0.0
+10199,SRO9:GIS2,15,181986.0,-0.359620005070407,3.111457339986617,ORF,Verified ORF,YOL078W,AVO1,SGDID:S000005438,"""Component of a membrane-bound complex containing the Tor2p kinase; contains Tor2p kinase and other proteins; may have a role in regulation of cell growth""",0.0
+10326,ERG11:ORM2,15,300497.0,-0.463515342786495,3.030321786602408,Promoter,Promoter,YOL013W-A_NFR/NDR,0,0,stable,0.0
+9973,HUG1:ADE17,14,755761.0,-0.535559528481281,3.254846634922306,ORF,Verified ORF,YNR067C,DSE4,SGDID:S000005350,"""Daughter cell-specific secreted protein with similarity to glucanases; degrades cell wall from the daughter side causing daughter to separate from mother""",0.0
+9956,HUG1:ADE17,14,753367.0,-0.516224013085499,3.0213525710746554,ORF,Uncharacterized ORF,YNR065C,YNR065C,SGDID:S000005348,"""Protein of unknown function; protein-protein interactions suggest a possible role in actin patch formation; YNR065C is not an essential gene""",0.0
+9433,ALO1:UIP4,14,237449.0,-0.574001076473659,3.266991936869004,ORF,Verified ORF,YNL219C,ALG9,SGDID:S000005163,"""Mannosyltransferase ; involved in N-linked glycosylation; catalyzes the transfer of both the seventh mannose residue on B-arm and ninth mannose residue on the C-arm from Dol-P-Man to lipid-linked oligosaccharides; human homolog ALG9 can complement yeast null mutant; mutation of human homolog causes type 1 congenital disorders of glycosylation""",0.0
+9436,SSH1:ERG11,14,241034.0,-0.504492711768067,3.044478500752191,ORF,Verified ORF,YNL217W,PPN2,SGDID:S000005161,"""Zn2+-dependent endopolyphosphatase; required with PPN1 to mobilize polyphosphate stores in response to phosphate starvation; member of the PPP-superfamily of metalloproteases; localizes to the vacuolar lumen via the MVB pathway; null mutant is highly sensitive to azaserine and resistant to sodium-O-vandate""",0.0
+9438,SSH1:ERG11,14,241965.0,-0.520494239391544,3.2048709249816687,ORF,Verified ORF,YNL216W,RAP1,SGDID:S000005160,"""Essential DNA-binding transcription regulator that binds many loci; involved in transcription activation ; repression ; chromatin silencing ; telomere length maintenance; relocalizes to cytosol under hypoxia; conserved protein with N-terminal BRCT domain ; central region with homology to Myb DNA binding domain ; and C-terminal Rap1-specific protein-interaction domain (RCT domain); recruits Sir complex to telomeric DNA; present in quiescent cell telomere hyperclusters""",0.0
+9439,SSH1:ERG11,14,244751.0,-0.551809890239961,3.553294100696113,ORF,Verified ORF,YNL215W,IES2,SGDID:S000005159,"""Protein that associates with the INO80 chromatin remodeling complex; associates with the INO80 complex under low-salt conditions; essential for growth under anaerobic conditions; protein abundance increases in response to DNA replication stress""",0.0
+9439,ERV25:PIS1,14,244751.0,-0.407039386065749,3.167037394739095,ORF,Verified ORF,YNL215W,IES2,SGDID:S000005159,"""Protein that associates with the INO80 chromatin remodeling complex; associates with the INO80 complex under low-salt conditions; essential for growth under anaerobic conditions; protein abundance increases in response to DNA replication stress""",0.0
+9441,ALO1:UIP4,14,250138.0,-0.582016089657621,3.513293930955836,ORF,Uncharacterized ORF,YNL211C,MRX7,SGDID:S000005155,"""Protein that associates with mitochondrial ribosome; green fluorescent protein (GFP)-fusion protein localizes to mitochondria; YNL211C is not an essential gene""",0.0
+9441,HNM1:RBD2,14,250138.0,-0.474672028745041,3.4798730037012664,ORF,Uncharacterized ORF,YNL211C,MRX7,SGDID:S000005155,"""Protein that associates with mitochondrial ribosome; green fluorescent protein (GFP)-fusion protein localizes to mitochondria; YNL211C is not an essential gene""",0.0
+9441,SSH1:ERG11,14,250138.0,-0.542442242319636,3.4054738371797924,ORF,Uncharacterized ORF,YNL211C,MRX7,SGDID:S000005155,"""Protein that associates with mitochondrial ribosome; green fluorescent protein (GFP)-fusion protein localizes to mitochondria; YNL211C is not an essential gene""",0.0
+9446,HNM1:RBD2,14,257173.0,-0.46199177313222,3.343034373199732,ORF,Verified ORF,YNL206C,RTT106,SGDID:S000005150,"""Histone chaperone; involved in regulation of chromatin structure in both transcribed and silenced chromosomal regions; affects transcriptional elongation; has a role in regulation of Ty1 transposition; interacts physically and functionally with Chromatin Assembly Factor-1 (CAF-1)""",0.0
+9768,PLM2:HNM1,14,621027.0,-0.467379383601236,3.050352300009083,Close to 3'-UTR,Close to 3'-UTR,YNL006W,LST8,SGDID:S000004951,"""Protein required for the transport of Gap1p; required for the transport of amino acid permease Gap1p from the Golgi to the cell surface; component of the TOR signaling pathway; associates with both Tor1p and Tor2p; contains a WD-repeat""",0.0
+9775,HNM1:MAM33,14,627418.0,-0.657933521023292,3.033959929107246,Promoter,Promoter,YNL001W_NFR/NDR,0,0,fragile,0.0
+8807,ERG11:ORM2,13,503363.0,0.435822154548699,3.4125449693765053,Other features,LTR,YMRWdelta16,YMRWdelta16,SGDID:S000007123,"""Ty1 LTR""",0.0
+8805,ERG11:ORM2,13,501075.0,0.45596505940179,3.833992522387805,Promoter,Promoter,YMR116C_NFR/NDR,0,0,fragile,0.0
+8800,ERG11:ORM2,13,495523.0,0.475466319800432,4.133618446368725,ORF,Verified ORF,YMR113W,FOL3,SGDID:S000004719,"""Dihydrofolate synthetase ; involved in folic acid biosynthesis; catalyzes conversion of dihydropteroate to dihydrofolate in folate coenzyme biosynthesis; FOL3 has a paralog ; RMA1 ; that arose from the whole genome duplication""",0.0
+8797,ERG11:ORM2,13,491360.0,0.459834386449422,3.912005820224106,ORF,Verified ORF,YMR110C,HFD1,SGDID:S000004716,"""Dehydrogenase involved in ubiquinone and sphingolipid metabolism; converts 4-hydroxybenzaldehyde into 4-hydroxybenzoate for ubiquinone anabolism ; hexadecenal to hexadecenoic acid in sphingosine 1-phosphate catabolism; human homolog ALDH3A2 ; mutated in Sjogren-Larsson syndrome ; can rescue yeast hfd1 mutant; human ALDH3A1 ; but not ALDH3A2 ; rescues pABA- respiratory growth phenotype of hfd1 null; data suggest that dual functions of Hfd1p have diverged in human ALDH3A1 ; ALDH3A2""",0.0
+8782,ERG11:ORM2,13,465619.0,0.403589905191483,3.0862230372347623,Close to 3'-UTR,Close to 3'-UTR,YMR099C,YMR099C,SGDID:S000004705,"""Glucose-6-phosphate 1-epimerase (hexose-6-phosphate mutarotase); likely involved in carbohydrate metabolism; GFP-fusion protein localizes to both the nucleus and cytoplasm and is induced in response to the DNA-damaging agent MMS""",0.0
+8776,ERG11:ORM2,13,460480.0,0.421617890676044,3.3200622261732997,ORF,Verified ORF,YMR097C,MTG1,SGDID:S000004703,"""Putative GTPase peripheral to the mitochondrial inner membrane; essential for respiratory competence ; likely functions in assembly of the large ribosomal subunit ; has homologs in plants and animals""",0.0
+8774,ERG11:ORM2,13,459157.0,0.407577701103017,3.1599386360429884,ORF,Verified ORF,YMR096W,SNZ1,SGDID:S000004702,"""Subunit of a two-component pyridoxal-5'-phosphate synthase; involved in pyridoxine (vitamin B6) biosynthesis from glyceraldehyde-3-phosphate ; ribose-5-phosphate and ammonia liberated from glutamine by glutaminase; forms a complex with Sno1p that functions as an active glutaminase; member of a stationary phase-induced gene family where transcriptional induction occurs during the postdiauxic phase; co-regulated with SNO1; paralog of SNZ2 and SNZ3""",0.0
+8471,TPO1:TCB2,13,69500.0,-0.671736898153775,3.2366924732996654,ORF,Verified ORF,YML102W,CAC2,SGDID:S000004570,"""Subunit of chromatin assembly factor I (CAF-1) ; with Rlf2p and Msi1p; chromatin assembly by CAF-1 is important for multiple processes including silencing at telomeres ; mating type loci ; and rDNA; maintenance of kinetochore structure ; deactivation of the DNA damage checkpoint after DNA repair ; chromatin dynamics during transcription; and repression of divergent transcription; relocalizes to the cytosol in response to hypoxia""",0.0
+8515,ERV25:ORM2,13,92384.0,-0.458916397203964,3.1391791868592533,ORF,Verified ORF,YML088W,UFO1,SGDID:S000004553,"""F-box receptor protein; subunit of the Skp1-Cdc53-F-box receptor (SCF) E3 ubiquitin ligase complex; binds to phosphorylated Ho endonuclease ; allowing its ubiquitination by SCF and subsequent degradation""",0.0
+8516,ERG27:ACF2,13,94497.0,-0.577192296286812,3.0821542281611696,ORF,Verified ORF,YML087C,AIM33,SGDID:S000004552,"""Protein of unknown function ; highly conserved across species; homolog of human CYB5R4; null mutant displays reduced frequency of mitochondrial genome loss; AIM33 has a paralog ; PGA3 ; that arose from the whole genome duplication""",0.0
+8516,SNA4:GTR2,13,94497.0,-0.536693941686723,3.0103125874067485,ORF,Verified ORF,YML087C,AIM33,SGDID:S000004552,"""Protein of unknown function ; highly conserved across species; homolog of human CYB5R4; null mutant displays reduced frequency of mitochondrial genome loss; AIM33 has a paralog ; PGA3 ; that arose from the whole genome duplication""",0.0
+8520,ERG11:TPO4,13,97628.0,-0.603831455507384,4.180305973627231,Promoter,Promoter,YML086C_NFR/NDR,0,0,stable,0.0
+8518,ERG11:TPO4,13,97472.0,-0.546209496344856,3.417770867140554,Close to 3'-UTR,Close to 3'-UTR,YML086C,ALO1,SGDID:S000004551,"""D-Arabinono-1,4-lactone oxidase; catalyzes the final step in biosynthesis of dehydro-D-arabinono-1,4-lactone ; which is protective against oxidative stress""",0.0
+8517,ERG11:TPO4,13,97415.0,-0.537888228044288,3.4832119504171164,Close to 3'-UTR,Close to 3'-UTR,YML086C,ALO1,SGDID:S000004551,"""D-Arabinono-1,4-lactone oxidase; catalyzes the final step in biosynthesis of dehydro-D-arabinono-1,4-lactone ; which is protective against oxidative stress""",0.0
+8517,SSH1:PIS1,13,97415.0,-0.554356634099104,3.2785519455265044,Close to 3'-UTR,Close to 3'-UTR,YML086C,ALO1,SGDID:S000004551,"""D-Arabinono-1,4-lactone oxidase; catalyzes the final step in biosynthesis of dehydro-D-arabinono-1,4-lactone ; which is protective against oxidative stress""",0.0
+8517,ERG11:PIS1,13,97415.0,-0.480090224791797,3.01666168090721,Close to 3'-UTR,Close to 3'-UTR,YML086C,ALO1,SGDID:S000004551,"""D-Arabinono-1,4-lactone oxidase; catalyzes the final step in biosynthesis of dehydro-D-arabinono-1,4-lactone ; which is protective against oxidative stress""",0.0
+8524,SNA4:GTR2,13,99282.0,-0.542913240623829,3.3558564581189194,Close to 3'-UTR,Close to 3'-UTR,YML085C,TUB1,SGDID:S000004550,"""Alpha-tubulin; associates with beta-tubulin (Tub2p) to form tubulin dimer ; which polymerizes to form microtubules; relative distribution to nuclear foci increases upon DNA replication stress; TUB1 has a paralog ; TUB3 ; that arose from the whole genome duplication""",0.0
+8521,SNA4:GTR2,13,98766.0,-0.545772562078484,3.4798983461176936,ORF,Verified ORF,YML085C,TUB1,SGDID:S000004550,"""Alpha-tubulin; associates with beta-tubulin (Tub2p) to form tubulin dimer ; which polymerizes to form microtubules; relative distribution to nuclear foci increases upon DNA replication stress; TUB1 has a paralog ; TUB3 ; that arose from the whole genome duplication""",0.0
+8521,ERG11:TPO4,13,98766.0,-0.516596216785068,3.4434346472042123,ORF,Verified ORF,YML085C,TUB1,SGDID:S000004550,"""Alpha-tubulin; associates with beta-tubulin (Tub2p) to form tubulin dimer ; which polymerizes to form microtubules; relative distribution to nuclear foci increases upon DNA replication stress; TUB1 has a paralog ; TUB3 ; that arose from the whole genome duplication""",0.0
+8521,ERG11:PIS1,13,98766.0,-0.480458206040788,3.202334202300451,ORF,Verified ORF,YML085C,TUB1,SGDID:S000004550,"""Alpha-tubulin; associates with beta-tubulin (Tub2p) to form tubulin dimer ; which polymerizes to form microtubules; relative distribution to nuclear foci increases upon DNA replication stress; TUB1 has a paralog ; TUB3 ; that arose from the whole genome duplication""",0.0
+8529,ERG11:TPO4,13,101281.0,-0.486905593562728,3.056648095770097,Promoter,Promoter,YML083C_NFR/NDR,0,0,stable,0.0
+8589,TPO1:TCB2,13,209750.0,0.458339477354099,3.260055057160686,ORF,Dubious ORF,YML034C-A,YML034C-A,SGDID:S000004499,"""Dubious open reading frame; unlikely to encode a functional protein ; based on available experimental and comparative sequence data; overlaps ORF SRC1/YML034W""",0.0
+8588,TPO1:TCB2,13,209723.0,0.441686532157777,3.045832906493106,ORF,Dubious ORF,YML034C-A,YML034C-A,SGDID:S000004499,"""Dubious open reading frame; unlikely to encode a functional protein ; based on available experimental and comparative sequence data; overlaps ORF SRC1/YML034W""",0.0
+8079,HNM1:TPO2,12,704451.0,0.569544906454906,3.427530536578544,ORF,Dubious ORF,YLR279W,YLR279W,SGDID:S000004269,"""Dubious open reading frame; unlikely to encode a functional protein ; based on available experimental and comparative sequence data""",0.0
+7482,HNM1:TPO1,12,84031.0,0.539989579666017,3.629257131723001,Close to 3'-UTR,Close to 3'-UTR,YLL029W,FRA1,SGDID:S000003952,"""Protein involved in negative regulation of iron regulon transcription; forms an iron independent complex with Fra2p ; Grx3p ; and Grx4p; cytosolic; mutant fails to repress transcription of iron regulon and is defective in spore formation""",0.0
+7481,HNM1:TPO1,12,82740.0,0.505578726625395,3.202366516986627,ORF,Verified ORF,YLL029W,FRA1,SGDID:S000003952,"""Protein involved in negative regulation of iron regulon transcription; forms an iron independent complex with Fra2p ; Grx3p ; and Grx4p; cytosolic; mutant fails to repress transcription of iron regulon and is defective in spore formation""",0.0
+7483,HNM1:TPO1,12,84341.0,0.492929146577644,3.09671083989048,Promoter,Promoter,YLL028W_NFR/NDR,0,0,fragile,0.0
+7283,HNM1:MAM33,11,521933.0,0.510342665728547,3.1218124261899725,Promoter,Promoter,YKR043C_NFR/NDR,0,0,stable,0.0
+6983,HNM1:MAM33,11,191520.0,0.513772747894469,3.199678259537234,Promoter,Promoter,YKL134C_NFR/NDR,0,0,stable,0.0
+6989,noPPI:reference,11,196914.0,0.597599657669453,3.0326019194824467,ORF,Verified ORF,YKL129C,MYO3,SGDID:S000001612,"""One of two type I myosins; localizes to actin cortical patches; deletion of MYO3 has little effect on growth ; but myo3 myo5 double deletion causes severe defects in growth and actin cytoskeleton organization; MYO3 has a paralog ; MYO5 ; that arose from the whole genome duplication""",0.0
+6357,ADE17:PGM2,10,541427.0,2.02613520452477,3.368720265053432,Other features,LTR,YJRCdelta19,YJRCdelta19,SGDID:S000007034,"""Ty1 LTR""",0.0
+6490,ADE17:HYR1,10,667117.0,-0.535292735635426,3.298309247291958,ORF,Verified ORF,YJR130C,STR2,SGDID:S000003891,"""Cystathionine gamma-synthase ; converts cysteine into cystathionine; STR2 has a paralog ; YML082W ; that arose from the whole genome duplication""",0.0
+6486,ADE17:HYR1,10,665450.0,-0.527331563640362,3.186487169151149,ORF,Verified ORF,YJR130C,STR2,SGDID:S000003891,"""Cystathionine gamma-synthase ; converts cysteine into cystathionine; STR2 has a paralog ; YML082W ; that arose from the whole genome duplication""",0.0
+6485,ADE17:HYR1,10,665129.0,-0.515837095790006,3.032770080032616,Promoter,Promoter,YJR129C_NFR/NDR,0,0,stable,0.0
+6430,HNM1:RBD2,10,618031.0,-0.512280730979674,3.36554851030967,Promoter,Promoter,YJR101W_NFR/NDR,0,0,fragile,0.0
+5985,RET2:EMP47,10,28714.0,0.314830443749822,3.039337974891912,Close to 3'-UTR,Close to 3'-UTR,YJL214W,HXT8,SGDID:S000003750,"""Protein of unknown function with similarity to hexose transporters; expression is induced by low levels of glucose and repressed by high levels of glucose""",0.0
+6012,ERV25:EMP47,10,73179.0,-0.575949405999487,3.075885674885686,ORF,Verified ORF,YJL192C,SOP4,SGDID:S000003728,"""ER-membrane protein; subunit of evolutionarily conserved EMC (Endoplasmic Reticulum Membrane Complex) implicated in ERAD (ER-associated degradation) and proper assembly of multi-pass transmembrane (TM) proteins; EMC acts in yeast as an ER-mitochondria tether that interacts with outer membrane protein Tom5 of TOM (Translocase of the Mitochondrial Outer Membrane) complex; suppressor of pma1-7 ; deletion of SOP4 slows down export of wild-type Pma1p and Pma1-7 from the ER""",0.0
+6016,SSH1:ERV25,10,76303.0,-0.514898012373664,3.0648355785818,ORF,Dubious ORF,YJL188C,BUD19,SGDID:S000003724,"""Dubious open reading frame; unlikely to encode a functional protein ; based on available experimental and comparative sequence data; not conserved in closely related Saccharomyces species; 88% of ORF overlaps the verified gene RPL39; diploid mutant displays a weak budding pattern phenotype in a systematic assay""",0.0
+6016,ERV25:EMP47,10,76303.0,-0.579494211968886,3.0543946604246504,ORF,Dubious ORF,YJL188C,BUD19,SGDID:S000003724,"""Dubious open reading frame; unlikely to encode a functional protein ; based on available experimental and comparative sequence data; not conserved in closely related Saccharomyces species; 88% of ORF overlaps the verified gene RPL39; diploid mutant displays a weak budding pattern phenotype in a systematic assay""",0.0
+5688,HUG1:ALO1,9,219192.0,-0.476507878447035,3.11912065208852,ORF,Verified ORF,YIL075C,RPN2,SGDID:S000001337,"""Subunit of the 26S proteasome; substrate of the N-acetyltransferase Nat1p; protein abundance increases in response to DNA replication stress""",0.0
+5714,ALO1:ADE17,9,243799.0,-0.501762141781148,3.1723134663862407,Promoter,Promoter,YIL063C_NFR/NDR,0,0,stable,0.0
+5712,ALO1:ADE17,9,243723.0,-0.520183370061207,3.4029398429955093,ORF,Verified ORF,YIL063C,YRB2,SGDID:S000001325,"""Protein of unknown function; involved in nuclear processes of the Ran-GTPase cycle; involved in nuclear protein export; contains Ran Binding Domain and FxFG repeats; interacts with Srm1p ; GTP-Gsp1p ; Rna1p and Crm1p; relocalizes to the cytosol in response to hypoxia; not essential for viability""",0.0
+5711,ALO1:ADE17,9,243694.0,-0.496573472884521,3.1544570652522226,ORF,Verified ORF,YIL063C,YRB2,SGDID:S000001325,"""Protein of unknown function; involved in nuclear processes of the Ran-GTPase cycle; involved in nuclear protein export; contains Ran Binding Domain and FxFG repeats; interacts with Srm1p ; GTP-Gsp1p ; Rna1p and Crm1p; relocalizes to the cytosol in response to hypoxia; not essential for viability""",0.0
+5710,ALO1:ADE17,9,243574.0,-0.493216790846282,3.102556871454121,ORF,Verified ORF,YIL063C,YRB2,SGDID:S000001325,"""Protein of unknown function; involved in nuclear processes of the Ran-GTPase cycle; involved in nuclear protein export; contains Ran Binding Domain and FxFG repeats; interacts with Srm1p ; GTP-Gsp1p ; Rna1p and Crm1p; relocalizes to the cytosol in response to hypoxia; not essential for viability""",0.0
+5709,ALO1:ADE17,9,243529.0,-0.508442100278572,3.2864379450135432,ORF,Verified ORF,YIL063C,YRB2,SGDID:S000001325,"""Protein of unknown function; involved in nuclear processes of the Ran-GTPase cycle; involved in nuclear protein export; contains Ran Binding Domain and FxFG repeats; interacts with Srm1p ; GTP-Gsp1p ; Rna1p and Crm1p; relocalizes to the cytosol in response to hypoxia; not essential for viability""",0.0
+5708,ALO1:ADE17,9,243521.0,-0.508442100278572,3.2864379450135432,ORF,Verified ORF,YIL063C,YRB2,SGDID:S000001325,"""Protein of unknown function; involved in nuclear processes of the Ran-GTPase cycle; involved in nuclear protein export; contains Ran Binding Domain and FxFG repeats; interacts with Srm1p ; GTP-Gsp1p ; Rna1p and Crm1p; relocalizes to the cytosol in response to hypoxia; not essential for viability""",0.0
+5707,ALO1:ADE17,9,243307.0,-0.524107913559129,3.447821600435109,ORF,Verified ORF,YIL063C,YRB2,SGDID:S000001325,"""Protein of unknown function; involved in nuclear processes of the Ran-GTPase cycle; involved in nuclear protein export; contains Ran Binding Domain and FxFG repeats; interacts with Srm1p ; GTP-Gsp1p ; Rna1p and Crm1p; relocalizes to the cytosol in response to hypoxia; not essential for viability""",0.0
+5706,ALO1:ADE17,9,243230.0,-0.52236750217613,3.427550283682954,ORF,Verified ORF,YIL063C,YRB2,SGDID:S000001325,"""Protein of unknown function; involved in nuclear processes of the Ran-GTPase cycle; involved in nuclear protein export; contains Ran Binding Domain and FxFG repeats; interacts with Srm1p ; GTP-Gsp1p ; Rna1p and Crm1p; relocalizes to the cytosol in response to hypoxia; not essential for viability""",0.0
+5705,ALO1:ADE17,9,243115.0,-0.497900278682049,3.184289296968721,ORF,Verified ORF,YIL063C,YRB2,SGDID:S000001325,"""Protein of unknown function; involved in nuclear processes of the Ran-GTPase cycle; involved in nuclear protein export; contains Ran Binding Domain and FxFG repeats; interacts with Srm1p ; GTP-Gsp1p ; Rna1p and Crm1p; relocalizes to the cytosol in response to hypoxia; not essential for viability""",0.0
+5704,ALO1:ADE17,9,242937.0,-0.514131996855999,3.31762967255925,ORF,Verified ORF,YIL063C,YRB2,SGDID:S000001325,"""Protein of unknown function; involved in nuclear processes of the Ran-GTPase cycle; involved in nuclear protein export; contains Ran Binding Domain and FxFG repeats; interacts with Srm1p ; GTP-Gsp1p ; Rna1p and Crm1p; relocalizes to the cytosol in response to hypoxia; not essential for viability""",0.0
+5719,ALO1:ADE17,9,244304.0,-0.522258340537724,3.443686489635102,ORF,Verified ORF,YIL062C,ARC15,SGDID:S000001324,"""Subunit of the ARP2/3 complex; ARP2/3 is required for the motility and integrity of cortical actin patches; has mRNA binding activity""",0.0
+5718,ALO1:ADE17,9,244280.0,-0.509879754173245,3.318477000709443,ORF,Verified ORF,YIL062C,ARC15,SGDID:S000001324,"""Subunit of the ARP2/3 complex; ARP2/3 is required for the motility and integrity of cortical actin patches; has mRNA binding activity""",0.0
+5724,ALO1:ADE17,9,245431.0,-0.521525705931961,3.452109952413433,ORF,Verified ORF,YIL061C,SNP1,SGDID:S000001323,"""Component of U1 snRNP required for mRNA splicing via spliceosome; substrate of the arginine methyltransferase Hmt1p; may interact with poly(A) polymerase to regulate polyadenylation; homolog of human U1 70K protein; protein abundance increases in response to DNA replication stress""",0.0
+5723,ALO1:ADE17,9,244951.0,-0.527173476388118,3.517817852630483,ORF,Verified ORF,YIL061C,SNP1,SGDID:S000001323,"""Component of U1 snRNP required for mRNA splicing via spliceosome; substrate of the arginine methyltransferase Hmt1p; may interact with poly(A) polymerase to regulate polyadenylation; homolog of human U1 70K protein; protein abundance increases in response to DNA replication stress""",0.0
+5722,ALO1:ADE17,9,244901.0,-0.529057334332149,3.531044029305953,ORF,Verified ORF,YIL061C,SNP1,SGDID:S000001323,"""Component of U1 snRNP required for mRNA splicing via spliceosome; substrate of the arginine methyltransferase Hmt1p; may interact with poly(A) polymerase to regulate polyadenylation; homolog of human U1 70K protein; protein abundance increases in response to DNA replication stress""",0.0
+5721,ALO1:ADE17,9,244863.0,-0.497444286024339,3.156365097304946,ORF,Verified ORF,YIL061C,SNP1,SGDID:S000001323,"""Component of U1 snRNP required for mRNA splicing via spliceosome; substrate of the arginine methyltransferase Hmt1p; may interact with poly(A) polymerase to regulate polyadenylation; homolog of human U1 70K protein; protein abundance increases in response to DNA replication stress""",0.0
+5736,HNM1:MID2,9,251030.0,-0.471893485246317,3.186308665311713,ORF,Verified ORF,YIL056W,VHR1,SGDID:S000001318,"""Transcriptional activator; required for the vitamin H-responsive element (VHRE) mediated induction of VHT1 (Vitamin H transporter) and BIO5 (biotin biosynthesis intermediate transporter) in response to low biotin concentrations; VHR1 has a paralog ; VHR2 ; that arose from the whole genome duplication""",0.0
+5736,ERV25:ERG5,9,251030.0,-0.490699922383259,3.061619691371664,ORF,Verified ORF,YIL056W,VHR1,SGDID:S000001318,"""Transcriptional activator; required for the vitamin H-responsive element (VHRE) mediated induction of VHT1 (Vitamin H transporter) and BIO5 (biotin biosynthesis intermediate transporter) in response to low biotin concentrations; VHR1 has a paralog ; VHR2 ; that arose from the whole genome duplication""",0.0
+5735,ERV25:ERG5,9,250581.0,-0.529864365170936,3.496288541692718,ORF,Verified ORF,YIL056W,VHR1,SGDID:S000001318,"""Transcriptional activator; required for the vitamin H-responsive element (VHRE) mediated induction of VHT1 (Vitamin H transporter) and BIO5 (biotin biosynthesis intermediate transporter) in response to low biotin concentrations; VHR1 has a paralog ; VHR2 ; that arose from the whole genome duplication""",0.0
+5735,HNM1:MID2,9,250581.0,-0.474495299295174,3.21470815764363,ORF,Verified ORF,YIL056W,VHR1,SGDID:S000001318,"""Transcriptional activator; required for the vitamin H-responsive element (VHRE) mediated induction of VHT1 (Vitamin H transporter) and BIO5 (biotin biosynthesis intermediate transporter) in response to low biotin concentrations; VHR1 has a paralog ; VHR2 ; that arose from the whole genome duplication""",0.0
+5735,HNM1:TPO2,9,250581.0,-0.496890783082208,3.035328382886836,ORF,Verified ORF,YIL056W,VHR1,SGDID:S000001318,"""Transcriptional activator; required for the vitamin H-responsive element (VHRE) mediated induction of VHT1 (Vitamin H transporter) and BIO5 (biotin biosynthesis intermediate transporter) in response to low biotin concentrations; VHR1 has a paralog ; VHR2 ; that arose from the whole genome duplication""",0.0
+5734,ERV25:ERG5,9,250484.0,-0.529435250378375,3.4913318930725525,ORF,Verified ORF,YIL056W,VHR1,SGDID:S000001318,"""Transcriptional activator; required for the vitamin H-responsive element (VHRE) mediated induction of VHT1 (Vitamin H transporter) and BIO5 (biotin biosynthesis intermediate transporter) in response to low biotin concentrations; VHR1 has a paralog ; VHR2 ; that arose from the whole genome duplication""",0.0
+5734,HNM1:MID2,9,250484.0,-0.472458407375945,3.190829748472335,ORF,Verified ORF,YIL056W,VHR1,SGDID:S000001318,"""Transcriptional activator; required for the vitamin H-responsive element (VHRE) mediated induction of VHT1 (Vitamin H transporter) and BIO5 (biotin biosynthesis intermediate transporter) in response to low biotin concentrations; VHR1 has a paralog ; VHR2 ; that arose from the whole genome duplication""",0.0
+5734,HNM1:TPO2,9,250484.0,-0.500337015349233,3.0716937946228438,ORF,Verified ORF,YIL056W,VHR1,SGDID:S000001318,"""Transcriptional activator; required for the vitamin H-responsive element (VHRE) mediated induction of VHT1 (Vitamin H transporter) and BIO5 (biotin biosynthesis intermediate transporter) in response to low biotin concentrations; VHR1 has a paralog ; VHR2 ; that arose from the whole genome duplication""",0.0
+5740,ALO1:ADE17,9,253318.0,-0.495309939132838,3.139901109210036,ORF,Uncharacterized ORF,YIL055C,YIL055C,SGDID:S000001317,"""Putative protein of unknown function""",0.0
+5738,HNM1:ERG11,9,252323.0,-0.547714251131264,3.4503899302731265,ORF,Uncharacterized ORF,YIL055C,YIL055C,SGDID:S000001317,"""Putative protein of unknown function""",0.0
+5738,ERV25:ERG5,9,252323.0,-0.500255018109464,3.165055434258759,ORF,Uncharacterized ORF,YIL055C,YIL055C,SGDID:S000001317,"""Putative protein of unknown function""",0.0
+5737,HNM1:ERG11,9,252109.0,-0.550364390126533,3.4784979903133384,ORF,Uncharacterized ORF,YIL055C,YIL055C,SGDID:S000001317,"""Putative protein of unknown function""",0.0
+5737,ERV25:ERG5,9,252109.0,-0.500906787848073,3.171159082430236,ORF,Uncharacterized ORF,YIL055C,YIL055C,SGDID:S000001317,"""Putative protein of unknown function""",0.0
+5750,HNM1:ERG11,9,254355.0,-0.51689055676805,3.104801851116929,Promoter,Promoter,YIL054W_NFR/NDR,0,0,0,0.0
+5750,ALO1:HYR1,9,254355.0,-0.47885356996757,3.070954983685895,Promoter,Promoter,YIL054W_NFR/NDR,0,0,0,0.0
+5749,HNM1:ERG11,9,254336.0,-0.518935899182441,3.126053506461239,Promoter,Promoter,YIL054W_NFR/NDR,0,0,0,0.0
+5749,ERV25:ERG5,9,254336.0,-0.492138804095243,3.06195500338238,Promoter,Promoter,YIL054W_NFR/NDR,0,0,0,0.0
+5745,HNM1:ERG11,9,254108.0,-0.525358020664356,3.1936424219665405,Promoter,Promoter,YIL054W_NFR/NDR,0,0,0,0.0
+5741,HNM1:ERG11,9,254003.0,-0.556789307223186,3.348905971549602,Promoter,Promoter,YIL054W_NFR/NDR,0,0,0,0.0
+5741,HNM1:MID2,9,254003.0,-0.474143574200591,3.031579385315342,Promoter,Promoter,YIL054W_NFR/NDR,0,0,0,0.0
+5741,FMP45:MID2,9,254003.0,-0.482090085596318,3.007558157065671,Promoter,Promoter,YIL054W_NFR/NDR,0,0,0,0.0
+5758,ERV25:ERG5,9,256045.0,-0.52289981471743,3.12190741051398,Close to 3'-UTR,Close to 3'-UTR,YIL053W,GPP1,SGDID:S000001315,"""Constitutively expressed DL-glycerol-3-phosphate phosphatase; also known as glycerol-1-phosphatase; involved in glycerol biosynthesis ; induced in response to both anaerobic and osmotic stress; GPP1 has a paralog ; GPP2 ; that arose from the whole genome duplication""",0.0
+5757,ERV25:ERG5,9,256041.0,-0.508899357189895,3.016172079821343,Close to 3'-UTR,Close to 3'-UTR,YIL053W,GPP1,SGDID:S000001315,"""Constitutively expressed DL-glycerol-3-phosphate phosphatase; also known as glycerol-1-phosphatase; involved in glycerol biosynthesis ; induced in response to both anaerobic and osmotic stress; GPP1 has a paralog ; GPP2 ; that arose from the whole genome duplication""",0.0
+5779,ERV25:ERG5,9,261156.0,-0.508501558690639,3.21648586214309,Promoter,Promoter,YIL048W_NFR/NDR,0,0,stable,0.0
+5779,HNM1:MID2,9,261156.0,-0.4691923651494,3.1163623751977583,Promoter,Promoter,YIL048W_NFR/NDR,0,0,stable,0.0
+5778,HNM1:MID2,9,260986.0,-0.482074989033709,3.176962543891585,Promoter,Promoter,YIL048W_NFR/NDR,0,0,stable,0.0
+5776,RET2:SNA3,9,260947.0,-0.73046863216076,3.529900577622556,Promoter,Promoter,YIL048W_NFR/NDR,0,0,stable,0.0
+5780,HNM1:MID2,9,264604.0,-0.502764286566133,3.5035093511188,ORF,Verified ORF,YIL048W,NEO1,SGDID:S000001310,"""Phospholipid translocase (flippase) ; role in phospholipid asymmetry of plasma membrane; involved in endocytosis ; vacuolar biogenesis and Golgi to ER vesicle-mediated transport; localizes to endosomes and the Golgi apparatus""",0.0
+5791,RET2:SNA3,9,268445.0,-0.312713497340691,3.0299840314029027,ORF,Uncharacterized ORF,YIL046W-A,YIL046W-A,SGDID:S000028836,"""Putative protein of unknown function; identified by expression profiling and mass spectrometry""",0.0
+5792,RET2:SNA3,9,270121.0,-0.316350627814724,3.1631927145973924,ORF,Verified ORF,YIL046W,MET30,SGDID:S000001308,"""F-box protein containing five copies of the WD40 motif; controls cell cycle function ; sulfur metabolism ; and methionine biosynthesis as part of the ubiquitin ligase complex; interacts with and regulates Met4p ; localizes within the nucleus; dissociation of Met30p from SCF complex in response to cadmium stress is regulated by Cdc48p""",0.0
+5792,ALO1:UIP4,9,270121.0,-0.530732712848857,3.0370495128303547,ORF,Verified ORF,YIL046W,MET30,SGDID:S000001308,"""F-box protein containing five copies of the WD40 motif; controls cell cycle function ; sulfur metabolism ; and methionine biosynthesis as part of the ubiquitin ligase complex; interacts with and regulates Met4p ; localizes within the nucleus; dissociation of Met30p from SCF complex in response to cadmium stress is regulated by Cdc48p""",0.0
+5112,HNM1:TPO2,8,231269.0,0.496207072930134,3.0301117476772337,ORF,Verified ORF,YHR067W,HTD2,SGDID:S000001109,"""Mitochondrial 3-hydroxyacyl-thioester dehydratase; involved in fatty acid biosynthesis ; required for respiratory growth and for normal mitochondrial morphology""",0.0
+4822,ERG11:ERV25,7,1047587.0,-0.394192008408494,3.049328792557887,ORF,Verified ORF,YGR278W,CWC22,SGDID:S000003510,"""Spliceosome-associated protein that is required for pre-mRNA splicing; necessary for Prp2p function at the first catalytic step of splicing; has similarity to S. pombe Cwf22p; CWC22 is an essential protein""",0.0
+4818,ERG11:ERV25,7,1045777.0,-0.387991615949458,3.049937805979789,ORF,Verified ORF,YGR277C,CAB4,SGDID:S000003509,"""Subunit of the CoA-Synthesizing Protein Complex (CoA-SPC); subunits of this complex are: Cab2p ; Cab3p ; Cab4p ; Cab5p ; Sis2p and Vhs3p; involved in histone acylation; probable pantetheine-phosphate adenylyltransferase (PPAT); PPAT catalyzes the fourth step in the biosynthesis of coenzyme A from pantothenate; null mutant lethality is complemented by E. coli coaD (encoding PPAT) and by human COASY""",0.0
+4817,ERG11:ERV25,7,1045136.0,-0.426357294504862,3.566817828750261,ORF,Verified ORF,YGR276C,RNH70,SGDID:S000003508,"""3'-5' exoribonuclease; required for maturation of 3' ends of 5S rRNA and tRNA-Arg3 from dicistronic transcripts""",0.0
+4816,ERG11:ERV25,7,1045046.0,-0.449325597160512,3.955979607365656,ORF,Verified ORF,YGR276C,RNH70,SGDID:S000003508,"""3'-5' exoribonuclease; required for maturation of 3' ends of 5S rRNA and tRNA-Arg3 from dicistronic transcripts""",0.0
+4791,ERG11:ERV25,7,1020120.0,-0.394210267946952,3.1025904614793225,ORF,Verified ORF,YGR264C,MES1,SGDID:S000003496,"""Methionyl-tRNA synthetase; forms a complex with Gus1p ; a glutamyl-tRNA synthetase ; and Arc1p ; which increases the catalytic efficiency of both synthetases; involved in the nuclear export of tRNAs; mutations in human ortholog MARS is associated with pediatric pulmonary alveolar proteinosis ; interstitial lung and liver disease ; and Charcot-Marie-Tooth disease; human MARS gene can complement the yeast null mutant""",0.0
+4733,ERV25:ORM2,7,952040.0,0.402650849680038,3.105992151983216,ORF,Verified ORF,YGR230W,BNS1,SGDID:S000003462,"""Protein of unknown function; FEAR network component that partially overlaps the function of SPO12 in promoting Cdc14p release from the nucleolus during early mitotic anaphase and mitotic exit; overexpression partially suppresses the meiotic defect of spo12; BNS1 has a paralog ; SPO12 ; that arose from the whole genome duplication""",0.0
+4730,ERV25:ORM2,7,950329.0,0.414578483282911,3.277110513009867,ORF,Verified ORF,YGR229C,SMI1,SGDID:S000003461,"""Protein involved in the regulation of cell wall synthesis; proposed to be involved in coordinating cell cycle progression with cell wall integrity""",0.0
+4725,ERV25:ORM2,7,945074.0,0.540016864779816,4.171348968876137,Promoter,Promoter,YGR225W_NFR/NDR,0,0,0,0.0
+4726,ERV25:ORM2,7,945155.0,0.499919734520995,3.918024041592712,ORF,Verified ORF,YGR225W,AMA1,SGDID:S000003457,"""Activator of meiotic anaphase promoting complex (APC/C); Cdc20p family member; required for initiation of spore wall assembly; required for Clb1p degradation during meiosis; prevents premature assembly of the meiosis I spindle ; required for DSB induced prophase I arrest""",0.0
+4722,ERV25:ORM2,7,943294.0,0.440022106219945,3.6515232880548494,ORF,Verified ORF,YGR224W,AZR1,SGDID:S000003456,"""Plasma membrane transporter of the major facilitator superfamily; involved in resistance to azole drugs such as ketoconazole and fluconazole""",0.0
+4721,ERV25:ORM2,7,943177.0,0.424378237943108,3.4279522641999547,ORF,Verified ORF,YGR224W,AZR1,SGDID:S000003456,"""Plasma membrane transporter of the major facilitator superfamily; involved in resistance to azole drugs such as ketoconazole and fluconazole""",0.0
+4720,ERV25:ORM2,7,942440.0,0.450045796868321,3.814035337469532,Promoter,Promoter,YGR223C_NFR/NDR,0,0,stable,0.0
+4719,ERV25:ORM2,7,942366.0,0.437362665553433,3.6138797662688034,Promoter,Promoter,YGR223C_NFR/NDR,0,0,stable,0.0
+4718,ERV25:ORM2,7,942359.0,0.443561382381941,3.6855070663548055,Promoter,Promoter,YGR223C_NFR/NDR,0,0,stable,0.0
+4651,ERG27:ACF2,7,877194.0,-0.532065094784904,3.2847546030465105,ORF,Verified ORF,YGR189C,CRH1,SGDID:S000003421,"""Chitin transglycosylase; functions in the transfer of chitin to beta(1-6) and beta(1-3) glucans in the cell wall; similar and functionally redundant to Utr2; localizes to sites of polarized growth; expression induced by cell wall stress""",0.0
+4643,ERG27:ACF2,7,876475.0,-2.47598487763852,3.6193417093379687,Close to 3'-UTR,Close to 3'-UTR,YGR189C,CRH1,SGDID:S000003421,"""Chitin transglycosylase; functions in the transfer of chitin to beta(1-6) and beta(1-3) glucans in the cell wall; similar and functionally redundant to Utr2; localizes to sites of polarized growth; expression induced by cell wall stress""",0.0
+4643,ERV25:PIS1,7,876475.0,-1.89093885729301,3.409337842537841,Close to 3'-UTR,Close to 3'-UTR,YGR189C,CRH1,SGDID:S000003421,"""Chitin transglycosylase; functions in the transfer of chitin to beta(1-6) and beta(1-3) glucans in the cell wall; similar and functionally redundant to Utr2; localizes to sites of polarized growth; expression induced by cell wall stress""",0.0
+4630,ERG27:ACF2,7,870103.0,-0.5682113398929,3.042664234288387,Close to 3'-UTR,Close to 3'-UTR,YGR186W,TFG1,SGDID:S000003418,"""TFIIF (Transcription Factor II) largest subunit; involved in both transcription initiation and elongation of RNA polymerase II; homologous to human RAP74""",0.0
+4616,ERG27:ACF2,7,862412.0,-0.518082860178652,3.190623435295392,ORF,Verified ORF,YGR184C,UBR1,SGDID:S000003416,"""E3 Ub-ligase (N-recognin); recognizes and ubiquitinates N-end rule pathway substrates in complex with Rad6p; Roq1p-bound form accelerates degradation of misfolded and native ER membrane and cytosolic proteins as part of the stress-induced homeostatically regulated protein degradation (SHRED) pathway; role in ER-associated protein degradation; modifies Cup9p to regulate peptide transport; mutation in human UBR1 causes Johansson-Blizzard Syndrome (JBS)""",0.0
+4107,ADE17:GIS2,7,321504.0,-0.681001198072424,3.08965556120227,Close to 3'-UTR,Close to 3'-UTR,YGL097W,SRM1,SGDID:S000003065,"""Nucleotide exchange factor for Gsp1p; localizes to the nucleus ; required for nucleocytoplasmic trafficking of macromolecules; suppressor of the pheromone response pathway; potentially phosphorylated by Cdc28p; human homolog of the RAN GEF ; RCC1 ; can complement a temperature sensitive point mutant""",0.0
+4191,TPO1:TCB2,7,398372.0,0.445095448970999,3.0645577588432698,Promoter,Promoter,YGL055W_NFR/NDR,0,0,fragile,0.0
+3357,SSH1:ERG11,5,561193.0,-0.517507441083277,3.0613284585895117,Close to 3'-UTR,Close to 3'-UTR,YER185W,PUG1,SGDID:S000000987,"""Plasma membrane protein involved in protoprophyrin and heme transport; roles in the uptake of protoprophyrin IX and the efflux of heme; expression is induced under both low-heme and low-oxygen conditions; member of the fungal lipid-translocating exporter (LTE) family of proteins""",0.0
+3251,ERV25:EMP47,5,465043.0,0.630582884378252,3.508871821811238,Promoter,Promoter,YER148W_NFR/NDR,0,0,stable,0.0
+3245,ALO1:HYR1,5,451448.0,0.487069480904084,3.1109408151236657,Promoter,Promoter,YER140W_NFR/NDR,0,0,stable,0.0
+3134,HNM1:MAM33,5,274156.0,0.529428052758632,3.069544080153193,Close to 3'-UTR,Close to 3'-UTR,YER059W,PCL6,SGDID:S000000861,"""Pho85p cyclin of the Pho80p subfamily; forms the major Glc8p kinase together with Pcl7p and Pho85p; involved in the control of glycogen storage by Pho85p; stabilized by Elongin C binding; PCL6 has a paralog ; PCL7 ; that arose from the whole genome duplication""",0.0
+3131,HNM1:MAM33,5,272598.0,0.507292942021442,3.188836720062708,Close to 3'-UTR,Close to 3'-UTR,YER058W,PET117,SGDID:S000000860,"""Assembly factor that couples heme a synthesis to complex IV assembly; regulates the oligomerization state of the Cox15p heme a synthase ; and couples this to the assembly of the cytochrome C oxidase complex (complex IV)""",0.0
+3027,TPO1:TCB2,5,191306.0,0.457124480967631,3.087494772964927,ORF,Verified ORF,YER017C,AFG3,SGDID:S000000819,"""Mitochondrial inner membrane m-AAA protease component; mediates degradation of misfolded or unassembled proteins; also required for correct assembly of mitochondrial enzyme complexes; involved in cytoplasmic mRNA translation and aging; expression of human homolog AFG3L2 can complement yeast yta12 afg3 double mutant""",0.0
+3026,TPO1:TCB2,5,189613.0,0.458032298189812,3.033976211858695,ORF,Verified ORF,YER017C,AFG3,SGDID:S000000819,"""Mitochondrial inner membrane m-AAA protease component; mediates degradation of misfolded or unassembled proteins; also required for correct assembly of mitochondrial enzyme complexes; involved in cytoplasmic mRNA translation and aging; expression of human homolog AFG3L2 can complement yeast yta12 afg3 double mutant""",0.0
+2855,ALO1:ADE17,5,35947.0,-0.486738731979676,3.017053626930344,ORF,Verified ORF,YEL062W,NPR2,SGDID:S000000788,"""Subunit of the Iml1p/SEACIT complex; SEACIT (Iml1p-Npr2p-Npr3p) is a subcomplex of the SEA complex ; a coatomer-related complex that associates dynamically with the vacuole; Npr2p may have a structural or regulatory role ; supporting Iml1p function as a GAP for the Rag family GTPase Gtr1p ; and resulting in inhibition of TORC1 signaling in response to amino acid deprivation; SEACIT is required for non-nitrogen-starvation-induced autophagy; homolog of human tumor suppressor NPRL2""",0.0
+2865,ALO1:ADE17,5,42740.0,-0.497245797518779,3.184056905992068,ORF,Uncharacterized ORF,YEL059W,HHY1,SGDID:S000000785,"""Putative protein of unknown function; null mutant is sensitive to heat ; pH disturbances ; ionic stress ; and various chemicals; hypersensitivity to hygromycin B indicative of defects in vacuolar trafficking""",0.0
+2867,ALO1:ADE17,5,44612.0,-0.493815146086535,3.1272574467488834,ORF,Verified ORF,YEL058W,PCM1,SGDID:S000000784,"""Essential N-acetylglucosamine-phosphate mutase; converts GlcNAc-6-P to GlcNAc-1-P ; which is a precursor for the biosynthesis of chitin and for the formation of N-glycosylated mannoproteins and glycosylphosphatidylinositol anchors""",0.0
+2866,ALO1:ADE17,5,44304.0,-0.513444549748872,3.35014436313608,ORF,Verified ORF,YEL058W,PCM1,SGDID:S000000784,"""Essential N-acetylglucosamine-phosphate mutase; converts GlcNAc-6-P to GlcNAc-1-P ; which is a precursor for the biosynthesis of chitin and for the formation of N-glycosylated mannoproteins and glycosylphosphatidylinositol anchors""",0.0
+2315,HNM1:MAM33,4,980835.0,0.55642440498351,3.724689307350209,Promoter,Promoter,YDRWdelta19_NFR/NDR,0,0,0,0.0
+2530,ERV25:EMP47,4,1316036.0,0.596862424738439,3.257123168607967,ORF,Verified ORF,YDR422C,SIP1,SGDID:S000002830,"""One of three alternate beta-subunits of the Snf1p kinase complex; may confer substrate specificity; vacuolar protein containing KIS (Kinase-Interacting Sequence) and ASC (Association with Snf1 kinase Complex) domains involved in protein interactions""",0.0
+2317,HNM1:MAM33,4,997624.0,0.492031427495338,3.0284639136808544,ORF,Verified ORF,YDR264C,AKR1,SGDID:S000002672,"""Palmitoyl transferase involved in protein palmitoylation; acts as a negative regulator of pheromone response pathway; required for endocytosis of pheromone receptors; involved in cell shape control; contains ankyrin repeats; AKR1 has a paralog ; AKR2 ; that arose from the whole genome duplication; any of several human homologs encoding DHHC-type zinc fingers (ZDHHC) can complement temperature sensitivity of yeast akr1 null mutant""",0.0
+2314,HNM1:MAM33,4,980779.0,0.554068798457375,3.7245661426654726,Close to 3'-UTR,Close to 3'-UTR,YDR261W-A,YDR261W-A,SGDID:S000007396,"""Retrotransposon TYA Gag gene co-transcribed with TYB Pol; translated as TYA or TYA-TYB polyprotein; Gag is a nucleocapsid protein that is the structural constituent of virus-like particles (VLPs); similar to retroviral Gag""",0.0
+2313,HNM1:MAM33,4,980596.0,0.547021717103632,3.6236555517219946,Close to 3'-UTR,Close to 3'-UTR,YDR261W-A,YDR261W-A,SGDID:S000007396,"""Retrotransposon TYA Gag gene co-transcribed with TYB Pol; translated as TYA or TYA-TYB polyprotein; Gag is a nucleocapsid protein that is the structural constituent of virus-like particles (VLPs); similar to retroviral Gag""",0.0
+2311,HNM1:MAM33,4,977428.0,0.553028335246096,3.5724448663938326,Promoter,Promoter,YDR260C_NFR/NDR,0,0,fragile,0.0
+2310,HNM1:MAM33,4,977037.0,0.506549061914306,3.199931960578596,ORF,Verified ORF,YDR260C,SWM1,SGDID:S000002668,"""Subunit of the anaphase-promoting complex (APC); APC is an E3 ubiquitin ligase that regulates the metaphase-anaphase transition and exit from mitosis; required for activation of the daughter-specific gene expression and spore wall maturation""",0.0
+2308,ERG27:ACF2,4,976271.0,0.523679066028539,3.1079507682878105,Promoter,Promoter,YDR259C_NFR/NDR,0,0,stable,0.0
+2308,HNM1:MAM33,4,976271.0,0.509246678078683,3.0724649030660545,Promoter,Promoter,YDR259C_NFR/NDR,0,0,stable,0.0
+2307,ERG27:ACF2,4,976264.0,0.532923332903255,3.1952572153665955,Promoter,Promoter,YDR259C_NFR/NDR,0,0,stable,0.0
+2307,HNM1:MAM33,4,976264.0,0.518955031496009,3.166238814849601,Promoter,Promoter,YDR259C_NFR/NDR,0,0,stable,0.0
+2306,HNM1:MAM33,4,976174.0,0.524467744788478,3.136895099159006,Promoter,Promoter,YDR259C_NFR/NDR,0,0,stable,0.0
+2309,HNM1:MAM33,4,976707.0,0.532011018783154,3.467039868895717,Close to 3'-UTR,Close to 3'-UTR,YDR259C,YAP6,SGDID:S000002667,"""Basic leucine zipper (bZIP) transcription factor; physically interacts with the Tup1-Cyc8 complex and recruits Tup1p to its targets; overexpression increases sodium and lithium tolerance; computational analysis suggests a role in regulation of expression of genes involved in carbohydrate metabolism; YAP6 has a paralog ; CIN5 ; that arose from the whole genome duplication""",0.0
+2309,ERG27:ACF2,4,976707.0,0.504120050832223,3.043051555689866,Close to 3'-UTR,Close to 3'-UTR,YDR259C,YAP6,SGDID:S000002667,"""Basic leucine zipper (bZIP) transcription factor; physically interacts with the Tup1-Cyc8 complex and recruits Tup1p to its targets; overexpression increases sodium and lithium tolerance; computational analysis suggests a role in regulation of expression of genes involved in carbohydrate metabolism; YAP6 has a paralog ; CIN5 ; that arose from the whole genome duplication""",0.0
+2304,HNM1:MAM33,4,975702.0,0.526828006589066,3.416254340348841,ORF,Verified ORF,YDR259C,YAP6,SGDID:S000002667,"""Basic leucine zipper (bZIP) transcription factor; physically interacts with the Tup1-Cyc8 complex and recruits Tup1p to its targets; overexpression increases sodium and lithium tolerance; computational analysis suggests a role in regulation of expression of genes involved in carbohydrate metabolism; YAP6 has a paralog ; CIN5 ; that arose from the whole genome duplication""",0.0
+2303,HNM1:MAM33,4,975573.0,0.508331175461527,3.1956829126082487,ORF,Verified ORF,YDR259C,YAP6,SGDID:S000002667,"""Basic leucine zipper (bZIP) transcription factor; physically interacts with the Tup1-Cyc8 complex and recruits Tup1p to its targets; overexpression increases sodium and lithium tolerance; computational analysis suggests a role in regulation of expression of genes involved in carbohydrate metabolism; YAP6 has a paralog ; CIN5 ; that arose from the whole genome duplication""",0.0
+2302,HNM1:MAM33,4,975354.0,0.521684214772053,3.3513144417643868,ORF,Verified ORF,YDR259C,YAP6,SGDID:S000002667,"""Basic leucine zipper (bZIP) transcription factor; physically interacts with the Tup1-Cyc8 complex and recruits Tup1p to its targets; overexpression increases sodium and lithium tolerance; computational analysis suggests a role in regulation of expression of genes involved in carbohydrate metabolism; YAP6 has a paralog ; CIN5 ; that arose from the whole genome duplication""",0.0
+2301,HNM1:MAM33,4,975252.0,0.501042065703872,3.139445044126674,ORF,Verified ORF,YDR259C,YAP6,SGDID:S000002667,"""Basic leucine zipper (bZIP) transcription factor; physically interacts with the Tup1-Cyc8 complex and recruits Tup1p to its targets; overexpression increases sodium and lithium tolerance; computational analysis suggests a role in regulation of expression of genes involved in carbohydrate metabolism; YAP6 has a paralog ; CIN5 ; that arose from the whole genome duplication""",0.0
+2298,HNM1:MAM33,4,975108.0,0.503632371634497,3.041505692568224,ORF,Verified ORF,YDR259C,YAP6,SGDID:S000002667,"""Basic leucine zipper (bZIP) transcription factor; physically interacts with the Tup1-Cyc8 complex and recruits Tup1p to its targets; overexpression increases sodium and lithium tolerance; computational analysis suggests a role in regulation of expression of genes involved in carbohydrate metabolism; YAP6 has a paralog ; CIN5 ; that arose from the whole genome duplication""",0.0
+2297,HNM1:MAM33,4,975090.0,0.521137270556272,3.271501246751262,ORF,Verified ORF,YDR259C,YAP6,SGDID:S000002667,"""Basic leucine zipper (bZIP) transcription factor; physically interacts with the Tup1-Cyc8 complex and recruits Tup1p to its targets; overexpression increases sodium and lithium tolerance; computational analysis suggests a role in regulation of expression of genes involved in carbohydrate metabolism; YAP6 has a paralog ; CIN5 ; that arose from the whole genome duplication""",0.0
+2287,HNM1:MAM33,4,974042.0,0.499218645181235,3.082157767916799,ORF,Verified ORF,YDR258C,HSP78,SGDID:S000002666,"""Oligomeric mitochondrial matrix chaperone; cooperates with Ssc1p in mitochondrial thermotolerance after heat shock; able to prevent the aggregation of misfolded proteins as well as resolubilize protein aggregates""",0.0
+2286,HNM1:MAM33,4,973283.0,0.506561472514989,3.1880581346785544,ORF,Verified ORF,YDR258C,HSP78,SGDID:S000002666,"""Oligomeric mitochondrial matrix chaperone; cooperates with Ssc1p in mitochondrial thermotolerance after heat shock; able to prevent the aggregation of misfolded proteins as well as resolubilize protein aggregates""",0.0
+2282,HNM1:MAM33,4,964930.0,0.495539255791977,3.0508639701107865,Promoter,Promoter,YDR254W_NFR/NDR,0,0,fragile,0.0
+2281,HNM1:MAM33,4,964771.0,0.528254233365128,3.163067686409888,Promoter,Promoter,YDR254W_NFR/NDR,0,0,fragile,0.0
+2283,HNM1:MAM33,4,965160.0,0.49974301522564,3.118268957711914,ORF,Verified ORF,YDR254W,CHL4,SGDID:S000002662,"""Outer kinetochore protein required for chromosome stability; involved in new kinetochore assembly and sister chromatid cohesion; forms a stable complex with Iml3p; peripheral component of the Ctf19 kinetochore complex that interacts with Ctf19p ; Ctf3p ; and Mif2p; required for the spindle assembly checkpoint; orthologous to human centromere constitutive-associated network (CCAN) subunit CENP-N and fission yeast mis15""",0.0
+2280,HNM1:MAM33,4,962979.0,0.49858346850244,3.105530489607829,ORF,Verified ORF,YDR251W,PAM1,SGDID:S000002659,"""Essential protein of unknown function; exhibits variable expression during colony morphogenesis; overexpression permits survival without protein phosphatase 2A ; inhibits growth ; and induces a filamentous phenotype; PAM1 has a paralog ; SVL3 ; that arose from the whole genome duplication""",0.0
+2279,HNM1:MAM33,4,961744.0,0.550625613218292,3.619152519066204,ORF,Verified ORF,YDR251W,PAM1,SGDID:S000002659,"""Essential protein of unknown function; exhibits variable expression during colony morphogenesis; overexpression permits survival without protein phosphatase 2A ; inhibits growth ; and induces a filamentous phenotype; PAM1 has a paralog ; SVL3 ; that arose from the whole genome duplication""",0.0
+2276,ADE17:HYR1,4,959283.0,0.530930889819434,3.207622423838295,ORF,Uncharacterized ORF,YDR249C,YDR249C,SGDID:S000002657,"""Putative protein of unknown function""",0.0
+1923,DHH1:LSM3,4,608355.0,0.503043228911573,3.0198877271443094,ORF,Verified ORF,YDR081C,PDC2,SGDID:S000002488,"""Transcription factor for thiamine-regulated genes; required for expression of the two isoforms of pyruvate decarboxylase (PDC1 and PDC5) along with thiamine biosynthetic genes; binds a DNA sequence in the PDC5 promoter; mutant fails to grow on 2% glucose and thus is scored as inviable under standard conditions""",0.0
+1920,HNM1:TPO4,4,605918.0,0.486666748604178,3.0056032489250537,ORF,Verified ORF,YDR080W,VPS41,SGDID:S000002487,"""Subunit of the HOPS endocytic tethering complex; vacuole membrane protein that functions as a Rab GTPase effector ; interacting specifically with the GTP-bound conformation of Ypt7p ; facilitating tethering ; docking and promoting membrane fusion events at the late endosome and vacuole; required for both membrane and protein trafficking; Yck3p-mediated phosphorylation regulates the organization of vacuolar fusion sites""",0.0
+1919,DHH1:LSM3,4,605641.0,0.521990881159754,3.1613249585224934,ORF,Verified ORF,YDR080W,VPS41,SGDID:S000002487,"""Subunit of the HOPS endocytic tethering complex; vacuole membrane protein that functions as a Rab GTPase effector ; interacting specifically with the GTP-bound conformation of Ypt7p ; facilitating tethering ; docking and promoting membrane fusion events at the late endosome and vacuole; required for both membrane and protein trafficking; Yck3p-mediated phosphorylation regulates the organization of vacuolar fusion sites""",0.0
+1691,SRO9:GIS2,4,408981.0,0.321487470337986,3.0154383378325047,ORF,Verified ORF,YDL024C,DIA3,SGDID:S000002182,"""Protein of unknown function; involved in invasive and pseudohyphal growth""",0.0
+1167,ERG11:TPO4,3,258828.0,0.454498370022295,3.066096800631974,Promoter,Promoter,YCR082W_NFR/NDR,0,0,stable,0.0
+1165,ERG11:TPO4,3,258768.0,0.462616951014992,3.131075624604585,Promoter,Promoter,YCR082W_NFR/NDR,0,0,stable,0.0
+1168,ERG11:TPO4,3,259020.0,0.458948933657565,3.0725466389152487,ORF,Verified ORF,YCR082W,AHC2,SGDID:S000000678,"""Component of the ADA histone acetyltransferase complex; Ahc2p and Ahc1p are unique to the ADA complex and not shared with the related SAGA and SLIK complexes; may tether Ahc1p to the complex""",0.0
+1160,ERG11:TPO4,3,256989.0,0.467655392435275,3.207118657428204,ORF,Verified ORF,YCR081W,SRB8,SGDID:S000000677,"""Subunit of the RNA polymerase II mediator complex; associates with core polymerase subunits to form the RNA polymerase II holoenzyme; essential for transcriptional regulation; involved in glucose repression""",0.0
+1160,noPPI:reference,3,256989.0,0.598528886668561,3.087008038767073,ORF,Verified ORF,YCR081W,SRB8,SGDID:S000000677,"""Subunit of the RNA polymerase II mediator complex; associates with core polymerase subunits to form the RNA polymerase II holoenzyme; essential for transcriptional regulation; involved in glucose repression""",0.0
+1083,ADE17:PGM2,3,190765.0,-0.455880898267149,3.330931158786615,ORF,Verified ORF,YCR034W,ELO2,SGDID:S000000630,"""Fatty acid elongase ; involved in sphingolipid biosynthesis; acts on fatty acids of up to 24 carbons in length; mutations have regulatory effects on 1,3-beta-glucan synthase ; vacuolar ATPase ; and the secretory pathway; ELO2 has a paralog ; ELO1 ; that arose from the whole genome duplication; lethality of the elo2 elo3 double null mutation is functionally complemented by human ELOVL1 and weakly complemented by human ELOVL3 or ELOV7""",0.0
+1082,ADE17:GIS2,3,189158.0,-0.522211945743049,3.414371116512691,ORF,Verified ORF,YCR033W,SNT1,SGDID:S000000629,"""Set3C histone deacetylase scaffold; can act as prion [ESI+] (Expressed Subtelomeric Information) that drives emergence and transgenerational inheritance of activated chromatin state; prion conformer is triggered by transient Snt1p phosphorylation upon cell cycle arrest; [ESI+] reshapes the activity Set3C ; recruiting RNAPII ; interfering with Rap1p binding to activate genes in otherwise repressed subtelomeric domains; relocalizes to cytosol in response to hypoxia""",0.0
+1081,ADE17:GIS2,3,189052.0,-0.503806000118641,3.191966365437527,ORF,Verified ORF,YCR033W,SNT1,SGDID:S000000629,"""Set3C histone deacetylase scaffold; can act as prion [ESI+] (Expressed Subtelomeric Information) that drives emergence and transgenerational inheritance of activated chromatin state; prion conformer is triggered by transient Snt1p phosphorylation upon cell cycle arrest; [ESI+] reshapes the activity Set3C ; recruiting RNAPII ; interfering with Rap1p binding to activate genes in otherwise repressed subtelomeric domains; relocalizes to cytosol in response to hypoxia""",0.0
+1081,ADE17:HYR1,3,189052.0,-0.516568320506883,3.088454214515044,ORF,Verified ORF,YCR033W,SNT1,SGDID:S000000629,"""Set3C histone deacetylase scaffold; can act as prion [ESI+] (Expressed Subtelomeric Information) that drives emergence and transgenerational inheritance of activated chromatin state; prion conformer is triggered by transient Snt1p phosphorylation upon cell cycle arrest; [ESI+] reshapes the activity Set3C ; recruiting RNAPII ; interfering with Rap1p binding to activate genes in otherwise repressed subtelomeric domains; relocalizes to cytosol in response to hypoxia""",0.0
+1080,ADE17:GIS2,3,189025.0,-0.50708332907559,3.23775125248825,ORF,Verified ORF,YCR033W,SNT1,SGDID:S000000629,"""Set3C histone deacetylase scaffold; can act as prion [ESI+] (Expressed Subtelomeric Information) that drives emergence and transgenerational inheritance of activated chromatin state; prion conformer is triggered by transient Snt1p phosphorylation upon cell cycle arrest; [ESI+] reshapes the activity Set3C ; recruiting RNAPII ; interfering with Rap1p binding to activate genes in otherwise repressed subtelomeric domains; relocalizes to cytosol in response to hypoxia""",0.0
+1080,ADE17:HYR1,3,189025.0,-0.519397808413423,3.127051927003353,ORF,Verified ORF,YCR033W,SNT1,SGDID:S000000629,"""Set3C histone deacetylase scaffold; can act as prion [ESI+] (Expressed Subtelomeric Information) that drives emergence and transgenerational inheritance of activated chromatin state; prion conformer is triggered by transient Snt1p phosphorylation upon cell cycle arrest; [ESI+] reshapes the activity Set3C ; recruiting RNAPII ; interfering with Rap1p binding to activate genes in otherwise repressed subtelomeric domains; relocalizes to cytosol in response to hypoxia""",0.0
+1080,ADE17:PGM2,3,189025.0,-0.429819828435355,3.017114921497059,ORF,Verified ORF,YCR033W,SNT1,SGDID:S000000629,"""Set3C histone deacetylase scaffold; can act as prion [ESI+] (Expressed Subtelomeric Information) that drives emergence and transgenerational inheritance of activated chromatin state; prion conformer is triggered by transient Snt1p phosphorylation upon cell cycle arrest; [ESI+] reshapes the activity Set3C ; recruiting RNAPII ; interfering with Rap1p binding to activate genes in otherwise repressed subtelomeric domains; relocalizes to cytosol in response to hypoxia""",0.0
+1079,ADE17:GIS2,3,188979.0,-0.527072674860239,3.4596059116908813,ORF,Verified ORF,YCR033W,SNT1,SGDID:S000000629,"""Set3C histone deacetylase scaffold; can act as prion [ESI+] (Expressed Subtelomeric Information) that drives emergence and transgenerational inheritance of activated chromatin state; prion conformer is triggered by transient Snt1p phosphorylation upon cell cycle arrest; [ESI+] reshapes the activity Set3C ; recruiting RNAPII ; interfering with Rap1p binding to activate genes in otherwise repressed subtelomeric domains; relocalizes to cytosol in response to hypoxia""",0.0
+1078,ADE17:GIS2,3,188904.0,-0.529202592549143,3.4908120564056846,ORF,Verified ORF,YCR033W,SNT1,SGDID:S000000629,"""Set3C histone deacetylase scaffold; can act as prion [ESI+] (Expressed Subtelomeric Information) that drives emergence and transgenerational inheritance of activated chromatin state; prion conformer is triggered by transient Snt1p phosphorylation upon cell cycle arrest; [ESI+] reshapes the activity Set3C ; recruiting RNAPII ; interfering with Rap1p binding to activate genes in otherwise repressed subtelomeric domains; relocalizes to cytosol in response to hypoxia""",0.0
+1077,ADE17:GIS2,3,188786.0,-0.504803336405414,3.2221164128137034,ORF,Verified ORF,YCR033W,SNT1,SGDID:S000000629,"""Set3C histone deacetylase scaffold; can act as prion [ESI+] (Expressed Subtelomeric Information) that drives emergence and transgenerational inheritance of activated chromatin state; prion conformer is triggered by transient Snt1p phosphorylation upon cell cycle arrest; [ESI+] reshapes the activity Set3C ; recruiting RNAPII ; interfering with Rap1p binding to activate genes in otherwise repressed subtelomeric domains; relocalizes to cytosol in response to hypoxia""",0.0
+1076,ADE17:PGM2,3,188758.0,-0.449631970997272,3.2648866775500323,ORF,Verified ORF,YCR033W,SNT1,SGDID:S000000629,"""Set3C histone deacetylase scaffold; can act as prion [ESI+] (Expressed Subtelomeric Information) that drives emergence and transgenerational inheritance of activated chromatin state; prion conformer is triggered by transient Snt1p phosphorylation upon cell cycle arrest; [ESI+] reshapes the activity Set3C ; recruiting RNAPII ; interfering with Rap1p binding to activate genes in otherwise repressed subtelomeric domains; relocalizes to cytosol in response to hypoxia""",0.0
+1076,ADE17:GIS2,3,188758.0,-0.502780547679817,3.193521446522104,ORF,Verified ORF,YCR033W,SNT1,SGDID:S000000629,"""Set3C histone deacetylase scaffold; can act as prion [ESI+] (Expressed Subtelomeric Information) that drives emergence and transgenerational inheritance of activated chromatin state; prion conformer is triggered by transient Snt1p phosphorylation upon cell cycle arrest; [ESI+] reshapes the activity Set3C ; recruiting RNAPII ; interfering with Rap1p binding to activate genes in otherwise repressed subtelomeric domains; relocalizes to cytosol in response to hypoxia""",0.0
+1075,ADE17:GIS2,3,187956.0,-0.505110094309606,3.062289065887132,ORF,Verified ORF,YCR033W,SNT1,SGDID:S000000629,"""Set3C histone deacetylase scaffold; can act as prion [ESI+] (Expressed Subtelomeric Information) that drives emergence and transgenerational inheritance of activated chromatin state; prion conformer is triggered by transient Snt1p phosphorylation upon cell cycle arrest; [ESI+] reshapes the activity Set3C ; recruiting RNAPII ; interfering with Rap1p binding to activate genes in otherwise repressed subtelomeric domains; relocalizes to cytosol in response to hypoxia""",0.0
+1073,ADE17:PGM2,3,186935.0,-0.468469355926959,3.5065216497399456,ORF,Verified ORF,YCR033W,SNT1,SGDID:S000000629,"""Set3C histone deacetylase scaffold; can act as prion [ESI+] (Expressed Subtelomeric Information) that drives emergence and transgenerational inheritance of activated chromatin state; prion conformer is triggered by transient Snt1p phosphorylation upon cell cycle arrest; [ESI+] reshapes the activity Set3C ; recruiting RNAPII ; interfering with Rap1p binding to activate genes in otherwise repressed subtelomeric domains; relocalizes to cytosol in response to hypoxia""",0.0
+1072,ADE17:HYR1,3,181487.0,-0.540413734630083,3.1802637328720813,ORF,Verified ORF,YCR032W,BPH1,SGDID:S000000628,"""Protein homologous to Chediak-Higashi syndrome and Beige proteins; both of which are implicated in disease syndromes in human and mouse ; respectively ; due to defective lysosomal trafficking; mutant phenotype and genetic interactions suggest a role in protein sorting""",0.0
+1059,ADE17:GIS2,3,156729.0,-0.501273570930412,3.159032675835868,ORF,Verified ORF,YCR021C,HSP30,SGDID:S000000615,"""Negative regulator of the H(+)-ATPase Pma1p; stress-responsive protein; hydrophobic plasma membrane localized; induced by heat shock ; ethanol treatment ; weak organic acid ; glucose limitation ; and entry into stationary phase""",0.0
+1057,ADE17:GIS2,3,152269.0,-0.490408193333009,3.018745180902842,Close to 3'-UTR,Close to 3'-UTR,YCR018C-A,YCR018C-A,SGDID:S000007230,"""Putative protein of unknown function; encoded opposite a Ty1 LTR""",0.0
+1041,ADE17:GIS2,3,146875.0,-0.528690929516326,3.361740401703586,ORF,Verified ORF,YCR017C,CWH43,SGDID:S000000610,"""GPI lipid remodelase; responsible for introducing ceramides into GPI anchors having a C26:0 fatty acid in sn-2 of the glycerol moiety; can also use lyso-GPI protein anchors and various base resistant lipids as substrates; contains 14-16 transmembrane segments and several putative glycosylation and phosphorylation sites; null mutation is synthetically lethal with pkc1 deletion""",0.0
+1040,ADE17:GIS2,3,145505.0,-0.494916443212428,3.078351468677245,ORF,Verified ORF,YCR017C,CWH43,SGDID:S000000610,"""GPI lipid remodelase; responsible for introducing ceramides into GPI anchors having a C26:0 fatty acid in sn-2 of the glycerol moiety; can also use lyso-GPI protein anchors and various base resistant lipids as substrates; contains 14-16 transmembrane segments and several putative glycosylation and phosphorylation sites; null mutation is synthetically lethal with pkc1 deletion""",0.0
+1036,ADE17:GIS2,3,143226.0,-0.504413243591381,3.088525090694154,Close to 3'-UTR,Close to 3'-UTR,YCR016W,YCR016W,SGDID:S000000609,"""Putative protein of unknown function; green fluorescent protein (GFP)-fusion protein localizes to the nucleolus and nucleus; predicted to be involved in ribosome biogenesis""",0.0
+1033,ADE17:GIS2,3,137654.0,-0.54015751383334,3.2400328403235474,Promoter,Promoter,YCR012W_NFR/NDR,0,0,fragile,0.0
+1028,ADE17:GIS2,3,135728.0,-0.498601679606187,3.034042159865824,ORF,Verified ORF,YCR011C,ADP1,SGDID:S000000604,"""Putative ATP-dependent permease of the ABC transporter family""",0.0
+1027,ADE17:GIS2,3,134374.0,-0.50648727269395,3.177062821472991,ORF,Verified ORF,YCR011C,ADP1,SGDID:S000000604,"""Putative ATP-dependent permease of the ABC transporter family""",0.0
+917,SRO9:GIS2,3,7958.0,0.48529559942181,3.296881328955058,ORF,Verified ORF,YCL073C,GEX1,SGDID:S000000575,"""Proton:glutathione antiporter; localized to the vacuolar and plasma membranes; imports glutathione from the vacuole and exports it through the plasma membrane; has a role in resistance to oxidative stress and modulation of the PKA pathway; GEX1 has a paralog ; GEX2 ; that arose from a segmental duplication""",0.0
+925,MID2:WSC2,3,21337.0,0.51523886784369,3.084415890228379,ORF,Verified ORF,YCL061C,MRC1,SGDID:S000000566,"""S-phase checkpoint protein required for DNA replication; couples DNA helicase and polymerase; stabilizes Pol2p at stalled replication forks during stress ; where it forms a pausing complex with Tof1p and is phosphorylated by Mec1p; defines a novel S-phase checkpoint with Hog1p that coordinates DNA replication and transcription upon osmostress; protects uncapped telomeres; Dia2p-dependent degradation mediates checkpoint recovery; exposure to ethanol affects localization; mammalian claspin homolog""",0.0
+928,MID2:WSC2,3,25563.0,0.535558380678345,3.248033501749625,ORF,Verified ORF,YCL057W,PRD1,SGDID:S000000562,"""Zinc metalloendopeptidase; found in the cytoplasm and intermembrane space of mitochondria; with Cym1p ; involved in degradation of mitochondrial proteins and of presequence peptides cleaved from imported proteins; protein abundance increases in response to DNA replication stress""",0.0
+786,ERV25:ORM2,2,712962.0,-0.403523705558672,3.121486657905146,Close to 3'-UTR,Close to 3'-UTR,YBR246W,RRT2,SGDID:S000000450,"""Methylesterase performing penultimate step of diphthamide biosynthesis; hydrolyzes methylated diphthine to produce diphthine and allows Dph6-catalyzed amidation reaction to occur; deletion leads to resistance to sordarin and accumulation of methylatediphthine; WD40 domain-containing protein; involved in endosomal recycling; forms complex with Rtt10p that functions in retromer-mediated pathway for recycling internalized cell-surface proteins""",0.0
+654,noPPI:reference,2,544518.0,0.663316871797135,3.569188257794593,Promoter,Promoter,YBR151W_NFR/NDR,0,0,fragile,0.0
+657,noPPI:reference,2,544962.0,0.628497859836775,3.2332451157703184,Close to 3'-UTR,Close to 3'-UTR,YBR150C,TBS1,SGDID:S000000354,"""Protein of unknown function; the authentic ; non-tagged protein is detected in highly purified mitochondria in high-throughput studies; associates with rDNA chromatin in vivo; TBS1 has a paralog ; HAL9 ; that arose from the whole genome duplication""",0.0
+648,FMP45:MID2,2,538868.0,0.531477539948426,3.4751451691868764,ORF,Verified ORF,YBR148W,YSW1,SGDID:S000000352,"""Protein required for normal prospore membrane formation; interacts with Gip1p ; which is the meiosis-specific regulatory subunit of the Glc7p protein phosphatase; expressed specifically in spores and localizes to the prospore membrane; YSW1 has a paralog ; SPO21 ; that arose from the whole genome duplication""",0.0
+648,PMC1:CTR2,2,538868.0,0.559148469911644,3.0169710750788363,ORF,Verified ORF,YBR148W,YSW1,SGDID:S000000352,"""Protein required for normal prospore membrane formation; interacts with Gip1p ; which is the meiosis-specific regulatory subunit of the Glc7p protein phosphatase; expressed specifically in spores and localizes to the prospore membrane; YSW1 has a paralog ; SPO21 ; that arose from the whole genome duplication""",0.0
+596,MID2:PIN2,2,474141.0,-0.471810995833906,3.033991615040704,Promoter,Promoter,YBR115C_NFR/NDR,0,0,fragile,0.0
+595,MID2:PIN2,2,474138.0,-0.471810995833906,3.033991615040704,Promoter,Promoter,YBR115C_NFR/NDR,0,0,fragile,0.0
+581,ERG11:PIS1,2,457298.0,-0.460265673242709,3.2297004910371685,ORF,Verified ORF,YBR108W,AIM3,SGDID:S000000312,"""Protein that inhibits barbed-end actin filament elongation; interacts with Rvs167p; null mutant is viable and displays elevated frequency of mitochondrial genome loss""",0.0
+581,HNM1:TPO4,2,457298.0,-0.497836392006929,3.172037953612164,ORF,Verified ORF,YBR108W,AIM3,SGDID:S000000312,"""Protein that inhibits barbed-end actin filament elongation; interacts with Rvs167p; null mutant is viable and displays elevated frequency of mitochondrial genome loss""",0.0
+576,HNM1:TPO4,2,455247.0,-0.508106794374534,3.345314857165378,ORF,Verified ORF,YBR108W,AIM3,SGDID:S000000312,"""Protein that inhibits barbed-end actin filament elongation; interacts with Rvs167p; null mutant is viable and displays elevated frequency of mitochondrial genome loss""",0.0
+575,HNM1:TPO4,2,455029.0,-0.482743392756978,3.0442435202675826,ORF,Verified ORF,YBR108W,AIM3,SGDID:S000000312,"""Protein that inhibits barbed-end actin filament elongation; interacts with Rvs167p; null mutant is viable and displays elevated frequency of mitochondrial genome loss""",0.0
+280,ERG11:ORM2,2,111999.0,0.418838909387858,3.307503160812393,ORF,Verified ORF,YBL058W,SHP1,SGDID:S000000154,"""UBX domain-containing substrate adaptor for Cdc48p; ubiquitin regulatory X domain-containing protein that acts as a substrate recruiting cofactor for Cdc48p; positively regulates Glc7p PPase activity to promote growth and mitotic progression in complex with Cdc48p; ubiquitinated protein interactor involved in ER-associated degradation (ERAD); regulated by nuclear Ub-dependent degradation (INMAD pathway) independent of the Asi and Doa10 complexes; homolog of human p47 (NSFL1C)""",0.0
+280,MID2:TPO2,2,111999.0,0.52583778064883,3.0994124482942045,ORF,Verified ORF,YBL058W,SHP1,SGDID:S000000154,"""UBX domain-containing substrate adaptor for Cdc48p; ubiquitin regulatory X domain-containing protein that acts as a substrate recruiting cofactor for Cdc48p; positively regulates Glc7p PPase activity to promote growth and mitotic progression in complex with Cdc48p; ubiquitinated protein interactor involved in ER-associated degradation (ERAD); regulated by nuclear Ub-dependent degradation (INMAD pathway) independent of the Asi and Doa10 complexes; homolog of human p47 (NSFL1C)""",0.0
+279,ERG11:ORM2,2,111931.0,0.417417468280419,3.267513797689938,ORF,Verified ORF,YBL058W,SHP1,SGDID:S000000154,"""UBX domain-containing substrate adaptor for Cdc48p; ubiquitin regulatory X domain-containing protein that acts as a substrate recruiting cofactor for Cdc48p; positively regulates Glc7p PPase activity to promote growth and mitotic progression in complex with Cdc48p; ubiquitinated protein interactor involved in ER-associated degradation (ERAD); regulated by nuclear Ub-dependent degradation (INMAD pathway) independent of the Asi and Doa10 complexes; homolog of human p47 (NSFL1C)""",0.0
+278,ERG11:ORM2,2,111916.0,0.408006341608796,3.14920393555674,ORF,Verified ORF,YBL058W,SHP1,SGDID:S000000154,"""UBX domain-containing substrate adaptor for Cdc48p; ubiquitin regulatory X domain-containing protein that acts as a substrate recruiting cofactor for Cdc48p; positively regulates Glc7p PPase activity to promote growth and mitotic progression in complex with Cdc48p; ubiquitinated protein interactor involved in ER-associated degradation (ERAD); regulated by nuclear Ub-dependent degradation (INMAD pathway) independent of the Asi and Doa10 complexes; homolog of human p47 (NSFL1C)""",0.0
+277,ERG11:ORM2,2,111645.0,0.411653868054257,3.2111775620365544,ORF,Verified ORF,YBL058W,SHP1,SGDID:S000000154,"""UBX domain-containing substrate adaptor for Cdc48p; ubiquitin regulatory X domain-containing protein that acts as a substrate recruiting cofactor for Cdc48p; positively regulates Glc7p PPase activity to promote growth and mitotic progression in complex with Cdc48p; ubiquitinated protein interactor involved in ER-associated degradation (ERAD); regulated by nuclear Ub-dependent degradation (INMAD pathway) independent of the Asi and Doa10 complexes; homolog of human p47 (NSFL1C)""",0.0
+277,MID2:TPO2,2,111645.0,0.518667845504035,3.0284084778818654,ORF,Verified ORF,YBL058W,SHP1,SGDID:S000000154,"""UBX domain-containing substrate adaptor for Cdc48p; ubiquitin regulatory X domain-containing protein that acts as a substrate recruiting cofactor for Cdc48p; positively regulates Glc7p PPase activity to promote growth and mitotic progression in complex with Cdc48p; ubiquitinated protein interactor involved in ER-associated degradation (ERAD); regulated by nuclear Ub-dependent degradation (INMAD pathway) independent of the Asi and Doa10 complexes; homolog of human p47 (NSFL1C)""",0.0
+282,ERG11:ORM2,2,116024.0,0.411199847778427,3.158769284012468,ORF,Verified ORF,YBL055C,YBL055C,SGDID:S000000151,"""3'-->5' exonuclease and endonuclease with a possible role in apoptosis; has similarity to mammalian and C. elegans apoptotic nucleases""",0.0
+282,MID2:TPO2,2,116024.0,0.534112155472283,3.139832640829049,ORF,Verified ORF,YBL055C,YBL055C,SGDID:S000000151,"""3'-->5' exonuclease and endonuclease with a possible role in apoptosis; has similarity to mammalian and C. elegans apoptotic nucleases""",0.0
+370,SSH1:ERV25,2,191128.0,-0.623239501895736,3.2151616078437204,ORF,Verified ORF,YBL017C,PEP1,SGDID:S000000113,"""Type I transmembrane sorting receptor for multiple vacuolar hydrolases; cycles between the late-Golgi and prevacuolar endosome-like compartments""",0.0
+369,SSH1:ERV25,2,191124.0,0.722633362578637,3.602653648189428,ORF,Verified ORF,YBL017C,PEP1,SGDID:S000000113,"""Type I transmembrane sorting receptor for multiple vacuolar hydrolases; cycles between the late-Golgi and prevacuolar endosome-like compartments""",0.0
+82,ADE17:PGM2,1,106800.0,-0.474109101506061,3.603849035332265,ORF,Verified ORF,YAL023C,PMT2,SGDID:S000000021,"""Protein O-mannosyltransferase of the ER membrane; transfers mannose residues from dolichyl phosphate-D-mannose to protein serine/threonine residues; involved in ER quality control; functions as a heterodimer with Pmt2p but can also pair with Pmt5p; antifungal drug target; PMT2 has a paralog ; PMT3 ; that arose from the whole genome duplication""",0.0
+5692,HUG1:ALO1,9,225578.0,-0.48313030178683,3.0920324224059086,Unstable transcript,XUT,XUT_9F-113,0,0,ncRNA_UNB,0.0
+2312,HNM1:MAM33,4,979983.0,0.532834968524971,3.425958598068912,Unstable transcript,XUT,XUT_4F-449,0,0,ncRNA_UNB,0.0
+11916,ALO1:ADE17,16,840560.0,-0.499003198600305,3.1841828884739143,Unstable transcript,XUT,XUT_16F-339,0,0,ncRNA_UNB,0.0
+11916,ERG11:MID2,16,840560.0,-0.412792292549567,3.1278363652929646,Unstable transcript,XUT,XUT_16F-339,0,0,ncRNA_UNB,0.0
+11915,ERG11:MID2,16,840461.0,-0.428716826623202,3.34607253370845,Unstable transcript,XUT,XUT_16F-339,0,0,ncRNA_UNB,0.0
+11914,ERG11:MID2,16,840443.0,-0.440516548414405,3.499063976577923,Unstable transcript,XUT,XUT_16F-339,0,0,ncRNA_UNB,0.0
+11913,ERG11:MID2,16,840309.0,-0.470588440554976,3.832585561937357,Unstable transcript,XUT,XUT_16F-339,0,0,ncRNA_UNB,0.0
+11913,ALO1:ADE17,16,840309.0,-0.500761344012841,3.1222834600552667,Unstable transcript,XUT,XUT_16F-339,0,0,ncRNA_UNB,0.0
+10189,ADE17:GIS2,15,170944.0,-0.542994820703035,3.0465561985929086,Promoter,Promoter,XUT_15R-101_NFR/NDR,0,0,0,0.0
+6988,noPPI:reference,11,196565.0,0.603910199440623,3.1504443079566986,Unstable transcript,XUT,XUT_11F-88,0,0,ncRNA_UNB,0.0
+6987,noPPI:reference,11,196560.0,0.603910199440623,3.1504443079566986,Unstable transcript,XUT,XUT_11F-88,0,0,ncRNA_UNB,0.0
+6985,noPPI:reference,11,195507.0,0.610559012540768,3.213556777639356,Unstable transcript,XUT,XUT_11F-87,0,0,ncRNA_UNB,0.0
+6015,ERV25:EMP47,10,75990.0,-0.613948355525144,3.3389401725648358,Promoter,Promoter,SUT617_NFR/NDR,0,0,0,0.0
+10416,ERG11:PIS1,15,424272.0,-0.448118059833417,3.132035863515321,Unstable transcript,SUT,SUT366,0,0,ncRNA_UNB,0.0
+10416,ERG11:MID2,15,424272.0,-0.412140998797704,3.099803139534686,Unstable transcript,SUT,SUT366,0,0,ncRNA_UNB,0.0
+10415,ERG11:PIS1,15,422808.0,-0.454322848291133,3.200174358595647,Unstable transcript,SUT,SUT366,0,0,ncRNA_UNB,0.0
+6019,SSH1:ERV25,10,79590.0,-0.572370666034269,3.5351815231543253,Unstable transcript,SUT,SUT201,0,0,ncRNA_TFO,0.0
+3458,SSH1:ERG11,5,563866.0,-0.520495839528946,3.105774028001513,Unstable transcript,SUT,SUT100,0,0,ncRNA_UNB,0.0
+3440,ERG27:ACF2,5,563428.0,-0.680769672140059,3.0754186580126937,Unstable transcript,SUT,SUT100,0,0,ncRNA_UNB,0.0
+2284,HNM1:MAM33,4,969630.0,0.512642787123862,3.219134063141128,Unstable transcript,SUT,SUT063,0,0,ncRNA_UNB,0.0
+660,FMP45:MID2,2,553949.0,0.47807693631942,3.082406243820817,Unstable transcript,SUT,SUT020,0,0,ncRNA_UNB,0.0
+51,noPPI:reference,1,68621.0,-0.650058909506721,3.5731424582506826,Promoter,Promoter,SUT003_NFR/NDR,0,0,0,0.0
+3501,SSH1:ERG11,5,564535.0,-0.512457536855786,3.0387333500982248,Intergenic region,Intergenic region,E:564025-566229,0,0,between YERComega1 and YER187W,0.0
+10182,SRO9:GIS2,15,168558.0,-0.368490334650765,3.1970983959078545,Promoter,Promoter,CUT827_NFR/NDR,0,0,0,0.0
+10456,SSH1:ERG11,15,462740.0,-1.61033428393053,3.262031233294197,Unstable transcript,CUT,CUT379,0,0,ncRNA_STM,0.0
+8804,ERG11:ORM2,13,500701.0,0.449077874150292,3.728892183078496,Promoter,Promoter,CUT300_NFR/NDR,0,0,0,0.0
+2291,HNM1:MAM33,4,974814.0,0.513227271379206,3.098068048169237,Unstable transcript,CUT,CUT075,0,0,ncRNA_STM,0.0
+2290,HNM1:MAM33,4,974731.0,0.498573975922249,3.007603098011681,Unstable transcript,CUT,CUT075,0,0,ncRNA_STM,0.0
+2288,HNM1:MAM33,4,974632.0,0.537212125583357,3.4917691834580857,Unstable transcript,CUT,CUT075,0,0,ncRNA_STM,0.0
+5726,ALO1:ADE17,9,245890.0,-0.539496933962161,3.184909729183833,Other features,Replication,ARS923,ARS923,SGDID:S000119034,"""Autonomously Replicating Sequence""",0.0
+11894,HNM1:MID2,16,819256.0,-0.479273383818079,3.1435596128279686,Other features,Replication,ARS1627,ARS1627,SGDID:S000118423,"""Autonomously Replicating Sequence""",0.0
+11894,HNM1:ERG11,16,819256.0,-0.525450679785574,3.0832645662827995,Other features,Replication,ARS1627,ARS1627,SGDID:S000118423,"""Autonomously Replicating Sequence""",0.0
+9443,SSH1:ERG11,14,250690.0,-0.525958561668692,3.2598555269538805,Other features,Replication,ARS1413,ARS1413,SGDID:S000077375,"""Strong origin of replication activated in late S phase""",0.0
+9443,HNM1:RBD2,14,250690.0,-0.448254441809501,3.181440997905291,Other features,Replication,ARS1413,ARS1413,SGDID:S000077375,"""Strong origin of replication activated in late S phase""",0.0
+9443,ALO1:UIP4,14,250690.0,-0.546573327029831,3.1808431033233644,Other features,Replication,ARS1413,ARS1413,SGDID:S000077375,"""Strong origin of replication activated in late S phase""",0.0
+9143,HUG1:ADE17,13,815529.0,0.587951969515376,3.0386144075140478,Other features,Replication,ARS1330,ARS1330,SGDID:S000118380,"""Autonomously Replicating Sequence""",0.0
+181,ERG11:ACF2,1,223059.0,-0.619419104776165,3.371605657103869,Other features,Replication,ARS112,ARS112,SGDID:S000121257,"""Autonomously Replicating Sequence""",0.0
+11951,TPO1:TCB2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.549542501906696
+11950,TPO1:TCB2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.548727473229167
+11949,TPO1:TCB2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.545968037357148
+11949,TPO1:MID2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.490608380981188
+11948,TPO1:TCB2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.520477609543166
+11948,PMC1:GTR2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.520981450194017
+11946,TPO1:TCB2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.604731646952858
+11946,ALO1:HYR1,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.528947972507669
+11946,HUG1:PGM2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.611642516263861
+11946,MID2:RSN1,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.427636025811288
+11946,ERV25:UIP4,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.588391941494783
+11946,ALO1:UIP4,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.546732597007564
+11945,TPO1:MID2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.541425366347173
+11945,TPO1:TCB2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.557927171305276
+11945,ERG11:ACF2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.507052939848182
+11945,ERV25:UIP4,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.596261798896069
+11945,PLM2:HNM1,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.47948412034692
+11945,PMC1:CTR2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.581034410189466
+11945,HUG1:PGM2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.600979853891288
+11945,ALO1:UIP4,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.540577187255578
+11944,TPO1:TCB2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.609105245275864
+11944,ERG11:ACF2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.530943899086965
+11944,HUG1:PGM2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.644111373240016
+11944,ERV25:UIP4,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.619688327038134
+11944,MID2:RSN1,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.419266654854153
+11943,TPO1:TCB2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.569151863111236
+11943,TPO1:MID2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.533274427209752
+11943,ERV25:UIP4,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.617543949134547
+11943,ERG27:ACF2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.552215766753871
+11943,HNM1:ERG11,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.577561607445675
+11943,ALO1:HYR1,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.523079687524387
+11943,PMC1:CTR2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.598087193363554
+11942,PLM2:HNM1,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.499305676518791
+11942,TPO1:TCB2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.545708903367642
+11942,PMC1:CTR2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.582711404852752
+11942,ERG11:ACF2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.48677938285084
+11942,TPO1:MID2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.50015673478206
+11942,ALO1:HYR1,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.499970403109586
+11942,ERV25:UIP4,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.565813548006157
+11940,ERG11:ACF2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.521703516108727
+11940,HUG1:PGM2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.646525358504717
+11940,ALO1:HYR1,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.525821794609532
+11940,MID2:MAM33,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.581480016164244
+11940,MID2:RSN1,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.433775409290048
+11940,ERV25:UIP4,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.591982589038547
+11940,ALO1:UIP4,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.545069461608577
+11939,PLM2:HNM1,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.483042343092838
+11939,HUG1:PGM2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.608953514350645
+11939,TPO1:MID2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.497489636054212
+11939,HNM1:ERG11,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.548623628122356
+11939,ALO1:ADE17,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.546298432609621
+11938,TPO1:TCB2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.546552035169311
+11938,TPO1:MID2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.527037920721048
+11938,HUG1:PGM2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.624894780931966
+11938,ERG11:ACF2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.502213826793591
+11938,PMC1:CTR2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.576076070355632
+11937,PLM2:HNM1,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.507265807968382
+11937,ERG11:ACF2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.49139883973559
+11937,TPO1:TCB2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.526237931286106
+11937,ALO1:ADE17,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.56801652191719
+11937,TPO1:MID2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.502945434504198
+11937,ERG27:ACF2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.524091047259409
+11937,PMC1:GTR2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.532456262233115
+11937,HUG1:PGM2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.592737363094628
+11936,PLM2:HNM1,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.521858685868282
+11936,TPO1:TCB2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.533252375941908
+11936,HUG1:PGM2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.614838105276345
+11936,TPO1:MID2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.508604875441537
+11936,ERG11:ACF2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.48865858750507
+11936,PMC1:GTR2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.538375823696842
+11936,HNM1:ERG11,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.5539842822675
+11935,PLM2:HNM1,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.517992482105889
+11935,HUG1:PGM2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.643620706131264
+11935,TPO1:MID2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.531764549682978
+11935,TPO1:TCB2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.548076170077741
+11935,ERG11:ACF2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.496140321288536
+11935,PMC1:CTR2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.569072710229629
+11935,ERV25:UIP4,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.569099586872048
+11934,TPO1:MID2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.53387788753066
+11934,TPO1:TCB2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.548266879957941
+11934,HUG1:PGM2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.631121600856996
+11934,ERG11:ACF2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.502495290985713
+11934,HNM1:ERG11,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.568360743405757
+11934,PMC1:CTR2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.561626994809903
+11933,TPO1:TCB2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.550318723355983
+11933,ERG11:ACF2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.506444576751526
+11933,HUG1:PGM2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.626993647795985
+11933,TPO1:MID2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.518882497465269
+11933,HNM1:ERG11,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.553467282698675
+11933,PMC1:CTR2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.574238977905273
+11932,PLM2:HNM1,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.501586619969196
+11932,TPO1:MID2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.527880525426608
+11932,TPO1:TCB2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.538667701171584
+11932,HUG1:PGM2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.62021807573572
+11932,PMC1:GTR2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.544163661247677
+11932,ERG27:ACF2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.529375852655253
+11932,HNM1:ERG11,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.552118395422934
+11932,PMC1:CTR2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.571628360166373
+11932,ERG11:ACF2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.469113468238684
+11930,PLM2:HNM1,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.534286035647974
+11930,TPO1:TCB2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.56888204737006
+11930,ERG27:ACF2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.533660851157721
+11929,TPO1:TCB2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.573489635152151
+11929,ERV25:UIP4,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.620274667783471
+11929,MID2:MAM33,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.592763639247076
+11929,HUG1:PGM2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.628694406883422
+11929,MID2:RSN1,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.440756527953449
+11929,ALO1:UIP4,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.552524967367112
+11929,PLM2:SNA3,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.51258655707542
+11928,TPO1:TCB2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.621405887714755
+11928,ALO1:HYR1,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.537772550262965
+11928,MID2:RSN1,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.439544284738483
+11928,HUG1:PGM2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.618504353476037
+11928,ALO1:UIP4,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.544830972634603
+11928,PLM2:SNA3,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.508267449205074
+11928,ERG11:PIS1,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.475945855482617
+11928,SSH1:ERV25,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.538781175679194
+11927,TPO1:TCB2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.617507882980458
+11927,ERV25:UIP4,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.63712676696565
+11927,ALO1:HYR1,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.539659540600269
+11927,MID2:RSN1,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.440210441858693
+11927,HUG1:PGM2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.624978517900576
+11927,ALO1:UIP4,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.546172733568998
+11927,PLM2:SNA3,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.511480475392157
+11926,TPO1:TCB2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.570978841619086
+11926,ERV25:UIP4,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.626227645214395
+11926,MID2:MAM33,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.586894947748153
+11926,ERG27:ACF2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.545300855736161
+11926,ALO1:HYR1,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.521811974485498
+11926,MID2:RSN1,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.43654657051753
+11924,TPO1:TCB2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.584617764984451
+11924,ALO1:HYR1,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.51942547650176
+11924,ERG27:ACF2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.533491426240823
+11924,MID2:RSN1,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.425887848093608
+11924,MID2:MAM33,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.56394205923982
+11924,PMC1:CTR2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.576200629277479
+11924,ERV25:UIP4,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.58260348434478
+11924,HNM1:ERG11,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.543169356823754
+11923,PLM2:HNM1,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.529474273689292
+11923,TPO1:TCB2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.557516696646124
+11923,ALO1:HYR1,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.524537198118748
+11922,SRO9:DHH1,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.443655162685414
+11922,ALO1:HYR1,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.494673766344971
+11922,ERG11:ACF2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.472339117138195
+11922,PMC1:GTR2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.517010870980024
+11921,TPO1:TCB2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.566399747532986
+11921,PMC1:GTR2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.545622686395717
+11921,SRO9:DHH1,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.457245823173285
+11921,ERV25:UIP4,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.59182313209462
+11921,PMC1:CTR2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.581510788817403
+11921,ERG27:ACF2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.525724158782989
+11921,HUG1:PGM2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.601331842480125
+11921,ERG11:ACF2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.483406626044393
+11920,ERG27:ACF2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.559490379764928
+11920,ALO1:HYR1,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.526041063700394
+11920,ERG11:ACF2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.502400517379931
+11920,SRO9:DHH1,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.461721594256745
+11920,PMC1:CTR2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.580733787650493
+11920,MID2:RSN1,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.420840141252712
+11919,PLM2:HNM1,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.518990438110269
+11919,TPO1:TCB2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.531485117939786
+11918,ERG11:ACF2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.826467963042129
+11916,ERG11:ACF2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.50603957011013
+11916,HUG1:PGM2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.618441062146499
+11916,MID2:RSN1,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.429347792733905
+11916,SRO9:DHH1,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.458260955340641
+11916,ERG27:ACF2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.533016133393811
+11916,ALO1:HYR1,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.500531129066184
+11916,MID2:TPO2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.412273468704266
+11915,ERG11:ACF2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.534953629132308
+11915,MID2:TPO2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.448296294772441
+11915,ALO1:HYR1,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.527256748918752
+11915,TPO1:TCB2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.540630197367459
+11915,ERV25:UIP4,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.598223516742087
+11915,ALO1:UIP4,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.553615561087806
+11915,MID2:MAM33,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.554899784991824
+11915,PMC1:CTR2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.567023700930085
+11915,HNM1:ERG11,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.54223976258204
+11914,ERG27:ACF2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.593284092387233
+11914,ERG11:ACF2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.536206369261337
+11914,ALO1:HYR1,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.529543254727262
+11914,MID2:TPO2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.439550571681227
+11914,TPO1:TCB2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.541062396745072
+11914,ERV25:UIP4,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.604123770670609
+11914,ALO1:UIP4,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.551452350351906
+11914,PMC1:CTR2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.573001134550848
+11914,MID2:MAM33,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.552456010129492
+11914,HNM1:ERG11,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.542134837395234
+11913,ERG11:ACF2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.52460247900985
+11913,HUG1:PGM2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.634971058560903
+11913,HUG1:ALO1,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.599368422688602
+11913,ERG27:ACF2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.535472316355198
+11913,HNM1:ERG11,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.561203426256648
+11913,TPO1:TCB2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.519615685310416
+11913,SSH1:ORM2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.528632053931787
+11913,PMC1:GTR2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.531923069905228
+11913,MID2:RSN1,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.418758596857673
+11913,ALO1:HYR1,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.495932439219034
+11913,PMC1:CTR2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.564602707422183
+11912,ERG11:ACF2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.571637711350934
+11912,ERG27:ACF2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.600139990860169
+11912,TPO1:TCB2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.577634388890314
+11912,MID2:TPO2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.462395607054649
+11912,SRO9:GIS2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.395726253109884
+11912,MID2:MAM33,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.610319000561503
+11912,SSH1:ERG11,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.544324477080136
+11912,ERV25:EMP47,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.560056504457402
+11912,HUG1:ALO1,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.590890728892262
+11912,RET2:SNA3,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.338911879353845
+11912,PLM2:SNA3,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.519519042027574
+11912,ERV25:RBD2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.484609951185102
+11912,HNM1:MAM33,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.534858925383072
+11910,ERG11:ACF2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.577248206123175
+11910,TPO1:TCB2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.586381110396459
+11910,ALO1:UIP4,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.551627852415937
+11910,ERG27:ACF2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.526951144072053
+11910,SRO9:GIS2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.358829449544081
+11910,ERV25:UIP4,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.57487077676527
+11910,PMC1:CTR2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.56614318611385
+11910,FMP45:MEP1,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.475399569295036
+11910,RET2:SNA3,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.328577877631703
+11910,MID2:MAM33,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.544180636239859
+11909,HUG1:PGM2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.645860080660758
+11909,ERG11:ACF2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.516649415557454
+11909,PLM2:HNM1,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.497920208391097
+11909,TPO1:TCB2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.544162893732075
+11909,TPO1:TPO2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.584857155127027
+11909,SRO9:DHH1,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.462382475142222
+11909,ERV25:UIP4,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.597010542072015
+11908,ERG11:ACF2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.522384450834183
+11908,HUG1:PGM2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.636803912455965
+11908,TPO1:TCB2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.544659556288158
+11908,SRO9:DHH1,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.466085769545542
+11908,ERV25:UIP4,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.588191490325614
+11908,MID2:MAM33,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.559994579177396
+11908,MID2:RSN1,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.417257227049452
+11908,RET2:SNA3,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.329203368021926
+11907,ERG11:ACF2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.516387999047479
+11907,ERV25:UIP4,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.594502975777487
+11907,HUG1:PGM2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.61288075924999
+11907,TPO1:TCB2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.528192361129966
+11907,SRO9:DHH1,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.454015085416624
+11906,ERG11:ACF2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.520893597369947
+11906,TPO1:TCB2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.538165372171786
+11906,ERV25:UIP4,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.596418221695358
+11906,SRO9:DHH1,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.4574451990594
+11906,HUG1:PGM2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.609164032297436
+11906,MID2:RSN1,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.411589919732279
+11905,ERG11:ACF2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.545048936428658
+11905,TPO1:TCB2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.55856118116211
+11905,SRO9:DHH1,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.467442533281816
+11905,HUG1:PGM2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.601244747349086
+11905,SSH1:ORM2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.514540178383033
+11905,TPO1:MID2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.484273306634022
+11904,RET2:SNA3,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.3504305854479
+11904,PLM2:SNA3,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.535542223290911
+11904,HUG1:PGM2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.60798257953245
+11904,TPO1:TCB2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.51174164532461
+11904,ALO1:ADE17,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.545157239337999
+11903,MID2:MAM33,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.591283781351518
+11903,TPO1:TCB2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.544828748604747
+11903,ERG11:ACF2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.503259328978074
+11903,HNM1:TPO1,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.53112539554625
+11903,SSH1:ERV25,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.565576054454505
+11903,ALO1:HYR1,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.515127506120172
+11903,ERV25:UIP4,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.59665901890853
+11903,ERG11:PIS1,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.48652065312716
+11903,ALO1:UIP4,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.5384878336788
+11903,SRO9:DHH1,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.44612613800243
+11903,HNM1:TPO2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.521224102301594
+11903,FMP45:MEP1,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.474681445753522
+11902,TPO1:TCB2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.518024995825135
+11901,PLM2:SNA3,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.504819796320891
+11900,TPO1:TCB2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.579737390038557
+11900,PLM2:SNA3,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.523399274519887
+11900,MID2:MAM33,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.548968507183145
+11900,ERV25:EMP47,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.52958063940124
+11899,TPO1:TCB2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.563594949212435
+11899,ALO1:UIP4,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.559874881082663
+11899,PLM2:SNA3,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.525104176371172
+11899,FMP45:MEP1,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.482993342774517
+11899,ERV25:EMP47,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.534607079696749
+11898,TPO1:TCB2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.612728041882017
+11898,ERG11:ACF2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.503962527348177
+11898,ERV25:EMP47,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.538247288007891
+11898,MID2:TPO2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.40603327922079
+11897,TPO1:TCB2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.628150250266824
+11897,ERV25:EMP47,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.556905523375089
+11897,ERG11:ACF2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.495059828172621
+11897,MID2:TPO2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.414605854597952
+11896,TPO1:TCB2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.60168187395499
+11896,ALO1:UIP4,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.571258740995547
+11896,FMP45:MEP1,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.500415943489479
+11896,ERG11:ACF2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.469436922408178
+11895,TPO1:TCB2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.589575060233243
+11894,MID2:RSN1,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.451968068861928
+11894,TPO1:TPO2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.602747665118505
+11894,RET2:SNA3,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.346383971724615
+11894,PLM2:SNA3,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.515580808404725
+11894,ERG11:ACF2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.481575949478737
+11893,ERG11:ACF2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.524691545787289
+11893,PLM2:SNA3,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.557000243190629
+11893,TPO1:TPO2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.60536478569468
+11893,MID2:RSN1,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.428195550783703
+11893,ALO1:UIP4,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.544994748007731
+11893,ERV25:ERG5,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.568691196690858
+11892,PLM2:SNA3,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.549743278556785
+11892,MID2:TPO4,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.467806881892841
+11892,noPPI:reference,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.613805549135699
+11892,FMP45:MEP1,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.486118022884908
+11892,RET2:SNA3,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.33226039945789
+11892,MID2:TPO2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.411784155554573
+11892,SRO9:GIS2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.35311893841796
+11891,TPO1:TCB2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.506444998566929
+11890,SRO9:DHH1,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.444935390079731
+11890,MID2:TPO2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.412635112339091
+11890,TPO1:TPO2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.548112516486642
+11888,TPO1:TCB2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.506787585944702
+11886,ERG11:ACF2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.475768658274071
+11885,TPO1:TCB2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.515000127282429
+11884,noPPI:reference,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.605811786257388
+11884,ERG11:ACF2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.471138732438951
+11882,ERG11:ACF2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.475347025477528
+11881,ERG11:ACF2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.475347025477528
+11880,SRO9:GIS2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.370014333994094
+11880,TPO1:TCB2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.531914020598051
+11880,TPO1:TPO2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.557763624969652
+11879,ADE17:GIS2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.503286671668428
+11878,PLM2:HNM1,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.469608931204987
+11712,FMP45:MID2,0,0.0,0.0,0.0,0,0,0,0,0,0,0.525571301808928
+11711,FMP45:HNM1,0,0.0,0.0,0.0,0,0,0,0,0,0,0.457432599956285
+11710,FMP45:HNM1,0,0.0,0.0,0.0,0,0,0,0,0,0,0.459731795752789
+11708,FMP45:MID2,0,0.0,0.0,0.0,0,0,0,0,0,0,0.516054033664327
+11704,FMP45:HNM1,0,0.0,0.0,0.0,0,0,0,0,0,0,0.505233421590573
+11703,FMP45:HNM1,0,0.0,0.0,0.0,0,0,0,0,0,0,0.447027904947478
+11702,FMP45:HNM1,0,0.0,0.0,0.0,0,0,0,0,0,0,0.449741731518411
+11701,FMP45:HNM1,0,0.0,0.0,0.0,0,0,0,0,0,0,0.473535978167206
+11700,FMP45:HNM1,0,0.0,0.0,0.0,0,0,0,0,0,0,0.438693411326022
+11699,FMP45:HNM1,0,0.0,0.0,0.0,0,0,0,0,0,0,0.455265373315502
+11698,FMP45:HNM1,0,0.0,0.0,0.0,0,0,0,0,0,0,0.445184689656022
+11695,FMP45:MID2,0,0.0,0.0,0.0,0,0,0,0,0,0,0.490784619936075
+11694,FMP45:HNM1,0,0.0,0.0,0.0,0,0,0,0,0,0,0.466871379550133
+11694,FMP45:MID2,0,0.0,0.0,0.0,0,0,0,0,0,0,0.494171821475181
+11693,FMP45:HNM1,0,0.0,0.0,0.0,0,0,0,0,0,0,0.462147933209684
+11692,FMP45:HNM1,0,0.0,0.0,0.0,0,0,0,0,0,0,0.471836703991803
+11692,FMP45:MID2,0,0.0,0.0,0.0,0,0,0,0,0,0,0.509309770013177
+11691,FMP45:MID2,0,0.0,0.0,0.0,0,0,0,0,0,0,0.514233135801601
+11691,FMP45:HNM1,0,0.0,0.0,0.0,0,0,0,0,0,0,0.45311260322415
+11690,FMP45:HNM1,0,0.0,0.0,0.0,0,0,0,0,0,0,0.485112956114197
+11690,FMP45:MID2,0,0.0,0.0,0.0,0,0,0,0,0,0,0.494149237940847
+11688,FMP45:HNM1,0,0.0,0.0,0.0,0,0,0,0,0,0,0.491688153671804
+11688,FMP45:MID2,0,0.0,0.0,0.0,0,0,0,0,0,0,0.503237035761239
+11686,FMP45:HNM1,0,0.0,0.0,0.0,0,0,0,0,0,0,0.490914328762822
+11686,FMP45:MID2,0,0.0,0.0,0.0,0,0,0,0,0,0,0.510771478318305
+11684,FMP45:MID2,0,0.0,0.0,0.0,0,0,0,0,0,0,0.49216128461782
+11684,FMP45:HNM1,0,0.0,0.0,0.0,0,0,0,0,0,0,0.448874398660866
+11683,FMP45:HNM1,0,0.0,0.0,0.0,0,0,0,0,0,0,0.44206366204245
+11683,FMP45:MID2,0,0.0,0.0,0.0,0,0,0,0,0,0,0.471815291929923
+11682,FMP45:MID2,0,0.0,0.0,0.0,0,0,0,0,0,0,0.485239936049148
+11682,FMP45:HNM1,0,0.0,0.0,0.0,0,0,0,0,0,0,0.448104082278521
+11678,FMP45:HNM1,0,0.0,0.0,0.0,0,0,0,0,0,0,0.458452694254644
+11678,FMP45:MID2,0,0.0,0.0,0.0,0,0,0,0,0,0,0.482650646154607
+11561,GTR1:SLM4,0,0.0,0.0,0.0,0,0,0,0,0,0,0.503616001497958
+11560,GTR1:SLM4,0,0.0,0.0,0.0,0,0,0,0,0,0,0.525108866987268
+11559,GTR1:SLM4,0,0.0,0.0,0.0,0,0,0,0,0,0,0.54962875677914
+11558,GTR1:SLM4,0,0.0,0.0,0.0,0,0,0,0,0,0,0.540888566246405
+11557,GTR1:SLM4,0,0.0,0.0,0.0,0,0,0,0,0,0,0.523300194763194
+11553,GTR1:SLM4,0,0.0,0.0,0.0,0,0,0,0,0,0,0.558386208720223
+11552,GTR1:SLM4,0,0.0,0.0,0.0,0,0,0,0,0,0,0.556877731337956
+11551,GTR1:SLM4,0,0.0,0.0,0.0,0,0,0,0,0,0,0.558564884402365
+11550,GTR1:SLM4,0,0.0,0.0,0.0,0,0,0,0,0,0,0.558652428231403
+11549,GTR1:SLM4,0,0.0,0.0,0.0,0,0,0,0,0,0,0.576526413665326
+11547,GTR1:SLM4,0,0.0,0.0,0.0,0,0,0,0,0,0,0.571496201882001
+11545,GTR1:SLM4,0,0.0,0.0,0.0,0,0,0,0,0,0,0.520518837822357
+11544,GTR1:SLM4,0,0.0,0.0,0.0,0,0,0,0,0,0,0.571580052689306
+11543,GTR1:SLM4,0,0.0,0.0,0.0,0,0,0,0,0,0,0.535710875778085
+11542,GTR1:SLM4,0,0.0,0.0,0.0,0,0,0,0,0,0,0.588403420096748
+11542,PMC1:GTR2,0,0.0,0.0,0.0,0,0,0,0,0,0,0.549677946601392
+11540,GTR1:SLM4,0,0.0,0.0,0.0,0,0,0,0,0,0,0.570535151073672
+11540,MID2:TPO2,0,0.0,0.0,0.0,0,0,0,0,0,0,0.414909155889022
+11540,PMC1:GTR2,0,0.0,0.0,0.0,0,0,0,0,0,0,0.525074539385952
+11537,GTR1:SLM4,0,0.0,0.0,0.0,0,0,0,0,0,0,0.600032943184473
+11485,FMP45:MID2,0,0.0,0.0,0.0,0,0,0,0,0,0,0.508767709668805
+11395,GTR1:SLM4,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.782242998759568
+11379,SRO9:GIS2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.349175655958627
+10867,FMP45:HNM1,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.42956760105074
+10848,HNM1:TPO2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.54155534860337
+10521,TPO1:TPO2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.574551781695763
+10520,TPO1:TPO2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.581470656690444
+10519,TPO1:TPO2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.582156790156284
+10518,TPO1:TPO2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.560339404791671
+10511,TPO1:TPO2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.568736248294699
+10482,ERG11:ORM2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.491763531263431
+10481,ERG11:ORM2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.539965135815304
+10480,TPO1:TPO2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.614963851097286
+10480,ALO1:UIP4,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.53984100934617
+10480,HUG1:ADE17,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.498018438460784
+10479,ERG11:ORM2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.521642017726608
+10479,ERG11:PIS1,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.497781885761585
+10479,HUG1:PGM2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.595919461220548
+10479,TPO1:TPO2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.551060593862932
+10456,SSH1:ORM2,0,0.0,0.0,0.0,0,0,0,0,0,0,-2.05553137996515
+10456,ERG11:ORM2,0,0.0,0.0,0.0,0,0,0,0,0,0,-1.8149322062497
+10456,ERG11:PIS1,0,0.0,0.0,0.0,0,0,0,0,0,0,-1.57417921541186
+10456,TPO1:TPO2,0,0.0,0.0,0.0,0,0,0,0,0,0,-1.79551392194891
+10439,ALO1:UIP4,0,0.0,0.0,0.0,0,0,0,0,0,0,-1.11396758868341
+10439,ERV25:ERG5,0,0.0,0.0,0.0,0,0,0,0,0,0,-1.10329254433727
+10439,TPO1:TPO2,0,0.0,0.0,0.0,0,0,0,0,0,0,-1.04702306321566
+10439,DHH1:LSM3,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.996213556126163
+10439,FMP45:MEP1,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.897823277581855
+10438,MID2:PIN2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.973432241638449
+10438,ALO1:HYR1,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.865744061857141
+10438,RET2:EMP70,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.577930849593344
+10438,ERV25:ERG5,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.997570723436268
+10438,SRO9:GIS2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.614468004090977
+10438,GTR1:SLM4,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.850504788398481
+10438,ERG27:ACF2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.871238383587076
+10438,ERV25:EMP47,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.900976067679668
+10438,SNA4:GTR2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.839782427738354
+10438,ERV25:PIS1,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.685559453157183
+10438,TPO1:TPO2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.927907427920303
+10438,HNM1:TPO1,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.821251227804517
+10427,ERV25:ERG5,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.65816822909548
+10427,ERG11:HYR1,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.376304505601439
+10427,SNA4:GTR2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.514771610033026
+10427,ERV25:UIP4,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.589400974580585
+10427,FMP45:MEP1,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.488852844273488
+10427,ERG11:TPO4,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.542552417718963
+10427,SSH1:PIS1,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.47544087588103
+10426,MID2:PIN2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.606133581264805
+10426,ERG11:HYR1,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.360873538910166
+10426,ERG11:ACF2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.478427039956113
+10426,ERG11:TPO4,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.527306161989397
+10426,SSH1:PIS1,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.4621547414062
+10425,ALO1:UIP4,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.614960653150522
+10425,SSH1:PIS1,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.49233940195897
+10420,SSH1:ORM2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.539036198524345
+10420,ERV25:ORM2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.469890353162484
+10420,ALO1:UIP4,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.542145880920603
+10420,SSH1:PIS1,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.464375486338335
+10419,ALO1:UIP4,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.697712219193095
+10419,ERG11:ACF2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.567721867333807
+10419,SSH1:ERV25,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.651155336943948
+10419,SSH1:PIS1,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.57874086758841
+10417,ALO1:UIP4,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.541687078675825
+10416,noPPI:reference,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.622944657044748
+10415,ERV25:ORM2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.475289429712683
+10415,SSH1:ORM2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.519732416763883
+10414,noPPI:reference,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.665347269711459
+10413,ERV25:ORM2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.485110937789901
+10413,noPPI:reference,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.618442656689294
+10413,SSH1:ORM2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.526549307375064
+10389,FMP45:MEP1,0,0.0,0.0,0.0,0,0,0,0,0,0,0.699291017780494
+10212,HNM1:RBD2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.555738632987246
+10212,ADE17:PGM2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.537494660252767
+10211,HNM1:RBD2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.486076639609784
+10210,HNM1:RBD2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.490830803306034
+10210,ADE17:GIS2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.554376683520399
+10209,HNM1:RBD2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.453978204855814
+10209,ADE17:GIS2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.546628216547854
+10208,HNM1:RBD2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.507946421817314
+10207,HNM1:RBD2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.483760082065433
+10207,ADE17:PGM2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.489651230300416
+10205,FMP45:HNM1,0,0.0,0.0,0.0,0,0,0,0,0,0,0.480713914168337
+10196,HNM1:RBD2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.515928620473431
+10195,HNM1:RBD2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.477130444501612
+10194,HNM1:RBD2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.559348489242723
+10193,HNM1:RBD2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.485994371439629
+10192,HNM1:RBD2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.499989065573506
+10190,HNM1:RBD2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.523168130543974
+10189,HNM1:RBD2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.475630586677475
+10188,HNM1:RBD2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.474009098193526
+10187,HNM1:RBD2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.447330251323767
+10186,FMP45:HNM1,0,0.0,0.0,0.0,0,0,0,0,0,0,0.480390038805947
+10183,HNM1:RBD2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.547785315419814
+10182,HNM1:RBD2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.552360674438079
+10180,HNM1:RBD2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.516944441213
+10179,HNM1:RBD2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.497178917382227
+10165,FMP45:HNM1,0,0.0,0.0,0.0,0,0,0,0,0,0,0.472109688857558
+10164,FMP45:HNM1,0,0.0,0.0,0.0,0,0,0,0,0,0,0.457827422472949
+10161,FMP45:HNM1,0,0.0,0.0,0.0,0,0,0,0,0,0,0.467418330803521
+10160,FMP45:HNM1,0,0.0,0.0,0.0,0,0,0,0,0,0,0.456297796565985
+9993,HUG1:ALO1,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.568769929984196
+9992,HUG1:ALO1,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.576393171959993
+9973,HUG1:ALO1,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.566927300985372
+9969,HUG1:PGM2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.613643477284679
+9969,HUG1:ALO1,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.571108218273378
+9968,HUG1:PGM2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.613643477284679
+9968,HUG1:ALO1,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.571108218273378
+9967,HUG1:PGM2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.619239204236546
+9967,HUG1:ALO1,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.57389044963118
+9966,HUG1:PGM2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.606677712224755
+9965,HUG1:PGM2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.601082871237186
+9964,HUG1:PGM2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.599268174531202
+9964,HUG1:ADE17,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.508725496455778
+9960,HUG1:PGM2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.598793646195839
+9960,HUG1:ADE17,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.506555229089533
+9959,HUG1:PGM2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.584236554380033
+9718,HNM1:RBD2,0,0.0,0.0,0.0,0,0,0,0,0,0,-1.30882393921543
+9446,MID2:TPO2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.424181623160695
+9446,DHH1:LSM3,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.534351650864287
+9445,MID2:TPO2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.409526485382461
+9433,PMC1:CTR2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.613106108622307
+9433,HUG1:PGM2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.629557806863807
+9288,ERG11:ERV25,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.382816360664919
+9283,ERG11:ERG5,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.33364724189612
+9266,ALO1:ADE17,0,0.0,0.0,0.0,0,0,0,0,0,0,1.23819181193537
+9103,SNA4:GTR2,0,0.0,0.0,0.0,0,0,0,0,0,0,0.491318206002516
+8810,RET2:SNA3,0,0.0,0.0,0.0,0,0,0,0,0,0,0.330287929841749
+8809,ADE17:PGM2,0,0.0,0.0,0.0,0,0,0,0,0,0,0.533641256316209
+8807,RET2:SNA3,0,0.0,0.0,0.0,0,0,0,0,0,0,0.341977224649409
+8786,TPO1:TCB2,0,0.0,0.0,0.0,0,0,0,0,0,0,0.512731244794007
+8785,TPO1:TCB2,0,0.0,0.0,0.0,0,0,0,0,0,0,0.518146475949997
+8780,TPO1:TCB2,0,0.0,0.0,0.0,0,0,0,0,0,0,0.524143103772438
+8778,RET2:EMP70,0,0.0,0.0,0.0,0,0,0,0,0,0,0.33950707014296
+8777,TPO1:TCB2,0,0.0,0.0,0.0,0,0,0,0,0,0,0.542658344727803
+8776,TPO1:TCB2,0,0.0,0.0,0.0,0,0,0,0,0,0,0.532065603550253
+8774,TPO1:TCB2,0,0.0,0.0,0.0,0,0,0,0,0,0,0.549667336533764
+8641,TPO1:MID2,0,0.0,0.0,0.0,0,0,0,0,0,0,0.52839918596275
+8639,MID2:TPO2,0,0.0,0.0,0.0,0,0,0,0,0,0,0.42954497954453
+8639,TPO1:MID2,0,0.0,0.0,0.0,0,0,0,0,0,0,0.495519952713756
+8635,MID2:TPO4,0,0.0,0.0,0.0,0,0,0,0,0,0,0.455695582353789
+8634,MID2:TPO4,0,0.0,0.0,0.0,0,0,0,0,0,0,0.483633752003793
+8633,MID2:TPO4,0,0.0,0.0,0.0,0,0,0,0,0,0,0.493360127859046
+8632,MID2:TPO4,0,0.0,0.0,0.0,0,0,0,0,0,0,0.463819162944446
+8623,MID2:TPO4,0,0.0,0.0,0.0,0,0,0,0,0,0,0.468564842518467
+8621,MID2:TPO4,0,0.0,0.0,0.0,0,0,0,0,0,0,0.469989874008037
+8617,MID2:TPO4,0,0.0,0.0,0.0,0,0,0,0,0,0,0.509250921451476
+8617,MID2:TPO2,0,0.0,0.0,0.0,0,0,0,0,0,0,0.422512693634523
+8616,MID2:TPO4,0,0.0,0.0,0.0,0,0,0,0,0,0,0.510563704212483
+8589,HNM1:TPO4,0,0.0,0.0,0.0,0,0,0,0,0,0,0.475995668135677
+8530,FMP45:MEP1,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.493563177236302
+8521,FMP45:MEP1,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.547374194781871
+8517,FMP45:MEP1,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.575330509047436
+8500,MID2:WSC2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.676520443679791
+8016,HNM1:RBD2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.420581367703418
+8015,HNM1:RBD2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.402184103151102
+7482,FMP45:HNM1,0,0.0,0.0,0.0,0,0,0,0,0,0,0.458581046407834
+7482,ALO1:ADE17,0,0.0,0.0,0.0,0,0,0,0,0,0,0.571013401493634
+7481,FMP45:MID2,0,0.0,0.0,0.0,0,0,0,0,0,0,0.490462906184619
+6983,PMC1:CTR2,0,0.0,0.0,0.0,0,0,0,0,0,0,0.605609498832047
+6983,SRO9:DHH1,0,0.0,0.0,0.0,0,0,0,0,0,0,0.457279064156553
+6983,ERG27:ACF2,0,0.0,0.0,0.0,0,0,0,0,0,0,0.518160767582391
+6976,PMC1:CTR2,0,0.0,0.0,0.0,0,0,0,0,0,0,0.57940617573142
+6215,TPO1:MID2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.50713792711308
+6214,TPO1:MID2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.513660063872981
+6201,MID2:TPO4,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.849306399415942
+6019,SRO9:SGN1,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.491142576939025
+5792,DHH1:LSM3,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.557223136961046
+5792,ALO1:HYR1,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.503734366331899
+5792,PMC1:GTR2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.521505463090499
+5792,PMC1:CTR2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.559508247297272
+5790,ALO1:ADE17,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.680490810853148
+5783,ALO1:ADE17,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.556295778213652
+5782,ALO1:ADE17,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.539831923812566
+5781,ALO1:ADE17,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.558860608149927
+5779,ERV25:EMP47,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.610807390029722
+5774,ERV25:EMP47,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.589597060486863
+5773,ERV25:EMP47,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.588227751493351
+5772,ERV25:EMP47,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.598544718771467
+5771,ERV25:EMP47,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.582134673910621
+5770,ERV25:EMP47,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.571639617376884
+5769,ERV25:EMP47,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.536845466901611
+5768,ERV25:EMP47,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.578715728966355
+5767,ERV25:EMP47,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.579382550992837
+5766,ERV25:EMP47,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.618774078501324
+5765,ERV25:EMP47,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.56547086218229
+5761,ERV25:EMP47,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.535891048636774
+5760,ERV25:EMP47,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.543914214143414
+5756,ERV25:EMP47,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.545288501222875
+5755,ERV25:EMP47,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.560210138596242
+5754,ERV25:EMP47,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.584601452008434
+5752,ERV25:EMP47,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.560931925901989
+5751,ERV25:EMP47,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.549207071131181
+5748,ERV25:UIP4,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.57066744696601
+5747,ERV25:UIP4,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.571219333074959
+5746,ERV25:EMP47,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.552095955619946
+5745,ERV25:UIP4,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.563145194463476
+5744,ERV25:EMP47,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.582863365880235
+5743,ERV25:EMP47,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.568555019597533
+5741,TPO1:TCB2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.521777885763168
+5740,ERV25:EMP47,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.527297376702459
+5734,ALO1:HYR1,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.503080195864868
+5732,ERV25:EMP47,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.588704114966424
+5731,ERV25:EMP47,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.532813877100454
+5689,SSH1:PIS1,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.468250558776411
+5688,SSH1:PIS1,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.493492743800632
+5677,ERG11:ERG5,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.314701743326571
+5042,HNM1:MAM33,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.537242880299374
+5041,HNM1:MAM33,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.544276962053102
+5029,HNM1:RBD2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.41371083890016
+5008,HNM1:RBD2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.397714816773634
+4692,GTR1:SLM4,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.512011284706189
+4691,GTR1:SLM4,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.53720134397402
+4690,GTR1:SLM4,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.515822794224417
+4689,GTR1:SLM4,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.509756495238528
+4688,GTR1:SLM4,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.552742011396357
+4684,GTR1:SLM4,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.526704857022496
+4683,GTR1:SLM4,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.530828750150128
+4653,HNM1:MID2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.51608014209965
+4652,HNM1:MID2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.512946341598781
+4530,TPO1:TPO2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.609481235123723
+4529,TPO1:TPO2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.580478997467048
+4528,TPO1:TPO2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.604436801210201
+4528,noPPI:reference,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.615297790858535
+4528,HUG1:ALO1,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.582022847132895
+4528,HUG1:PGM2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.603926652662348
+4528,ERG11:ERV25,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.381611188067703
+4527,TPO1:TPO2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.559252646407651
+4292,ERG11:ORM2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.500901927406749
+4279,ERG11:ORM2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.497643036864453
+4276,ERG11:ORM2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.481689819326982
+3793,ADE17:GIS2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.512883702880171
+3603,RET2:EMP47,0,0.0,0.0,0.0,0,0,0,0,0,0,0.309721804104002
+3251,MID2:PIN2,0,0.0,0.0,0.0,0,0,0,0,0,0,0.560377154254579
+3126,ERG11:ERG5,0,0.0,0.0,0.0,0,0,0,0,0,0,0.333348644118097
+3084,ERV25:UIP4,0,0.0,0.0,0.0,0,0,0,0,0,0,0.565859589505564
+2867,FMP45:HNM1,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.427430510708145
+2865,ALO1:HYR1,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.5187336910633
+2865,FMP45:HNM1,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.443285937299311
+2861,FMP45:HNM1,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.455046592359875
+2860,FMP45:HNM1,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.478776121888266
+2859,FMP45:HNM1,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.48938921283095
+2858,FMP45:HNM1,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.485379303167817
+2858,ALO1:UIP4,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.523057762884621
+2857,FMP45:HNM1,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.486765698074488
+2857,ALO1:UIP4,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.551549866874739
+2856,FMP45:HNM1,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.463430418875165
+2855,FMP45:MID2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.474693982494485
+2855,ALO1:UIP4,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.541750252846404
+2854,FMP45:HNM1,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.494267525083421
+2853,FMP45:HNM1,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.494656858799338
+2853,FMP45:MID2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.480729190107654
+2852,FMP45:HNM1,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.473537918065827
+2851,FMP45:HNM1,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.450138928741424
+2849,FMP45:HNM1,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.441019953758469
+2848,FMP45:HNM1,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.460763684736412
+2848,ALO1:UIP4,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.530115949326708
+2847,FMP45:HNM1,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.459563957660851
+2847,ALO1:UIP4,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.535271404462075
+2838,SRO9:GIS2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.364478586621906
+2367,SRO9:DHH1,0,0.0,0.0,0.0,0,0,0,0,0,0,0.441577426736527
+2366,SRO9:DHH1,0,0.0,0.0,0.0,0,0,0,0,0,0,0.449665679056868
+2365,SRO9:DHH1,0,0.0,0.0,0.0,0,0,0,0,0,0,0.47575237763196
+2364,TPO1:MID2,0,0.0,0.0,0.0,0,0,0,0,0,0,0.527564968870333
+2364,HNM1:TPO2,0,0.0,0.0,0.0,0,0,0,0,0,0,0.539839303313072
+2364,TPO1:TCB2,0,0.0,0.0,0.0,0,0,0,0,0,0,0.513451002037547
+2364,SRO9:DHH1,0,0.0,0.0,0.0,0,0,0,0,0,0,0.438806761665411
+2324,ERV25:EMP47,0,0.0,0.0,0.0,0,0,0,0,0,0,0.553284409933352
+2323,ERV25:EMP47,0,0.0,0.0,0.0,0,0,0,0,0,0,0.559325828871171
+2322,ERV25:EMP47,0,0.0,0.0,0.0,0,0,0,0,0,0,0.540363511741374
+2282,ADE17:HYR1,0,0.0,0.0,0.0,0,0,0,0,0,0,0.503256223966435
+2276,HNM1:TPO2,0,0.0,0.0,0.0,0,0,0,0,0,0,0.518312164865851
+2274,RET2:SNA3,0,0.0,0.0,0.0,0,0,0,0,0,0,0.331903808988953
+2119,HNM1:TPO2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.57282085079004
+2110,HNM1:TPO2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.526428296430901
+1957,SNA4:VAC8,0,0.0,0.0,0.0,0,0,0,0,0,0,0.41723246876723
+1926,SNA4:GTR2,0,0.0,0.0,0.0,0,0,0,0,0,0,0.523949728207823
+1920,SSH1:ERV25,0,0.0,0.0,0.0,0,0,0,0,0,0,0.604845921537689
+1920,PMC1:GTR2,0,0.0,0.0,0.0,0,0,0,0,0,0,0.561274733878337
+1920,ERG11:ACF2,0,0.0,0.0,0.0,0,0,0,0,0,0,0.481567512733675
+1842,ERV25:RBD2,0,0.0,0.0,0.0,0,0,0,0,0,0,0.502885069159819
+1839,ERV25:RBD2,0,0.0,0.0,0.0,0,0,0,0,0,0,0.525459214554606
+1835,HUG1:ADE17,0,0.0,0.0,0.0,0,0,0,0,0,0,0.564177643065585
+1833,HUG1:ADE17,0,0.0,0.0,0.0,0,0,0,0,0,0,0.541426520637608
+1099,ADE17:GIS2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.495527655020467
+1096,HNM1:TPO2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.519218560428589
+1095,HNM1:TPO2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.546755047276678
+1093,HNM1:TPO2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.544363982817446
+1092,HNM1:TPO2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.540229206026688
+1091,HNM1:TPO2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.544634361992037
+1090,HNM1:TPO2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.544634361992037
+1089,HNM1:TPO2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.544634361992037
+1088,HNM1:TPO2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.533495209657929
+1015,ADE17:PGM2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.636343529039152
+929,HNM1:TPO2,0,0.0,0.0,0.0,0,0,0,0,0,0,0.56345755877787
+928,HNM1:TPO2,0,0.0,0.0,0.0,0,0,0,0,0,0,0.603374559553055
+928,SRO9:GIS2,0,0.0,0.0,0.0,0,0,0,0,0,0,0.358429761896275
+925,HNM1:TPO2,0,0.0,0.0,0.0,0,0,0,0,0,0,0.57358413230078
+924,HNM1:TPO2,0,0.0,0.0,0.0,0,0,0,0,0,0,0.534331504394933
+923,HNM1:TPO2,0,0.0,0.0,0.0,0,0,0,0,0,0,0.562574257141487
+910,HNM1:TPO2,0,0.0,0.0,0.0,0,0,0,0,0,0,0.547592940395615
+907,PLM2:HNM1,0,0.0,0.0,0.0,0,0,0,0,0,0,0.47937876155762
+794,ERV25:ORM2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.463851482936295
+788,DHH1:LSM3,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.536858913150482
+649,ADE17:HYR1,0,0.0,0.0,0.0,0,0,0,0,0,0,0.540826425380873
+582,MID2:PIN2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.563680915872948
+581,SSH1:ERG11,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.532593927280315
+581,MID2:PIN2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.540185031093221
+581,SSH1:ERV25,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.543846356866172
+576,SSH1:ERV25,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.540527160102498
+575,SSH1:ERG11,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.513456860354657
+573,SSH1:ERG11,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.5203356064077
+571,MID2:PIN2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.534757375354472
+570,MID2:PIN2,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.539311929016064
+282,HNM1:MAM33,0,0.0,0.0,0.0,0,0,0,0,0,0,0.558251688728151
+282,ERG11:PIS1,0,0.0,0.0,0.0,0,0,0,0,0,0,0.479254796036632
+282,MID2:PIN2,0,0.0,0.0,0.0,0,0,0,0,0,0,0.532101858740797
+281,ERG11:MID2,0,0.0,0.0,0.0,0,0,0,0,0,0,0.450372379841108
+280,HNM1:ERG11,0,0.0,0.0,0.0,0,0,0,0,0,0,0.590320522349912
+280,ERG11:PIS1,0,0.0,0.0,0.0,0,0,0,0,0,0,0.498253579985701
+280,HNM1:MAM33,0,0.0,0.0,0.0,0,0,0,0,0,0,0.540457715352754
+280,DHH1:LSM3,0,0.0,0.0,0.0,0,0,0,0,0,0,0.531939446907832
+279,HNM1:ERG11,0,0.0,0.0,0.0,0,0,0,0,0,0,0.562887147548298
+279,SSH1:ERG11,0,0.0,0.0,0.0,0,0,0,0,0,0,0.520614431466072
+279,ERG11:PIS1,0,0.0,0.0,0.0,0,0,0,0,0,0,0.486103908525684
+279,DHH1:LSM3,0,0.0,0.0,0.0,0,0,0,0,0,0,0.540431853104858
+278,HNM1:ERG11,0,0.0,0.0,0.0,0,0,0,0,0,0,0.560172615510475
+278,DHH1:LSM3,0,0.0,0.0,0.0,0,0,0,0,0,0,0.532722914511928
+277,HNM1:MAM33,0,0.0,0.0,0.0,0,0,0,0,0,0,0.543067949755278
+277,ERG11:PIS1,0,0.0,0.0,0.0,0,0,0,0,0,0,0.488756837834762
+277,DHH1:LSM3,0,0.0,0.0,0.0,0,0,0,0,0,0,0.540758052565581
+275,ERG11:MID2,0,0.0,0.0,0.0,0,0,0,0,0,0,0.458059764732305
+274,TPO1:TPO2,0,0.0,0.0,0.0,0,0,0,0,0,0,0.600223526234844
+272,TPO1:TPO2,0,0.0,0.0,0.0,0,0,0,0,0,0,0.556255416798066
+267,TPO1:TPO2,0,0.0,0.0,0.0,0,0,0,0,0,0,0.590652512284653
+266,TPO1:TPO2,0,0.0,0.0,0.0,0,0,0,0,0,0,0.601412561943992
+265,TPO1:TPO2,0,0.0,0.0,0.0,0,0,0,0,0,0,0.600470224181755
+264,TPO1:TPO2,0,0.0,0.0,0.0,0,0,0,0,0,0,0.589980215720324
+134,HNM1:TPO1,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.506399281423603
+129,HNM1:TPO1,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.500344926843596
+125,HNM1:TPO1,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.501957488926414
+120,HNM1:TPO1,0,0.0,0.0,0.0,0,0,0,0,0,0,-0.515632796816502
