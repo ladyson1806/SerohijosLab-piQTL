@@ -7,18 +7,6 @@ _Savandara Besse 1,2,__#__, Tatsuya Sakaguchi 1,2,__#__, Louis Gauthier 1,2, Zah
 ## piQTL website 
 > https://ladyson1806.github.io/SerohijosLab-piQTL/
 
-
-### Affiliations
-1. Department of Biochemistry, Université de Montréal, 2900 Édouard-Montpetit, Montréal, Quebec, Canada H3T 1J4
-
-2. Robert-Cedergren Center for Bioinformatics and Genomics, Université de Montréal, 2900 Édouard-Montpetit, Montréal, Quebec, Canada H3T 1J4
-
-3. Institut de Cardiologie de Montréal, Montréal, Québec, Canada
-
-4. Département de Médecine, Faculté de Médecine, Université de Montréal, Montréal, Québec, Canada
-
-#These authors contributed equally. 
-
 ____ 
 
 ## Code guidelines
@@ -35,3 +23,14 @@ ___
 
 ### Website and Code maintenance
 - savandara.besse @ cri-paris.org
+
+__
+
+
+#### Affiliations
+
+  1. Department of Biochemistry, Université de Montréal, Montréal, Québec, Canada
+  2. Robert-Cedergren Center for Bioinformatics and Genomics, Université de Montréal, Montréal, Québec, Canada
+  3. Institut de Cardiologie de Montréal, Montréal, Québec, Canada
+  4. Département de Médecine, Faculté de Médecine, Université de Montréal, Montréal, Québec, Canada
+  #These authors contributed equally. 
