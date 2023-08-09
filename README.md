@@ -1,6 +1,9 @@
 # __Genetic landscape of in vivo protein-protein interactions in S. cerevisiae__
 _Savandara Besse 1,2,__#__, Tatsuya Sakaguchi 1,2,__#__, Louis Gauthier 1,2, Zahra Sahaf 1,2, Olivier Péloquin 1,2, Lidice Gonzales 1, Xavier Castellanos-Girouard 1,2, Chloe Matta 1,2, Julie Hussin 3,4, Stephen W. Michnick 1,2,\*, Adrian W.R. Serohijos 1,2,\*_
  
+ 
+## piQTL website
+https://ladyson1806.github.io/SerohijosLab-piQTL/
 
 ## 1-sentence summary
 > Mapping effects of genome-wide genetic variation to protein-protein interactions reveals molecular mechanisms of complex traits 
@@ -18,11 +21,6 @@ _Savandara Besse 1,2,__#__, Tatsuya Sakaguchi 1,2,__#__, Louis Gauthier 1,2, Zah
 #These authors contributed equally. 
 
 ____ 
-
-
-## piQTL website
-https://ladyson1806.github.io/SerohijosLab-piQTL/
-
 
 ## Code guidelines
 - [ ] __08-09-2023__: Modification of relative paths for inputs in progress 
