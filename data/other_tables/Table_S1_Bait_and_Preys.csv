@@ -1,0 +1,45 @@
+,Gene,ORF,Uniprot ID,Functional annotation in Uniprot
+0,ACF2,YLR144C,Q12168,"Intracellular beta-1,3-endoglucanase."
+1,ADE17,YMR120C,P38009,"Enzyme of 'de novo' purine biosynthesis; ADE17 has a paralog, ADE16."
+2,ALO1,YML086C,P54783,"Can oxidize L-gulono-1,4-lactone as well as D-arabinono-1,4-lactone and L-galactono-1,4-lactone."
+3,CTR2,YHR175W,P38865,Provides bioavailable copper via mobilization of vacuolar copper stores and export to the cytoplasm.
+4,DHH1,YDL160C,P39517,"ATP-dependent RNA helicase involved in mRNA turnover, and more specifically in mRNA decapping by activating the decapping enzyme DCP1."
+5,EMP47,YFL048C,P43555,Involved in the secretion of glycoproteins and in nucleus architecture and gene silencing.
+6,EMP70,YLR083C,P32802,"With TMN2 and TMN3, plays a critical role in the late stages of a nutrient-controlled pathway notably regulating FLO11 gene expression."
+7,ERG11,YHR007C,P10614,Lanosterol 14-alpha demethylase; part of the third module of ergosterol biosynthesis pathway that includes the late steps of the pathway.
+8,ERG27,YLR100W,Q12452,3-keto-steroid reductase; part of the third module of ergosterol biosynthesis pathway that includes the late steps of the pathway.
+9,ERG5,YMR015C,P54781,C-22 sterol desaturase; part of the third module of ergosterol biosynthesis pathway that includes the late steps of the pathway.
+10,ERV25,YML012W,P54837,Constituent of COPII-coated endoplasmic reticulum-derived transport vesicles.
+11,FMP45,YDL222C,Q07651,Involved in sporulation and affects the sphingolipid composition of the plasma membrane.
+12,GIS2,YNL255C,P53849,May act in the sexual differentiation pathway.
+13,GTR1,YML121W,Q00582,"GTPase component of the GSE complex, a GTPase complex required for intracellular sorting of GAP1 out of the endosome."
+14,GTR2,YGR163W,P53290,"GTPase. Component of the GSE complex, a GTPase complex required for intracellular sorting of GAP1 out of the endosome."
+15,HNM1,YGL077C,P19807,Sole choline transporter in yeast.
+16,HUG1,YML058W-A,Q6Q5K6,Involved in the MEC1-mediated checkpoint response to DNA damage and replication arrest.
+17,HYR1,YIR037W,P40581,Involved in oxidative stress response and redox homeostasis. Functions as a sensor and transducer of hydroperoxide stress.
+18,LSM3,YLR438C-A,P57743,"Component of LSm protein complexes, which are involved in RNA processing and may function in a chaperone-like manner."
+19,MAM33,YIL070C,P40513,Not known. Binds to the sorting sequence of cytochrome b2.
+20,MEP1,YGR121C,P40260,Transporter for ammonium (both charged and uncharged NH3 and NH4) to use as a nitrogen source.
+21,MID2,YLR332W,P36027,Cell wall stress sensor. Involved in activation of a response that includes both stress-related increased chitin synthesis and the MPK1 mitogen-activated protein kinase cell integrity pathway.
+22,ORM2,YLR350W,Q06144,Component of the SPOTS complex that acts as a negative regulator of sphingolipid synthesis.
+23,PGM2,YMR105C,P37012,Major phosphoglucomutase isozyme that catalyzes the reversible interconversion of glucose 1-phosphate and glucose 6-phosphate.
+24,PIN2,YOR104W,Q12057,Not known. Seems to be able to provoque the non-Mendelian trait [PIN+] which is required for the de novo appearance of the [PSI+] prion.
+25,PIS1,YPR113W,P06197,Phosphatidylinositol synthase; required for biosynthesis of phosphatidylinositol.
+26,PLM2,YDR501W,Q04383,Binds to the promoters of genes with functions important for the G1/S (start) transition.
+27,PMC1,YGL006W,P38929,This magnesium-dependent enzyme catalyzes the hydrolysis of ATP coupled with the transport of calcium.
+28,RBD2,YPL246C,Q12270,Probable serine protease.
+29,RET2,YFR051C,P43621,The coatomer is a cytosolic protein complex that binds to dilysine motifs and reversibly associates with Golgi non-clathrin-coated vesicles via the Golgi up to the trans Golgi network.
+30,RSN1,YMR266W,Q03516,Acts as an osmosensitive calcium-permeable cation channel.
+31,SGN1,YIR001C,P40561,mRNA-binding protein that may play a role in modulating the expression of cytoplasmic mRNA.
+32,SLM4,YBR077C,P38247,"Component of the GSE complex, a GTPase complex required for intracellular sorting of GAP1 out of the endosome."
+33,SNA3,YJL151C,P14359,Protein involved in efficient MVB sorting of proteins to the vacuole; may function as an RSP5 adapter protein for MVB cargos.
+34,SNA4,YDL123W,Q07549,Protein of unknown function; localized to the vacuolar outer membrane; predicted to be palmitoylated.
+35,SRO9,YCL037C,P25567,May overlap in function with tropomyosin and may be involved in organization of actin filaments. Acts as a multicopy suppressor of RHO3 mutation.
+36,SSH1,YDR086C,P35179,"Part of the Sec61 complex, which is the major component of channel-forming translocon complex that mediates protein translocation across the endoplasmic reticulum (ER)."
+37,TCB2,YNL087W,P48231,May play a role in membrane trafficking.
+38,TPO1,YLL028W,Q07824,"Cell membrane polyamine/proton antiporter, involved in the detoxification of excess polyamines in the cytoplasm."
+39,TPO2,YGR138C,P53283,"Cell membrane polyamine/proton antiporter, involved in the detoxification of excess polyamines in the cytoplasm."
+40,TPO4,YOR273C,Q12256,"Cell membrane polyamine/proton antiporter, involved in the detoxification of excess polyamines in the cytoplasm."
+41,UIP4,YPL186C,Q08926,Protein required for nuclear envelope integrity; involved in distribution of nuclear pore complexes.
+42,VAC8,YEL013W,P39968,Functions in both vacuole inheritance and protein targeting from the cytoplasm to vacuole.
+43,WSC2,YNL283C,P53832,Sensor-transducer of the stress-activated PKC1-MPK1 signaling pathway.
