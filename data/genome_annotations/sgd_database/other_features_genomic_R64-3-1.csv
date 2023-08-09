@@ -1,0 +1,859 @@
+locus_id,name,sgd_id,genome_annotations,chrom,start,end,description,genome_version
+TEL01L,TEL01L,SGDID:S000028862,reverse complement,CHR_1,1,801,"""Telomeric region on the left arm of Chromosome I; composed of an X element core sequence ; X element combinatorial repeats ; and a short terminal stretch of telomeric repeats""",Genome Release 64-3-1
+ARS102,ARS102,SGDID:S000121252,ARS,CHR_1,707,776,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+ARS103,ARS103,SGDID:S000121253,ARS,CHR_1,7997,8547,"""Autonomously Replicating Sequence; replication origin of very weak function""",Genome Release 64-3-1
+YALWdelta1,YALWdelta1,SGDID:S000006787,long_terminal_repeat,CHR_1,22230,22552,"""Ty1 LTR""",Genome Release 64-3-1
+ARS104,ARS104,SGDID:S000118317,ARS,CHR_1,30946,31183,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+ARS105,ARS105,SGDID:S000121254,ARS,CHR_1,41992,42151,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+ARS106,ARS106,SGDID:S000118318,ARS,CHR_1,70300,70469,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+ARS107,ARS107,SGDID:S000118319,ARS,CHR_1,124349,124597,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+YALCdelta2,YALCdelta2,SGDID:S000006786,reverse complement,CHR_1,138831,138992,"""Ty1 LTR""",Genome Release 64-3-1
+ARS108,ARS108,SGDID:S000121255,ARS,CHR_1,147398,147717,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+CEN1,CEN1,SGDID:S000006463,centromere,CHR_1,151465,151582,"""Chromosome I centromere""",Genome Release 64-3-1
+ARS109,ARS101,SGDID:S000077372,ARS,CHR_1,159907,160127,"""ARS containing multiple redundant ORC binding sites; ORC is the acronym for origin recognition complex""",Genome Release 64-3-1
+YARCdelta3,YARCdelta3,SGDID:S000006788,reverse complement,CHR_1,160105,160237,"""Ty1 LTR""",Genome Release 64-3-1
+YARCdelta4,YARCdelta4,SGDID:S000006789,reverse complement,CHR_1,160238,160574,"""Ty1 LTR""",Genome Release 64-3-1
+YARCTy1-1,YARCTy1-1,SGDID:S000006792,reverse complement,CHR_1,160238,166162,"""Ty1 element ; LTR retrotransposon of the Copia (Pseudoviridae) group; contains genes TYA Gag and TYB Pol ; encoding proteins involved in structure and function of virus-like particles ; flanked by two direct repeats; mutated in S288C""",Genome Release 64-3-1
+YARCdelta5,YARCdelta5,SGDID:S000006790,reverse complement,CHR_1,165826,166162,"""Ty1 LTR""",Genome Release 64-3-1
+ARS110,ARS110,SGDID:S000114488,ARS,CHR_1,176157,176404,"""Autonomously Replicating Sequence; originally referred to as ADE1 ARS""",Genome Release 64-3-1
+YARWsigma1,YARWsigma1,SGDID:S000006795,long_terminal_repeat,CHR_1,182620,182959,"""Ty3 LTR""",Genome Release 64-3-1
+YARWdelta6,YARWdelta6,SGDID:S000006793,long_terminal_repeat,CHR_1,183142,183474,"""Ty1 LTR""",Genome Release 64-3-1
+YARWdelta7,YARWdelta7,SGDID:S000006794,long_terminal_repeat,CHR_1,189426,189757,"""Ty2 LTR""",Genome Release 64-3-1
+YARCdelta8,YARCdelta8,SGDID:S000006791,reverse complement,CHR_1,209448,209778,"""Ty1 LTR""",Genome Release 64-3-1
+ARS111,ARS111,SGDID:S000121256,ARS,CHR_1,214888,215644,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+ARS112,ARS112,SGDID:S000121257,ARS,CHR_1,222880,224046,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+TEL01R,TEL01R,SGDID:S000028937,telomere,CHR_1,229411,230218,"""Telomeric region on the right arm of Chromosome I; composed of an X element core sequence and a short terminal stretch of telomeric repeats""",Genome Release 64-3-1
+TEL02L,TEL02L,SGDID:S000028867,reverse complement,CHR_2,1,6608,"""Telomeric region on the left arm of Chromosome II; annotated components include an X element core sequence ; X element combinatorial repeats ; and a short Y' element; TEL02L does have telomeric repeats (TEL02L-TR) ; but they are missing from the genome annotation due to difficulties encountered during sequencing and/or assembly""",Genome Release 64-3-1
+ARS200,ARS200,SGDID:S000178039,ARS,CHR_2,40,202,"""Autonomously replicating sequence""",Genome Release 64-3-1
+ARS201,ARS201,SGDID:S000178040,ARS,CHR_2,6498,6620,"""Autonomously replicating sequence""",Genome Release 64-3-1
+YBLWdelta1,YBLWdelta1,SGDID:S000006798,long_terminal_repeat,CHR_2,8848,9092,"""Ty1 LTR""",Genome Release 64-3-1
+YBLWdelta2,YBLWdelta2,SGDID:S000006799,long_terminal_repeat,CHR_2,9093,9424,"""Ty2 LTR""",Genome Release 64-3-1
+YBLWdelta3,YBLWdelta3,SGDID:S000006800,long_terminal_repeat,CHR_2,9425,9518,"""Ty1 LTR""",Genome Release 64-3-1
+ARS230,ARS230,SGDID:S000118996,ARS,CHR_2,28942,29160,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+YBLWdelta4,YBLWdelta4,SGDID:S000006801,long_terminal_repeat,CHR_2,29644,29975,"""Ty2 LTR""",Genome Release 64-3-1
+YBLWTy2-1,YBLWTy2-1,SGDID:S000006809,LTR_retrotransposon,CHR_2,29644,35602,"""Ty2 element ; LTR retrotransposon of the Copia (Pseudoviridae) group; contains co-transcribed genes TYA Gag and TYB Pol ; encoding proteins involved in structure and function of virus-like particles ; flanked by two direct repeats""",Genome Release 64-3-1
+YBLWdelta5,YBLWdelta5,SGDID:S000006802,long_terminal_repeat,CHR_2,35271,35602,"""Ty2 LTR""",Genome Release 64-3-1
+YBLWdelta6,YBLWdelta6,SGDID:S000006803,long_terminal_repeat,CHR_2,35604,35796,"""Ty1 LTR""",Genome Release 64-3-1
+YBLCtau1,YBLCtau1,SGDID:S000006807,reverse complement,CHR_2,35851,36221,"""Ty4 LTR""",Genome Release 64-3-1
+ARS202,ARS202,SGDID:S000118344,ARS,CHR_2,63259,63381,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+ARS203,ARS203,SGDID:S000178041,ARS,CHR_2,93435,93519,"""Autonomously replicating sequence""",Genome Release 64-3-1
+ARS206,ARS206,SGDID:S000178042,ARS,CHR_2,143658,143745,"""Autonomously replicating sequence""",Genome Release 64-3-1
+ARS207,ARS207,SGDID:S000118345,ARS,CHR_2,170173,170279,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+YBLCdelta7,YBLCdelta7,SGDID:S000006796,reverse complement,CHR_2,197016,197320,"""Ty1 LTR""",Genome Release 64-3-1
+YBLWsigma1,YBLWsigma1,SGDID:S000006797,long_terminal_repeat,CHR_2,197714,198054,"""Ty3 LTR""",Genome Release 64-3-1
+ARS231,ARS231,SGDID:S000118997,ARS,CHR_2,198313,198473,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+YBLWdelta8,YBLWdelta8,SGDID:S000006804,long_terminal_repeat,CHR_2,220895,221036,"""Ty1 LTR""",Genome Release 64-3-1
+YBLWdelta9,YBLWdelta9,SGDID:S000006805,long_terminal_repeat,CHR_2,221037,221370,"""Ty1 LTR""",Genome Release 64-3-1
+YBLWTy1-1,YBLWTy1-1,SGDID:S000006808,LTR_retrotransposon,CHR_2,221037,226952,"""Ty1 element ; LTR retrotransposon of the Copia (Pseudoviridae) group; contains co-transcribed genes TYA Gag and TYB Pol ; encoding proteins involved in structure and function of virus-like particles ; flanked by two direct repeats""",Genome Release 64-3-1
+YBLWdelta10,YBLWdelta10,SGDID:S000006806,long_terminal_repeat,CHR_2,226621,226952,"""Ty1 LTR""",Genome Release 64-3-1
+ARS208,ARS208,SGDID:S000118346,ARS,CHR_2,237787,237900,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+CEN2,CEN2,SGDID:S000006464,centromere,CHR_2,238207,238323,"""Chromosome II centromere""",Genome Release 64-3-1
+ARS209,ARS209,SGDID:S000114517,ARS,CHR_2,254998,255083,"""Autonomously Replicating Sequence; originally referred to as H4 ARS""",Genome Release 64-3-1
+YBRCdelta11,YBRCdelta11,SGDID:S000006810,reverse complement,CHR_2,258670,258976,"""Ty1 LTR""",Genome Release 64-3-1
+YBRWdelta12,YBRWdelta12,SGDID:S000006815,long_terminal_repeat,CHR_2,259578,259909,"""Ty1 LTR""",Genome Release 64-3-1
+YBRWTy1-2,YBRWTy1-2,SGDID:S000006821,LTR_retrotransposon,CHR_2,259578,265494,"""Ty1 element ; LTR retrotransposon of the Copia (Pseudoviridae) group; contains co-transcribed genes TYA Gag and TYB Pol ; encoding proteins involved in structure and function of virus-like particles ; flanked by two direct repeats""",Genome Release 64-3-1
+YBRWdelta13,YBRWdelta13,SGDID:S000006816,long_terminal_repeat,CHR_2,265163,265494,"""Ty1 LTR""",Genome Release 64-3-1
+YBRCdelta14,YBRCdelta14,SGDID:S000006811,reverse complement,CHR_2,266178,266256,"""Ty1 LTR""",Genome Release 64-3-1
+ARS211,ARS211,SGDID:S000118347,ARS,CHR_2,326140,326375,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+YBRWdelta15,YBRWdelta15,SGDID:S000006817,long_terminal_repeat,CHR_2,327069,327394,"""Ty1 LTR""",Genome Release 64-3-1
+YBRWdelta16,YBRWdelta16,SGDID:S000006818,long_terminal_repeat,CHR_2,327390,327704,"""Ty1 LTR""",Genome Release 64-3-1
+YBRWdelta17,YBRWdelta17,SGDID:S000006819,long_terminal_repeat,CHR_2,350459,350751,"""Ty1 LTR""",Genome Release 64-3-1
+ARS212,ARS212,SGDID:S000130151,ARS,CHR_2,379221,379912,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+ARS213,ARS213,SGDID:S000130152,ARS,CHR_2,389212,390371,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+ARS214,ARS214,SGDID:S000118348,ARS,CHR_2,407953,408068,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+ARS215,ARS215,SGDID:S000118349,ARS,CHR_2,417784,418079,"""Autonomously Replicating Sequence; replication origin of very weak function""",Genome Release 64-3-1
+ARS216,ARS216,SGDID:S000118350,ARS,CHR_2,486707,486954,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+ARS217,ARS217,SGDID:S000178050,ARS,CHR_2,517185,517386,"""Autonomously replicating sequence""",Genome Release 64-3-1
+ETC8,ETC8,SGDID:S000077079,matrix_attachment_site,CHR_2,549229,549251,"""Chromosome-organizing-clamp; tethers chromosomal regions to the nuclear periphery; binds TFIIIC transcription factor but does not recruit RNA Polymerase III; can act as a transcription-blocking insulator or as a heterochromatin barrier element; located between divergently transcribed genes RPB5 and CNS1""",Genome Release 64-3-1
+ARS220,ARS220,SGDID:S000118351,ARS,CHR_2,622671,622939,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+ARS221,ARS221,SGDID:S000130153,ARS,CHR_2,631939,632251,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+YBRCtau2,YBRCtau2,SGDID:S000006820,reverse complement,CHR_2,643488,643858,"""Ty4 LTR""",Genome Release 64-3-1
+YBRWdelta18,YBRWdelta18,SGDID:S000006812,long_terminal_repeat,CHR_2,643859,644002,"""Ty1 LTR""",Genome Release 64-3-1
+YBRCdelta19,YBRCdelta19,SGDID:S000006813,reverse complement,CHR_2,644362,644603,"""Ty1 LTR""",Genome Release 64-3-1
+ARS222,ARS222,SGDID:S000118352,ARS,CHR_2,704296,704566,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+ARS224,ARS224,SGDID:S000118353,ARS,CHR_2,741681,741797,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+ARS225,ARS225,SGDID:S000118354,ARS,CHR_2,757437,757667,"""Autonomously Replicating Sequence; replication origin of very weak function""",Genome Release 64-3-1
+ARS228,ARS228,SGDID:S000118355,ARS,CHR_2,792218,792310,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+TEL02R,TEL02R,SGDID:S000028940,telomere,CHR_2,812379,813184,"""Telomeric region on the right arm of Chromosome II; composed of an X element core sequence ; X element combinatorial repeats ; and a short terminal stretch of telomeric repeats""",Genome Release 64-3-1
+TEL03L,TEL03L,SGDID:S000028871,reverse complement,CHR_3,1,1098,"""Telomeric region on the left arm of Chromosome III; composed of an X element core sequence ; X element combinatorial repeats ; and a terminal stretch of telomeric repeats""",Genome Release 64-3-1
+ARS300,ARS300,SGDID:S000028476,ARS,CHR_3,989,1068,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+YCLWomega1,YCLWomega1,SGDID:S000006828,long_terminal_repeat,CHR_3,1179,1429,"""Ty5 LTR""",Genome Release 64-3-1
+YCLWTy5-1,YCLWTy5-1,SGDID:S000006831,LTR_retrotransposon,CHR_3,1179,4322,"""Ty5 element ; LTR retrotransposon of the Copia (Pseudoviridae) group; this is the only near-full length Ty5 retrotransposon in S288C and it is non-functional""",Genome Release 64-3-1
+YCLWomega2,YCLWomega2,SGDID:S000006829,long_terminal_repeat,CHR_3,4073,4322,"""Ty5 LTR""",Genome Release 64-3-1
+ARS301,ARS301,SGDID:S000028477,ARS,CHR_3,11146,11401,"""Inactive replication origin linked to the silent mating type locus HML; functions as a transcriptional silencer""",Genome Release 64-3-1
+HML,HML,SGDID:S000029214,silent_mating_type_cassette_array,CHR_3,11146,14849,"""Mating type cassette - left; unexpressed complete copy of the mating-type genes ; silenced by the Sir2 histone deacetylase and its associated SIR1 ; SIR3 and SIR4 proteins; mating-type switching involves replacement of the Ya or Yalpha sequences present at the MAT locus with either the a or alpha genes located at one of the HM loci in a process stimulated by the HO endonuclease; sequence replacement occurs by gene conversion ; leaving the donor unaltered""",Genome Release 64-3-1
+ARS302,ARS302,SGDID:S000028478,ARS,CHR_3,14575,14849,"""Inactive replication origin linked to the silent mating type locus HML; functions as a transcriptional silencer""",Genome Release 64-3-1
+ARS303,ARS303,SGDID:S000028479,ARS,CHR_3,14871,15213,"""Autonomously Replicating Sequence on Chromosome III; inactive as replication origin at native locus near HML""",Genome Release 64-3-1
+ARS320,ARS320,SGDID:S000028480,ARS,CHR_3,15214,16274,"""Autonomously Replicating Sequence on Chromosome III; inactive as replication origin at native locus near HML""",Genome Release 64-3-1
+RE301,RE,SGDID:S000303804,recombination_enhancer,CHR_3,29108,29809,"""Orientation-independent ; cis-acting region that controls mating-type dependent recombination along entire left arm of ChrIII""",Genome Release 64-3-1
+ARS304,ARS304,SGDID:S000028481,ARS,CHR_3,30200,30657,"""Autonomously Replicating Sequence on Chromosome III""",Genome Release 64-3-1
+ARS305,ARS305,SGDID:S000028482,ARS,CHR_3,39508,39595,"""Efficient early-firing replication origin on Chromosome III""",Genome Release 64-3-1
+ARS306,ARS306,SGDID:S000028483,ARS,CHR_3,74458,74677,"""Early-firing autonomously replicating sequence on Chromosome III""",Genome Release 64-3-1
+YCLWdelta15,YCLWdelta15,SGDID:S000126593,long_terminal_repeat,CHR_3,82700,83036,"""Ty1 LTR""",Genome Release 64-3-1
+YCLCdelta1,YCLCdelta1,SGDID:S000006822,reverse complement,CHR_3,83055,83194,"""Ty1 LTR""",Genome Release 64-3-1
+YCLWdelta2a,YCLWdelta2a,SGDID:S000006823,long_terminal_repeat,CHR_3,84069,84294,"""Ty1 LTR""",Genome Release 64-3-1
+YCLWdelta3,YCLWdelta3,SGDID:S000006825,long_terminal_repeat,CHR_3,84295,84626,"""Ty1 LTR""",Genome Release 64-3-1
+YCLWdelta2b,YCLWdelta2b,SGDID:S000006824,long_terminal_repeat,CHR_3,84630,84718,"""Ty1 LTR""",Genome Release 64-3-1
+YCLWdelta4,YCLWdelta4,SGDID:S000006826,long_terminal_repeat,CHR_3,84811,85142,"""Ty2 LTR""",Genome Release 64-3-1
+YCLWTy2-1,YCLWTy2-1,SGDID:S000006830,LTR_retrotransposon,CHR_3,84811,90769,"""Ty2 element ; LTR retrotransposon of the Copia (Pseudoviridae) group; contains co-transcribed genes TYA Gag and TYB Pol ; encoding proteins involved in structure and function of virus-like particles ; flanked by two direct repeats""",Genome Release 64-3-1
+YCLWdelta5,YCLWdelta5,SGDID:S000006827,long_terminal_repeat,CHR_3,90438,90769,"""Ty2 LTR""",Genome Release 64-3-1
+ARS307,ARS307,SGDID:S000028484,ARS,CHR_3,108727,109060,"""Autonomously Replicating Sequence on Chromosome III""",Genome Release 64-3-1
+ARS308,ARS308,SGDID:S000028485,ARS,CHR_3,114321,114939,"""Autonomously Replicating Sequence on Chromosome III""",Genome Release 64-3-1
+CEN3,CEN3,SGDID:S000006465,centromere,CHR_3,114385,114501,"""Chromosome III centromere""",Genome Release 64-3-1
+YCRCdelta6,YCRCdelta6,SGDID:S000006832,reverse complement,CHR_3,124134,124465,"""Ty1 LTR""",Genome Release 64-3-1
+ARS309,ARS309,SGDID:S000028486,ARS,CHR_3,132043,132120,"""Autonomously Replicating Sequence on Chromosome III""",Genome Release 64-3-1
+YCRCdelta7,YCRCdelta7,SGDID:S000006833,reverse complement,CHR_3,142758,143080,"""Ty1 LTR""",Genome Release 64-3-1
+YCRWdelta8,YCRWdelta8,SGDID:S000006835,long_terminal_repeat,CHR_3,149482,149809,"""Ty1 LTR""",Genome Release 64-3-1
+YCRWdelta9,YCRWdelta9,SGDID:S000006836,long_terminal_repeat,CHR_3,150220,150551,"""Ty1 LTR""",Genome Release 64-3-1
+YCRCtau1,YCRCtau1,SGDID:S000007429,reverse complement,CHR_3,150695,151055,"""Ty4 LTR""",Genome Release 64-3-1
+YCRWdelta10,YCRWdelta10,SGDID:S000006837,long_terminal_repeat,CHR_3,151521,151851,"""Ty1 LTR""",Genome Release 64-3-1
+ARS310,ARS310,SGDID:S000028487,ARS,CHR_3,166503,167348,"""Compound autonomously replicating sequence on Chromosome III""",Genome Release 64-3-1
+YCRWdelta11,YCRWdelta11,SGDID:S000006838,long_terminal_repeat,CHR_3,169573,169888,"""Ty1 LTR""",Genome Release 64-3-1
+ARS313,ARS313,SGDID:S000028488,ARS,CHR_3,194308,194367,"""Autonomously Replicating Sequence on Chromosome III""",Genome Release 64-3-1
+ARS314,ARS314,SGDID:S000028489,ARS,CHR_3,197460,197598,"""Autonomously Replicating Sequence on Chromosome III; active in <10% of cell cycles""",Genome Release 64-3-1
+MATALPHA,MATALPHA,SGDID:S000029699,mating_type_region,CHR_3,198671,201177,"""Mating type locus; note that the systematic sequence in SGD contains MATalpha sequences""",Genome Release 64-3-1
+ARS315,ARS315,SGDID:S000028490,ARS,CHR_3,224816,225061,"""Highly-active autonomously replicating sequence; initiates replication in ~90% of cell cycles""",Genome Release 64-3-1
+ARS316,ARS316,SGDID:S000028491,ARS,CHR_3,272852,273095,"""Inefficient autonomously replicating sequence; active in ~25% of cell cycles""",Genome Release 64-3-1
+YCRWdelta12,YCRWdelta12,SGDID:S000006839,long_terminal_repeat,CHR_3,291373,291712,"""Ty1 LTR""",Genome Release 64-3-1
+YCRWomega3,YCRWomega3,SGDID:S000006841,long_terminal_repeat,CHR_3,291922,292167,"""Ty5 LTR""",Genome Release 64-3-1
+HMR,HMR,SGDID:S000029655,silent_mating_type_cassette_array,CHR_3,292388,295034,"""Mating-type cassette - right; unexpressed complete copy of the mating-type genes ; silenced by the Sir2 histone deacetylase and its associated SIR1 ; SIR3 and SIR4 proteins; mating-type switching involves replacement of the Ya or Yalpha sequences present at the MAT locus with either the a or alpha genes located at one of the HM loci in a process stimulated by the HO endonuclease; sequence replacement occurs by gene conversion ; leaving the donor unaltered""",Genome Release 64-3-1
+ARS317,ARS317,SGDID:S000028492,ARS,CHR_3,292638,292694,"""ARS that fires extremely inefficiently and late during S phase; fires late and inefficiently compared to other origins in the genome; active in only a small fraction of cell cycles""",Genome Release 64-3-1
+ARS318,ARS318,SGDID:S000028493,ARS,CHR_3,294820,294901,"""ARS that becomes active if the nearby ARS317/HMR-E silencer is deleted; active in only a small fraction of cell cycles""",Genome Release 64-3-1
+YCRWdelta13,YCRWdelta13,SGDID:S000006840,long_terminal_repeat,CHR_3,295003,295330,"""Ty1 LTR""",Genome Release 64-3-1
+YCRCdelta14,YCRCdelta14,SGDID:S000006834,reverse complement,CHR_3,295958,296190,"""Ty1 LTR""",Genome Release 64-3-1
+TEL03R,TEL03R,SGDID:S000028944,telomere,CHR_3,315783,316620,"""Telomeric region on the right arm of Chromosome III; composed of an X element core sequence ; X element combinatorial repeats ; and a short terminal stretch of telomeric repeats""",Genome Release 64-3-1
+ARS319,ARS319,SGDID:S000028494,ARS,CHR_3,315807,315879,"""Highly-active subtelomeric autonomously replicating sequence; initiates replication in ~90% of cell cycles""",Genome Release 64-3-1
+TEL04L,TEL04L,SGDID:S000028875,reverse complement,CHR_4,1,904,"""Telomeric region on the left arm of Chromosome IV; composed of an X element core sequence ; X element combinatorial repeats ; and a terminal stretch of telomeric repeats""",Genome Release 64-3-1
+ARS400,ARS400,SGDID:S000121226,ARS,CHR_4,137,1392,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+ARS403,ARS403,SGDID:S000118427,ARS,CHR_4,15493,15739,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+ARS404,ARS404,SGDID:S000114787,ARS,CHR_4,46185,46237,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+ARS405,ARS405,SGDID:S000118428,ARS,CHR_4,85945,86176,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+ARS406,ARS406,SGDID:S000118429,ARS,CHR_4,123617,123901,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+VDE,VDE,SGDID:S000029636,intein_encoding_region,CHR_4,127636,129000,"""Vma1p derived endonuclease; a 50 kDa intein derived from the self-splicing of amino acid residues 284-738 of the VMA1 primary translation product; has endonuclease activity and cleaves at the VMA1 gene to stimulate gene conversion during meiosis""",Genome Release 64-3-1
+ARS409,ARS409,SGDID:S000118430,ARS,CHR_4,212519,212618,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+ARS409.5,ARS409.5,SGDID:S000178064,ARS,CHR_4,235937,236185,"""Strong autonomously replicating sequence""",Genome Release 64-3-1
+ARS410,ARS410,SGDID:S000118431,ARS,CHR_4,253791,254039,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+ARS411,ARS411,SGDID:S000130171,ARS,CHR_4,256530,256633,"""Putative replication origin; identified in multiple array studies ; not yet confirmed by plasmid-based assay""",Genome Release 64-3-1
+ARS412,ARS412,SGDID:S000130172,ARS,CHR_4,316771,317230,"""Putative replication origin; identified in multiple array studies ; not yet confirmed by plasmid-based assay""",Genome Release 64-3-1
+ARS413,ARS413,SGDID:S000118432,ARS,CHR_4,329566,329814,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+ARS414,ARS414,SGDID:S000118433,ARS,CHR_4,408075,408316,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+YDLCdelta1,YDLCdelta1,SGDID:S000006842,reverse complement,CHR_4,434423,434739,"""Ty1 LTR""",Genome Release 64-3-1
+ARS415,ARS415,SGDID:S000130173,ARS,CHR_4,434971,435320,"""Putative replication origin; identified in multiple array studies ; not yet confirmed by plasmid-based assay""",Genome Release 64-3-1
+YDLWtau1,YDLWtau1,SGDID:S000006843,long_terminal_repeat,CHR_4,437149,437518,"""Ty4 LTR""",Genome Release 64-3-1
+CEN4,CEN4,SGDID:S000006466,centromere,CHR_4,449711,449821,"""Chromosome IV centromere""",Genome Release 64-3-1
+ARS416,ARS1,SGDID:S000029652,ARS,CHR_4,462567,462622,"""Early-firing autonomously replicating sequence; highly efficient chromosomal replicator active in nearly every cell cycle""",Genome Release 64-3-1
+ARS417,ARS417,SGDID:S000118434,ARS,CHR_4,484006,484059,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+ARS450,ARS450,SGDID:S000119069,ARS,CHR_4,505343,505584,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+YDRCdelta2,YDRCdelta2,SGDID:S000006844,reverse complement,CHR_4,512986,513258,"""Ty1 LTR""",Genome Release 64-3-1
+YDRCdelta3,YDRCdelta3,SGDID:S000006845,reverse complement,CHR_4,513259,513590,"""Ty1 LTR""",Genome Release 64-3-1
+YDRCdelta4,YDRCdelta4,SGDID:S000006846,reverse complement,CHR_4,513692,514020,"""Ty2 LTR""",Genome Release 64-3-1
+YDRCTy2-1,YDRCTy2-1,SGDID:S000006862,reverse complement,CHR_4,513692,519647,"""Ty2 element ; LTR retrotransposon of the Copia (Pseudoviridae) group; contains co-transcribed genes TYA Gag and TYB Pol ; encoding proteins involved in structure and function of virus-like particles ; flanked by two direct repeats""",Genome Release 64-3-1
+YDRCdelta5,YDRCdelta5,SGDID:S000006847,reverse complement,CHR_4,519316,519647,"""Ty2 LTR""",Genome Release 64-3-1
+YDRCdelta6a,YDRCdelta6a,SGDID:S000006848,reverse complement,CHR_4,520173,520475,"""Ty1 LTR""",Genome Release 64-3-1
+YDRWdelta7,YDRWdelta7,SGDID:S000006863,long_terminal_repeat,CHR_4,520477,520805,"""Ty1 LTR""",Genome Release 64-3-1
+YDRCdelta6b,YDRCdelta6b,SGDID:S000006849,reverse complement,CHR_4,520806,520833,"""Ty1 LTR""",Genome Release 64-3-1
+ARS418,ARS418,SGDID:S000118435,ARS,CHR_4,555240,555404,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+ARS419,ARS419,SGDID:S000118436,ARS,CHR_4,567610,567685,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+ARS420,ARS420,SGDID:S000130174,ARS,CHR_4,628938,629582,"""Putative replication origin; identified in multiple array studies ; not yet confirmed by plasmid-based assay""",Genome Release 64-3-1
+ARS421,ARS421,SGDID:S000118437,ARS,CHR_4,640006,640072,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+YDRCdelta7,YDRCdelta7,SGDID:S000006850,reverse complement,CHR_4,645502,645835,"""Ty1 LTR""",Genome Release 64-3-1
+YDRCTy1-1,YDRCTy1-1,SGDID:S000006859,reverse complement,CHR_4,645502,651419,"""Ty1 element ; LTR retrotransposon of the Copia (Pseudoviridae) group; contains co-transcribed genes TYA Gag and TYB Pol ; encoding proteins involved in structure and function of virus-like particles ; flanked by two direct repeats""",Genome Release 64-3-1
+YDRCdelta8,YDRCdelta8,SGDID:S000006851,reverse complement,CHR_4,651086,651419,"""Ty1 LTR""",Genome Release 64-3-1
+YDRCsigma1,YDRCsigma1,SGDID:S000006855,reverse complement,CHR_4,651420,651503,"""Ty3 LTR""",Genome Release 64-3-1
+YDRCdelta9,YDRCdelta9,SGDID:S000006852,reverse complement,CHR_4,651682,651980,"""Ty1 LTR""",Genome Release 64-3-1
+YDRWsigma2,YDRWsigma2,SGDID:S000006856,long_terminal_repeat,CHR_4,668096,668436,"""Ty3 LTR""",Genome Release 64-3-1
+YDRWdelta10,YDRWdelta10,SGDID:S000006864,long_terminal_repeat,CHR_4,668543,668784,"""Ty1 LTR""",Genome Release 64-3-1
+ARS422,ARS422,SGDID:S000114834,ARS,CHR_4,702887,703132,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+ARS451,ARS451,SGDID:S000119070,ARS,CHR_4,748392,748637,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+ARS423,ARS423,SGDID:S000118438,ARS,CHR_4,753242,753386,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+YDRWdelta11,YDRWdelta11,SGDID:S000006865,long_terminal_repeat,CHR_4,802905,803235,"""Ty1 LTR""",Genome Release 64-3-1
+ARS425,ARS425,SGDID:S000118439,ARS,CHR_4,806052,806277,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+YDRWdelta13,YDRWdelta13,SGDID:S000006867,long_terminal_repeat,CHR_4,871821,872152,"""Ty1 LTR""",Genome Release 64-3-1
+YDRWTy2-2,YDRWTy2-2,SGDID:S000006884,LTR_retrotransposon,CHR_4,871821,877779,"""Ty2 element ; LTR retrotransposon of the Copia (Pseudoviridae) group; contains co-transcribed genes TYA Gag and TYB Pol ; encoding proteins involved in structure and function of virus-like particles ; flanked by two direct repeats""",Genome Release 64-3-1
+YDRWdelta14,YDRWdelta14,SGDID:S000006868,long_terminal_repeat,CHR_4,877448,877779,"""Ty1 LTR""",Genome Release 64-3-1
+YDRCTy1-2,YDRCTy1-2,SGDID:S000006860,reverse complement,CHR_4,878303,884220,"""Ty1 element ; LTR retrotransposon of the Copia (Pseudoviridae) group; contains co-transcribed genes TYA Gag and TYB Pol ; encoding proteins involved in structure and function of virus-like particles ; flanked by two direct repeats""",Genome Release 64-3-1
+ARS427,ARS427,SGDID:S000130175,ARS,CHR_4,899051,899596,"""Putative replication origin; identified in multiple array studies ; not yet confirmed by plasmid-based assay""",Genome Release 64-3-1
+ARS428,ARS428,SGDID:S000118440,ARS,CHR_4,913790,914038,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+ARS429,ARS429,SGDID:S000118441,ARS,CHR_4,921692,921939,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+YDRWdelta12,YDRWdelta12,SGDID:S000006866,long_terminal_repeat,CHR_4,945351,945673,"""Ty1 LTR""",Genome Release 64-3-1
+YDRCsigma3,YDRCsigma3,SGDID:S000006857,reverse complement,CHR_4,945955,946295,"""Ty3 LTR""",Genome Release 64-3-1
+YDRWdelta19,YDRWdelta19,SGDID:S000006869,long_terminal_repeat,CHR_4,981171,981502,"""Ty1 LTR""",Genome Release 64-3-1
+YDRWTy2-3,YDRWTy2-3,SGDID:S000006885,LTR_retrotransposon,CHR_4,981171,987125,"""Ty2 element ; LTR retrotransposon of the Copia (Pseudoviridae) group; contains co-transcribed genes TYA Gag and TYB Pol ; encoding proteins involved in structure and function of virus-like particles ; flanked by two direct repeats""",Genome Release 64-3-1
+YDRWdelta20,YDRWdelta20,SGDID:S000006870,long_terminal_repeat,CHR_4,986794,987125,"""Ty1 LTR""",Genome Release 64-3-1
+YDRCdelta21,YDRCdelta21,SGDID:S000006853,reverse complement,CHR_4,987150,987483,"""Ty1 LTR""",Genome Release 64-3-1
+YDRCTy1-3,YDRCTy1-3,SGDID:S000006861,reverse complement,CHR_4,987150,992642,"""Ty1 element ; LTR retrotransposon of the Copia (Pseudoviridae) group; contains genes TYA Gag and TYB Pol ; encoding proteins involved in structure and function of virus-like particles ; flanked by two direct repeats; mutated in S288C""",Genome Release 64-3-1
+YDRCdelta22,YDRCdelta22,SGDID:S000006854,reverse complement,CHR_4,992309,992642,"""Ty1 LTR""",Genome Release 64-3-1
+YDRCsigma4,YDRCsigma4,SGDID:S000006880,reverse complement,CHR_4,992740,992815,"""Ty3 LTR""",Genome Release 64-3-1
+ARS430,ARS430,SGDID:S000118442,ARS,CHR_4,1016670,1016911,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+YDRWsigma5,YDRWsigma5,SGDID:S000006881,long_terminal_repeat,CHR_4,1023137,1023477,"""Ty3 LTR""",Genome Release 64-3-1
+ARS431,ARS431,SGDID:S000118443,ARS,CHR_4,1057841,1057951,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+YDRWdelta23,YDRWdelta23,SGDID:S000006871,long_terminal_repeat,CHR_4,1095767,1096104,"""Ty1 LTR""",Genome Release 64-3-1
+YDRWTy1-4,YDRWTy1-4,SGDID:S000006882,LTR_retrotransposon,CHR_4,1095767,1101692,"""Ty1 element ; LTR retrotransposon of the Copia (Pseudoviridae) group; contains co-transcribed genes TYA Gag and TYB Pol ; encoding proteins involved in structure and function of virus-like particles ; flanked by two direct repeats""",Genome Release 64-3-1
+YDRWdelta24,YDRWdelta24,SGDID:S000006872,long_terminal_repeat,CHR_4,1101355,1101692,"""Ty1 LTR""",Genome Release 64-3-1
+ARS452,ARS452,SGDID:S000119071,ARS,CHR_4,1109964,1110204,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+YDRWdelta25,YDRWdelta25,SGDID:S000006873,long_terminal_repeat,CHR_4,1151039,1151368,"""Ty1 LTR""",Genome Release 64-3-1
+ARS432,ARS432,SGDID:S000118444,ARS,CHR_4,1159262,1159510,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+ARS453,ARS453,SGDID:S000119072,ARS,CHR_4,1166067,1166212,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+YDRCsigma6,YDRCsigma6,SGDID:S000006858,reverse complement,CHR_4,1175134,1175812,"""Ty3 LTR""",Genome Release 64-3-1
+YDRWdelta26,YDRWdelta26,SGDID:S000006874,long_terminal_repeat,CHR_4,1175316,1175647,"""Ty1 LTR""",Genome Release 64-3-1
+ETC6,ETC6,SGDID:S000077077,matrix_attachment_site,CHR_4,1198885,1198907,"""Chromosome-organizing-clamp; tethers chromosomal regions to the nuclear periphery; binds TFIIIC transcription factor but does not recruit RNA Polymerase III; can act as a transcription-blocking insulator or as a heterochromatin barrier element; remains predominantly localized to the nuclear periphery throughout cell cycle; located between divergently transcribed genes TFC6 and ESC2""",Genome Release 64-3-1
+YDRWdelta27,YDRWdelta27,SGDID:S000006875,long_terminal_repeat,CHR_4,1206704,1207037,"""Ty1 LTR""",Genome Release 64-3-1
+YDRWTy1-5,YDRWTy1-5,SGDID:S000006883,LTR_retrotransposon,CHR_4,1206704,1212621,"""Ty1 element ; LTR retrotransposon of the Copia (Pseudoviridae) group; contains co-transcribed genes TYA Gag and TYB Pol ; encoding proteins involved in structure and function of virus-like particles ; flanked by two direct repeats""",Genome Release 64-3-1
+YDRWdelta28,YDRWdelta28,SGDID:S000006876,long_terminal_repeat,CHR_4,1212288,1212621,"""Ty1 LTR""",Genome Release 64-3-1
+ARS433,ARS433,SGDID:S000118445,ARS,CHR_4,1240882,1241110,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+ARS434,ARS434,SGDID:S000118446,ARS,CHR_4,1276225,1276452,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+ETC1,ETC1,SGDID:S000077072,matrix_attachment_site,CHR_4,1289041,1289063,"""Chromosome-organizing-clamp; tethers chromosomal regions to the nuclear periphery; binds TFIIIC transcription factor but does not recruit RNA Polymerase III; located between divergently transcribed genes ADE8 and SIZ1""",Genome Release 64-3-1
+ARS435,ARS435,SGDID:S000118447,ARS,CHR_4,1302689,1302768,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+ARS436,ARS436,SGDID:S000130176,ARS,CHR_4,1305757,1306312,"""Putative replication origin; identified in multiple array studies ; not yet confirmed by plasmid-based assay""",Genome Release 64-3-1
+YDRWdelta29,YDRWdelta29,SGDID:S000006877,long_terminal_repeat,CHR_4,1352644,1352975,"""Ty1 LTR""",Genome Release 64-3-1
+YDRWdelta30,YDRWdelta30,SGDID:S000006878,long_terminal_repeat,CHR_4,1352976,1353226,"""Ty1 LTR""",Genome Release 64-3-1
+ARS439,ARS439,SGDID:S000130177,ARS,CHR_4,1379641,1380100,"""Putative replication origin; identified in multiple array studies ; not yet confirmed by plasmid-based assay""",Genome Release 64-3-1
+ARS440,ARS440,SGDID:S000118448,ARS,CHR_4,1404290,1404524,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+ARS442,ARS442,SGDID:S000130178,ARS,CHR_4,1454509,1455087,"""Putative replication origin; identified in multiple array studies ; not yet confirmed by plasmid-based assay""",Genome Release 64-3-1
+ARS443,ARS443,SGDID:S000118449,ARS,CHR_4,1461862,1462173,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+ARS446,ARS446,SGDID:S000118450,ARS,CHR_4,1486918,1487161,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+YDRWdelta31,YDRWdelta31,SGDID:S000006879,long_terminal_repeat,CHR_4,1518484,1518807,"""Ty1 LTR""",Genome Release 64-3-1
+TEL04R,TEL04R,SGDID:S000028948,telomere,CHR_4,1524625,1531933,"""Telomeric region on the right arm of Chromosome IV; composed of an X element core sequence ; X element combinatorial repeats ; a short stretch of telomeric repeats ; and a long Y' element""",Genome Release 64-3-1
+TEL05L,TEL05L,SGDID:S000028879,reverse complement,CHR_5,1,6473,"""Telomeric region on the left arm of Chromosome V; annotated components include an X element core sequence and a long Y' element; TEL05L does have telomeric repeats (TEL05L-TR) ; but they are missing from the genome annotation due to difficulties encountered during sequencing and/or assembly""",Genome Release 64-3-1
+ARS502,ARS502,SGDID:S000077377,ARS,CHR_5,4097,4185,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+ARS503,ARS503,SGDID:S000077378,ARS,CHR_5,6378,6453,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+ARS504,ARS504,SGDID:S000077379,ARS,CHR_5,8786,10019,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+ARS507,ARS507,SGDID:S000077380,ARS,CHR_5,59338,59477,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+YELWdelta1,YELWdelta1,SGDID:S000006889,long_terminal_repeat,CHR_5,62081,62756,"""Ty1 LTR""",Genome Release 64-3-1
+YELWdelta2,YELWdelta2,SGDID:S000006890,long_terminal_repeat,CHR_5,62142,62474,"""Ty1 LTR""",Genome Release 64-3-1
+ARS508,ARS508,SGDID:S000077381,ARS,CHR_5,93978,94218,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+YELCdelta3,YELCdelta3,SGDID:S000006886,reverse complement,CHR_5,99490,99664,"""Ty1 LTR""",Genome Release 64-3-1
+YELCtau1,YELCtau1,SGDID:S000006888,reverse complement,CHR_5,118230,118551,"""Ty4 LTR""",Genome Release 64-3-1
+YELCdelta4,YELCdelta4,SGDID:S000006887,reverse complement,CHR_5,135612,135939,"""Ty1 LTR""",Genome Release 64-3-1
+YELWdelta5,YELWdelta5,SGDID:S000006891,long_terminal_repeat,CHR_5,137324,137639,"""Ty1 LTR""",Genome Release 64-3-1
+YELWdelta6,YELWdelta6,SGDID:S000006892,long_terminal_repeat,CHR_5,138221,138553,"""Ty1 LTR""",Genome Release 64-3-1
+ARS510,ARS510,SGDID:S000077382,ARS,CHR_5,145678,145840,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+CEN5,CEN5,SGDID:S000006467,centromere,CHR_5,151987,152104,"""Chromosome V centromere""",Genome Release 64-3-1
+ARS511,ARS511,SGDID:S000077383,ARS,CHR_5,173700,173864,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+YERWdelta7,YERWdelta7,SGDID:S000006912,long_terminal_repeat,CHR_5,176705,176856,"""Ty1 LTR""",Genome Release 64-3-1
+ARS512,ARS512,SGDID:S000077384,ARS,CHR_5,212383,212631,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+YERCdelta8,YERCdelta8,SGDID:S000006893,reverse complement,CHR_5,249109,249331,"""Ty1 LTR""",Genome Release 64-3-1
+YERWdelta9,YERWdelta9,SGDID:S000006913,long_terminal_repeat,CHR_5,249445,249752,"""Ty1 LTR""",Genome Release 64-3-1
+YERCsigma1,YERCsigma1,SGDID:S000006904,reverse complement,CHR_5,249930,250270,"""Ty3 LTR""",Genome Release 64-3-1
+ARS513,ARS513,SGDID:S000077385,ARS,CHR_5,257958,258737,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+ARS513.5,ARS513.5,SGDID:S000178086,ARS,CHR_5,276130,276528,"""Very weak autonomously replicating sequence""",Genome Release 64-3-1
+ARS513.7,ARS513.7,SGDID:S000178087,ARS,CHR_5,278076,278357,"""Weak autonomously replicating sequence""",Genome Release 64-3-1
+ARS514,ARS514,SGDID:S000077386,ARS,CHR_5,287552,287629,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+YERCdelta10,YERCdelta10,SGDID:S000006894,reverse complement,CHR_5,287745,288062,"""Ty1 LTR""",Genome Release 64-3-1
+YERWdelta11,YERWdelta11,SGDID:S000006914,long_terminal_repeat,CHR_5,312274,312445,"""Ty1 LTR""",Genome Release 64-3-1
+ARS515,ARS515,SGDID:S000077387,ARS,CHR_5,316600,316807,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+YERWdelta12,YERWdelta12,SGDID:S000006915,long_terminal_repeat,CHR_5,353399,353735,"""Ty1 LTR""",Genome Release 64-3-1
+ARS516,ARS516,SGDID:S000077388,ARS,CHR_5,353578,353636,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+YERWdelta13,YERWdelta13,SGDID:S000006916,long_terminal_repeat,CHR_5,354136,354850,"""Ty1 LTR""",Genome Release 64-3-1
+YERCtau2,YERCtau2,SGDID:S000006908,reverse complement,CHR_5,354360,354730,"""Ty4 LTR""",Genome Release 64-3-1
+YERCsigma2,YERCsigma2,SGDID:S000006905,reverse complement,CHR_5,354851,354917,"""Ty3 LTR""",Genome Release 64-3-1
+ARS517,ARS517,SGDID:S000077389,ARS,CHR_5,406752,406953,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+YERCdelta14,YERCdelta14,SGDID:S000006895,reverse complement,CHR_5,431490,431822,"""Ty1 LTR""",Genome Release 64-3-1
+YERCsigma3,YERCsigma3,SGDID:S000006906,reverse complement,CHR_5,434631,434971,"""Ty3 LTR""",Genome Release 64-3-1
+YERCdelta15,YERCdelta15,SGDID:S000006896,reverse complement,CHR_5,435128,435447,"""Ty1 LTR""",Genome Release 64-3-1
+YERCdelta16,YERCdelta16,SGDID:S000006897,reverse complement,CHR_5,435946,436277,"""Ty1 LTR""",Genome Release 64-3-1
+YERCtau3,YERCtau3,SGDID:S000006909,reverse complement,CHR_5,436279,436605,"""Ty4 LTR""",Genome Release 64-3-1
+ARS518,ARS518,SGDID:S000077390,ARS,CHR_5,438934,439182,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+ARS519,ARS519,SGDID:S000077391,ARS,CHR_5,442416,442735,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+YERWdelta17,YERWdelta17,SGDID:S000006917,long_terminal_repeat,CHR_5,442734,443072,"""Ty1 LTR""",Genome Release 64-3-1
+YERCdelta19,YERCdelta19,SGDID:S000006898,reverse complement,CHR_5,443397,443733,"""Ty1 LTR""",Genome Release 64-3-1
+YERCTy1-1,YERCTy1-1,SGDID:S000006910,reverse complement,CHR_5,443397,449320,"""Ty1 element ; LTR retrotransposon of the Copia (Pseudoviridae) group; contains co-transcribed genes TYA Gag and TYB Pol ; encoding proteins involved in structure and function of virus-like particles ; flanked by two direct repeats""",Genome Release 64-3-1
+YERWdelta21,YERWdelta21,SGDID:S000006919,long_terminal_repeat,CHR_5,444834,445139,"""Ty1 LTR""",Genome Release 64-3-1
+YERCdelta20,YERCdelta20,SGDID:S000006899,reverse complement,CHR_5,448984,449320,"""Ty1 LTR""",Genome Release 64-3-1
+YELWdelta27,YELWdelta27,SGDID:S000303805,long_terminal_repeat,CHR_5,449274,449626,"""Ty1 LTR""",Genome Release 64-3-1
+YERWdelta22,YERWdelta22,SGDID:S000006920,long_terminal_repeat,CHR_5,487834,488165,"""Ty1 LTR""",Genome Release 64-3-1
+YERCdelta23,YERCdelta23,SGDID:S000006900,reverse complement,CHR_5,492695,492833,"""Ty1 LTR""",Genome Release 64-3-1
+YERCTy1-2,YERCTy1-2,SGDID:S000006911,reverse complement,CHR_5,492695,498421,"""Ty1 element ; LTR retrotransposon of the Copia (Pseudoviridae) group; contains co-transcribed genes TYA Gag and TYB Pol ; encoding proteins involved in structure and function of virus-like particles ; flanked by two direct repeats""",Genome Release 64-3-1
+YERCdelta24,YERCdelta24,SGDID:S000006901,reverse complement,CHR_5,498084,498421,"""Ty1 LTR""",Genome Release 64-3-1
+ARS520,ARS520,SGDID:S000077392,ARS,CHR_5,498884,499182,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+ARS521,ARS521,SGDID:S000077393,ARS,CHR_5,520772,521030,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+ARS522,ARS522,SGDID:S000077394,ARS,CHR_5,549566,549814,"""Autonomously Replicating Sequence; active origin of replication near the right end of Chromosome V that is activated late in S phase ; late activation appears to result from telomeric proximity""",Genome Release 64-3-1
+YERWdelta25,YERWdelta25,SGDID:S000006921,long_terminal_repeat,CHR_5,551442,551773,"""Ty1 LTR""",Genome Release 64-3-1
+YERCdelta26,YERCdelta26,SGDID:S000006902,reverse complement,CHR_5,552040,552267,"""Ty1 LTR""",Genome Release 64-3-1
+YERComega1,YERComega1,SGDID:S000006903,reverse complement,CHR_5,563928,564024,"""Ty5 LTR""",Genome Release 64-3-1
+YERWomega2,YERWomega2,SGDID:S000006922,long_terminal_repeat,CHR_5,568791,569024,"""Ty5 LTR""",Genome Release 64-3-1
+TEL05R,TEL05R,SGDID:S000028953,telomere,CHR_5,569599,576874,"""Telomeric region on the right arm of Chromosome V; annotated components include an X element core sequence ; X element combinatorial repeats ; and a long Y' element; TEL05R does have telomeric repeats (TEL05R-TR) ; but they are missing from the genome annotation due to difficulties encountered during sequencing and/or assembly""",Genome Release 64-3-1
+ARS523,ARS523,SGDID:S000077395,ARS,CHR_5,569618,569695,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+TEL06L,TEL06L,SGDID:S000028882,reverse complement,CHR_6,1,5530,"""Telomeric region on the left arm of Chromosome VI; composed of an X element core sequence ; X element combinatorial repeats ; a stretch of telomeric repeats ; and a short Y' element""",Genome Release 64-3-1
+ARS600,ARS600,SGDID:S000029653,ARS,CHR_6,5426,5529,"""Subtelomeric Autonomously Replicating Sequence; originally published as ARS120""",Genome Release 64-3-1
+ARS600.4,ARS600.4,SGDID:S000178094,ARS,CHR_6,20702,20900,"""Strong autonomously replicating sequence""",Genome Release 64-3-1
+ARS601,ARS601,SGDID:S000007633,ARS,CHR_6,32473,32995,"""Autonomously replicating sequence on Chromosome VI; overlaps ARS602 ; ARS601/ARS602 together appear to be activated during the second half of S phase in ~32% of cell cycles""",Genome Release 64-3-1
+ARS602,ARS602,SGDID:S000007634,ARS,CHR_6,32667,33247,"""Autonomously replicating sequence on Chromosome VI; overlaps ARS601 ; ARS601/ARS602 together appear to be activated during the second half of S phase in ~32% of cell cycles""",Genome Release 64-3-1
+ARS603,ARS603,SGDID:S000007635,ARS,CHR_6,68759,68861,"""Highly-efficient autonomously replicating sequence on Chromosome VI; activated during the second half of S phase in ~67% of cell cycles""",Genome Release 64-3-1
+YFLWdelta1,YFLWdelta1,SGDID:S000006924,long_terminal_repeat,CHR_6,100581,100901,"""Ty1 LTR""",Genome Release 64-3-1
+ARS603.1,ARS603.1,SGDID:S000178095,ARS,CHR_6,104463,104701,"""Very weak autonomously replicating sequence""",Genome Release 64-3-1
+ARS603.5,ARS603.5,SGDID:S000007645,ARS,CHR_6,118637,118957,"""Autonomously replicating sequence on Chromosome VI; activated early in S phase in ~50% of cell cycles""",Genome Release 64-3-1
+ARS604,ARS604,SGDID:S000007636,ARS,CHR_6,127751,128071,"""Extremely inefficient ARS on Chromosome VI""",Genome Release 64-3-1
+ARS605,ARS605,SGDID:S000007637,ARS,CHR_6,135985,136085,"""Autonomously replicating sequence on Chromosome VI; activated early in S phase in ~27% of cell cycles; inactive during premeiotic S phase""",Genome Release 64-3-1
+YFLWdelta2,YFLWdelta2,SGDID:S000006925,long_terminal_repeat,CHR_6,137663,137912,"""Ty1 LTR""",Genome Release 64-3-1
+YFLWdelta3,YFLWdelta3,SGDID:S000006926,long_terminal_repeat,CHR_6,137913,138240,"""Ty2 LTR""",Genome Release 64-3-1
+YFLWTy2-1,YFLWTy2-1,SGDID:S000006930,LTR_retrotransposon,CHR_6,137913,143871,"""Ty2 element ; LTR retrotransposon of the Copia (Pseudoviridae) group; contains co-transcribed genes TYA Gag and TYB Pol ; encoding proteins involved in structure and function of virus-like particles ; flanked by two direct repeats""",Genome Release 64-3-1
+YFLWdelta4,YFLWdelta4,SGDID:S000006927,long_terminal_repeat,CHR_6,143540,143871,"""Ty2 LTR""",Genome Release 64-3-1
+YFLWdelta5,YFLWdelta5,SGDID:S000006928,long_terminal_repeat,CHR_6,143872,143947,"""Ty1 LTR""",Genome Release 64-3-1
+YFLWtau1,YFLWtau1,SGDID:S000006929,long_terminal_repeat,CHR_6,144203,144523,"""Ty4 LTR""",Genome Release 64-3-1
+YFLCdelta6,YFLCdelta6,SGDID:S000006923,reverse complement,CHR_6,144524,144822,"""Ty1 LTR""",Genome Release 64-3-1
+CEN6,CEN6,SGDID:S000001896,centromere,CHR_6,148510,148627,"""Chromosome VI centromere""",Genome Release 64-3-1
+YFRWdelta7,YFRWdelta7,SGDID:S000006933,long_terminal_repeat,CHR_6,158376,158686,"""Ty1 LTR""",Genome Release 64-3-1
+YFRCdelta8,YFRCdelta8,SGDID:S000006931,reverse complement,CHR_6,161804,162135,"""Ty1 LTR""",Genome Release 64-3-1
+ARS606,ARS606,SGDID:S000007638,ARS,CHR_6,167547,167801,"""Highly-efficient autonomously replicating sequence on Chromosome VI; activated early in S phase in ~74% of cell cycles; replication capacity dependent upon Sum1p""",Genome Release 64-3-1
+YFRCdelta9,YFRCdelta9,SGDID:S000006932,reverse complement,CHR_6,191685,191854,"""Ty1 LTR""",Genome Release 64-3-1
+ARS607,ARS607,SGDID:S000007639,ARS,CHR_6,199395,199505,"""Highly-efficient autonomously replicating sequence on Chromosome VI; activated very early in S phase in >85% of cell cycles""",Genome Release 64-3-1
+YFRWdelta10,YFRWdelta10,SGDID:S000006934,long_terminal_repeat,CHR_6,206922,207138,"""Ty1 LTR""",Genome Release 64-3-1
+ARS608,ARS608,SGDID:S000007640,ARS,CHR_6,216357,216704,"""Extremely inefficient autonomously replicating sequence on Chr VI; activated early in S phase in <10% of cell cycles""",Genome Release 64-3-1
+ARS609,ARS609,SGDID:S000007641,ARS,CHR_6,256277,256431,"""Autonomously replicating sequence on Chromosome VI; activated very late in S phase in ~37% of cell cycles; this origin is specifically fired in the absence of RAD53 in the presence of hydroxyurea""",Genome Release 64-3-1
+ARS610,ARS610,SGDID:S000121260,ARS,CHR_6,269417,270035,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+TEL06R,TEL06R,SGDID:S000028957,telomere,CHR_6,269731,270161,"""Telomeric region on the right arm of Chromosome VI; composed of an X element core sequence and a short terminal stretch of telomeric repeats""",Genome Release 64-3-1
+TEL07L,TEL07L,SGDID:S000028887,reverse complement,CHR_7,1,781,"""Telomeric region on the left arm of Chromosome VII; composed of an X element core sequence ; X element combinatorial repeats ; and a short terminal stretch of telomeric repeats""",Genome Release 64-3-1
+YGLWomega1,YGLWomega1,SGDID:S000006948,long_terminal_repeat,CHR_7,838,1079,"""Ty5 LTR""",Genome Release 64-3-1
+ARS702,ARS702,SGDID:S000118451,ARS,CHR_7,64360,64464,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+YGLWtau1,YGLWtau1,SGDID:S000006950,long_terminal_repeat,CHR_7,110855,111225,"""Ty4 LTR""",Genome Release 64-3-1
+YGLCdelta1,YGLCdelta1,SGDID:S000006935,reverse complement,CHR_7,111226,111505,"""Ty1 LTR""",Genome Release 64-3-1
+YGLWdelta2,YGLWdelta2,SGDID:S000006940,long_terminal_repeat,CHR_7,111506,111698,"""Ty1 LTR""",Genome Release 64-3-1
+ARS704,ARS704,SGDID:S000118452,ARS,CHR_7,112079,112317,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+YGLWdelta3,YGLWdelta3,SGDID:S000006941,long_terminal_repeat,CHR_7,114939,115269,"""Ty1 LTR""",Genome Release 64-3-1
+ARS706,ARS706,SGDID:S000114845,ARS,CHR_7,117561,117854,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+ARS707,ARS707,SGDID:S000118453,ARS,CHR_7,163218,163318,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+ARS709,ARS709,SGDID:S000130163,ARS,CHR_7,187464,187796,"""Replication origin; identified in multiple array studies ; confirmed by plasmid-based recombinational ARS assay""",Genome Release 64-3-1
+ARS710,ARS710,SGDID:S000118454,ARS,CHR_7,203914,204155,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+YGLWtau2,YGLWtau2,SGDID:S000006951,long_terminal_repeat,CHR_7,204982,205337,"""Ty4 LTR""",Genome Release 64-3-1
+ARS701,ARS701,SGDID:S000007642,ARS,CHR_7,231907,231981,"""ARS containing only an imperfect match to the core consensus sequence""",Genome Release 64-3-1
+ARS712,ARS712,SGDID:S000130164,ARS,CHR_7,241085,241353,"""Replication origin; identified in multiple array studies ; confirmed by plasmid-based recombinational ARS assay""",Genome Release 64-3-1
+ARS714,ARS714,SGDID:S000118455,ARS,CHR_7,285991,286081,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+ARS715,ARS715,SGDID:S000130165,ARS,CHR_7,288451,288512,"""Putative replication origin; identified in multiple array studies ; not yet confirmed by plasmid-based assay""",Genome Release 64-3-1
+YGLWdelta4,YGLWdelta4,SGDID:S000006942,long_terminal_repeat,CHR_7,318697,318860,"""Ty1 LTR""",Genome Release 64-3-1
+YGLCdelta5,YGLCdelta5,SGDID:S000006936,reverse complement,CHR_7,319009,319341,"""Ty1 LTR""",Genome Release 64-3-1
+YGLCsigma1,YGLCsigma1,SGDID:S000006937,reverse complement,CHR_7,319423,319762,"""Ty3 LTR""",Genome Release 64-3-1
+YGLCtau3,YGLCtau3,SGDID:S000006939,reverse complement,CHR_7,320355,320707,"""Ty4 LTR""",Genome Release 64-3-1
+YGLWdelta6,YGLWdelta6,SGDID:S000006943,long_terminal_repeat,CHR_7,327904,328224,"""Ty1 LTR""",Genome Release 64-3-1
+ARS716,ARS716,SGDID:S000118456,ARS,CHR_7,352760,352906,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+ARS717,ARS717,SGDID:S000118457,ARS,CHR_7,388658,388891,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+YGLWsigma2,YGLWsigma2,SGDID:S000006949,long_terminal_repeat,CHR_7,401616,401894,"""Ty3 LTR""",Genome Release 64-3-1
+YGLWdelta7,YGLWdelta7,SGDID:S000006944,long_terminal_repeat,CHR_7,401959,402290,"""Ty1 LTR""",Genome Release 64-3-1
+YGLWdelta8,YGLWdelta8,SGDID:S000006945,long_terminal_repeat,CHR_7,405004,405145,"""Ty1 LTR""",Genome Release 64-3-1
+YGLWdelta9,YGLWdelta9,SGDID:S000006946,long_terminal_repeat,CHR_7,405146,405207,"""Ty1 LTR""",Genome Release 64-3-1
+YGLCsigma3,YGLCsigma3,SGDID:S000006938,reverse complement,CHR_7,405208,405453,"""Ty3 LTR""",Genome Release 64-3-1
+YGLWdelta10,YGLWdelta10,SGDID:S000006947,long_terminal_repeat,CHR_7,412456,412725,"""Ty1 LTR""",Genome Release 64-3-1
+ARS718,ARS718,SGDID:S000118458,ARS,CHR_7,421171,421279,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+ARS719,ARS719,SGDID:S000118459,ARS,CHR_7,484930,485157,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+CEN7,CEN7,SGDID:S000006468,reverse complement,CHR_7,496920,497038,"""Chromosome VII centromere""",Genome Release 64-3-1
+ARS720,ARS720,SGDID:S000118460,ARS,CHR_7,508729,508977,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+YGRWdelta11,YGRWdelta11,SGDID:S000006965,long_terminal_repeat,CHR_7,535211,535542,"""Ty1 LTR""",Genome Release 64-3-1
+YGRCdelta12,YGRCdelta12,SGDID:S000006952,reverse complement,CHR_7,535607,535759,"""Ty1 LTR""",Genome Release 64-3-1
+YGRWdelta13,YGRWdelta13,SGDID:S000006966,long_terminal_repeat,CHR_7,535760,536097,"""Ty1 LTR""",Genome Release 64-3-1
+YGRWTy1-1,YGRWTy1-1,SGDID:S000006982,LTR_retrotransposon,CHR_7,535760,541685,"""Ty1 element ; LTR retrotransposon of the Copia (Pseudoviridae) group; contains co-transcribed genes TYA Gag and TYB Pol ; encoding proteins involved in structure and function of virus-like particles ; flanked by two direct repeats""",Genome Release 64-3-1
+YGRWdelta14,YGRWdelta14,SGDID:S000006967,long_terminal_repeat,CHR_7,541348,541685,"""Ty1 LTR""",Genome Release 64-3-1
+YGRCdelta15,YGRCdelta15,SGDID:S000006953,reverse complement,CHR_7,561843,562176,"""Ty1 LTR""",Genome Release 64-3-1
+YGRCTy1-2,YGRCTy1-2,SGDID:S000006962,reverse complement,CHR_7,561843,567760,"""Ty1 element ; LTR retrotransposon of the Copia (Pseudoviridae) group; contains co-transcribed genes TYA Gag and TYB Pol ; encoding proteins involved in structure and function of virus-like particles ; flanked by two direct repeats""",Genome Release 64-3-1
+YGRCdelta16,YGRCdelta16,SGDID:S000006954,reverse complement,CHR_7,567427,567760,"""Ty1 LTR""",Genome Release 64-3-1
+ARS721,ARS721,SGDID:S000118461,ARS,CHR_7,568490,568737,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+YGRCdelta17,YGRCdelta17,SGDID:S000006955,reverse complement,CHR_7,568740,569072,"""Ty2 LTR""",Genome Release 64-3-1
+YGRCTy2-1,YGRCTy2-1,SGDID:S000006964,reverse complement,CHR_7,568740,574700,"""Ty2 element ; LTR retrotransposon of the Copia (Pseudoviridae) group; contains genes TYA Gag and TYB Pol ; encoding proteins involved in structure and function of virus-like particles ; flanked by two direct repeats; mutated in S288C""",Genome Release 64-3-1
+YGRCdelta18,YGRCdelta18,SGDID:S000006956,reverse complement,CHR_7,574369,574700,"""Ty2 LTR""",Genome Release 64-3-1
+ARS722,ARS722,SGDID:S000118462,ARS,CHR_7,574622,574915,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+ARS723,ARS723,SGDID:S000130166,ARS,CHR_7,575484,576346,"""Putative replication origin; identified in multiple array studies ; not yet confirmed by plasmid-based assay""",Genome Release 64-3-1
+ARS724,ARS724,SGDID:S000130167,ARS,CHR_7,581436,582213,"""Putative replication origin; identified in multiple array studies ; not yet confirmed by plasmid-based assay""",Genome Release 64-3-1
+ARS727,ARS727,SGDID:S000118463,ARS,CHR_7,659907,660002,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+YGRWdelta19,YGRWdelta19,SGDID:S000006968,long_terminal_repeat,CHR_7,701104,701350,"""Ty1 LTR""",Genome Release 64-3-1
+YGRWsigma4,YGRWsigma4,SGDID:S000006978,long_terminal_repeat,CHR_7,707195,707534,"""Ty3 LTR""",Genome Release 64-3-1
+YGRWTy3-1,YGRWTy3-1,SGDID:S000006984,LTR_retrotransposon,CHR_7,707195,712545,"""Ty3 element ; LTR retrotransposon of the Gypsy (Metaviridae) group; contains co-transcribed genes TYA Gag and TYB Pol ; encoding proteins involved in structure and function of virus-like particles ; flanked by two direct repeats; transposition is induced upon exposure to mating pheromone""",Genome Release 64-3-1
+YGRWsigma5,YGRWsigma5,SGDID:S000006979,long_terminal_repeat,CHR_7,712206,712545,"""Ty3 LTR""",Genome Release 64-3-1
+YGRCdelta20,YGRCdelta20,SGDID:S000006957,reverse complement,CHR_7,713084,713384,"""Ty1 LTR""",Genome Release 64-3-1
+ARS728,ARS728,SGDID:S000118464,ARS,CHR_7,715312,715377,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+YGRWdelta21,YGRWdelta21,SGDID:S000006969,long_terminal_repeat,CHR_7,735542,735872,"""Ty1 LTR""",Genome Release 64-3-1
+YGRWsigma6,YGRWsigma6,SGDID:S000006980,long_terminal_repeat,CHR_7,735982,736322,"""Ty3 LTR""",Genome Release 64-3-1
+YGRWdelta22,YGRWdelta22,SGDID:S000006970,long_terminal_repeat,CHR_7,774040,774162,"""Ty1 LTR""",Genome Release 64-3-1
+ARS729,ARS729,SGDID:S000118465,ARS,CHR_7,777966,778214,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+YGRWdelta23,YGRWdelta23,SGDID:S000006971,long_terminal_repeat,CHR_7,778784,779112,"""Ty1 LTR""",Genome Release 64-3-1
+YGRWdelta24,YGRWdelta24,SGDID:S000006972,long_terminal_repeat,CHR_7,779116,779224,"""Ty1 LTR""",Genome Release 64-3-1
+YGRCdelta25,YGRCdelta25,SGDID:S000006958,reverse complement,CHR_7,779225,779515,"""Ty1 LTR""",Genome Release 64-3-1
+YGRWdelta26,YGRWdelta26,SGDID:S000006973,long_terminal_repeat,CHR_7,793237,793559,"""Ty1 LTR""",Genome Release 64-3-1
+YGRWdelta27,YGRWdelta27,SGDID:S000006974,long_terminal_repeat,CHR_7,811447,811778,"""Ty2 LTR""",Genome Release 64-3-1
+YGRWTy2-2,YGRWTy2-2,SGDID:S000006983,LTR_retrotransposon,CHR_7,811447,817397,"""Ty2 element ; LTR retrotransposon of the Copia (Pseudoviridae) group; contains co-transcribed genes TYA Gag and TYB Pol ; encoding proteins involved in structure and function of virus-like particles ; flanked by two direct repeats""",Genome Release 64-3-1
+YGRWdelta28,YGRWdelta28,SGDID:S000006975,long_terminal_repeat,CHR_7,817074,817397,"""Ty2 LTR""",Genome Release 64-3-1
+YGRCdelta29,YGRCdelta29,SGDID:S000006959,reverse complement,CHR_7,817393,817724,"""Ty1 LTR""",Genome Release 64-3-1
+YGRCTy1-3,YGRCTy1-3,SGDID:S000006963,reverse complement,CHR_7,817393,823306,"""Ty1 element ; LTR retrotransposon of the Copia (Pseudoviridae) group; contains co-transcribed genes TYA Gag and TYB Pol ; encoding proteins involved in structure and function of virus-like particles ; flanked by two direct repeats""",Genome Release 64-3-1
+YGRCdelta30,YGRCdelta30,SGDID:S000006960,reverse complement,CHR_7,822975,823306,"""Ty1 LTR""",Genome Release 64-3-1
+ARS731,ARS731,SGDID:S000118466,ARS,CHR_7,834491,834734,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+YGRWsigma7,YGRWsigma7,SGDID:S000006981,long_terminal_repeat,CHR_7,845281,845602,"""Ty3 LTR""",Genome Release 64-3-1
+YGRWdelta31,YGRWdelta31,SGDID:S000006976,long_terminal_repeat,CHR_7,875951,876279,"""Ty1 LTR""",Genome Release 64-3-1
+ARS737,ARS737,SGDID:S000119032,ARS,CHR_7,888413,888493,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+YGRCtau3,YGRCtau3,SGDID:S000006961,reverse complement,CHR_7,931171,931540,"""Ty4 LTR""",Genome Release 64-3-1
+YGRWdelta32,YGRWdelta32,SGDID:S000006977,long_terminal_repeat,CHR_7,931688,932019,"""Ty1 LTR""",Genome Release 64-3-1
+ARS733,ARS733,SGDID:S000118467,ARS,CHR_7,977728,977976,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+ARS734,ARS734,SGDID:S000118468,ARS,CHR_7,999456,999576,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+ARS735,ARS735,SGDID:S000130168,ARS,CHR_7,1002239,1002522,"""Replication origin; identified in multiple array studies ; confirmed by plasmid-based recombinational ARS assay""",Genome Release 64-3-1
+ETC4,ETC4,SGDID:S000077075,matrix_attachment_site,CHR_7,1010927,1010949,"""Chromosome-organizing-clamp; tethers chromosomal regions to the nuclear periphery; binds TFIIIC transcription factor but does not recruit RNA Polymerase III; can act as a transcription-blocking insulator or as a heterochromatin barrier element; remains predominantly localized to the nuclear periphery throughout cell cycle; located between divergently transcribed genes RAD2 and TNA1""",Genome Release 64-3-1
+TEL07R,TEL07R,SGDID:S000028960,telomere,CHR_7,1083635,1090940,"""Telomeric region on the right arm of Chromosome VII; annotated components include an X element core sequence ; X element combinatorial repeats ; and a long Y' element; TEL07R does have telomeric repeats (TEL07R-TR) ; but they are missing from the genome annotation due to difficulties encountered during sequencing and/or assembly""",Genome Release 64-3-1
+ARS736,ARS736,SGDID:S000130170,ARS,CHR_7,1083795,1084863,"""Putative replication origin; identified in multiple array studies ; not yet confirmed by plasmid-based assay""",Genome Release 64-3-1
+TEL08L,TEL08L,SGDID:S000028891,reverse complement,CHR_8,1,5505,"""Telomeric region on the left arm of Chromosome VIII; composed of an X element core sequence ; an X element combinatorial repeat ; a short Y' element ; and a short terminal stretch of telomeric repeats""",Genome Release 64-3-1
+ARS801,ARS801,SGDID:S000130145,ARS,CHR_8,5471,6401,"""Putative replication origin; identified in multiple array studies ; not yet confirmed by plasmid-based assay""",Genome Release 64-3-1
+ARS802,ARS802,SGDID:S000118356,ARS,CHR_8,7702,7767,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+YHLComega1,YHLComega1,SGDID:S000006986,reverse complement,CHR_8,7994,8225,"""Ty5 LTR""",Genome Release 64-3-1
+ARS805,ARS805,SGDID:S000114849,ARS,CHR_8,64296,64371,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+YHLCsigma1,YHLCsigma1,SGDID:S000006987,reverse complement,CHR_8,85388,85538,"""Ty3 LTR""",Genome Release 64-3-1
+YHLWtau1,YHLWtau1,SGDID:S000006989,long_terminal_repeat,CHR_8,85539,85909,"""Ty4 LTR""",Genome Release 64-3-1
+YHLWTy4-1,YHLWTy4-1,SGDID:S000006991,LTR_retrotransposon,CHR_8,85539,91761,"""Ty4 element ; LTR retrotransposon of the Copia (Pseudoviridae) group; contains co-transcribed genes TYA Gag and TYB Pol ; encoding proteins involved in structure and function of virus-like particles ; flanked by two direct repeats""",Genome Release 64-3-1
+YHLWtau2,YHLWtau2,SGDID:S000006990,long_terminal_repeat,CHR_8,91391,91761,"""Ty4 LTR""",Genome Release 64-3-1
+YHLCdelta1,YHLCdelta1,SGDID:S000006985,reverse complement,CHR_8,91772,92099,"""Ty1 LTR""",Genome Release 64-3-1
+YHLWdelta2,YHLWdelta2,SGDID:S000006988,long_terminal_repeat,CHR_8,92240,92390,"""Ty1 LTR""",Genome Release 64-3-1
+CEN8,CEN8,SGDID:S000006469,reverse complement,CHR_8,105586,105703,"""Chromosome VIII centromere""",Genome Release 64-3-1
+ARS806,ARS806,SGDID:S000130146,ARS,CHR_8,116179,116421,"""Putative replication origin; identified in multiple array studies ; not yet confirmed by plasmid-based assay""",Genome Release 64-3-1
+YHRCdelta3,YHRCdelta3,SGDID:S000006992,reverse complement,CHR_8,116421,116752,"""Ty1 LTR""",Genome Release 64-3-1
+YHRCdelta4,YHRCdelta4,SGDID:S000006993,reverse complement,CHR_8,116763,117061,"""Ty1 LTR""",Genome Release 64-3-1
+YHRCdelta5,YHRCdelta5,SGDID:S000006994,reverse complement,CHR_8,133201,133442,"""Ty1 LTR""",Genome Release 64-3-1
+ARS807,ARS807,SGDID:S000118357,ARS,CHR_8,133438,133539,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+YHRCdelta6,YHRCdelta6,SGDID:S000006995,reverse complement,CHR_8,133565,133684,"""Ty1 LTR""",Genome Release 64-3-1
+YHRWdelta7,YHRWdelta7,SGDID:S000007007,long_terminal_repeat,CHR_8,133685,134009,"""Ty1 LTR""",Genome Release 64-3-1
+ARS808,ARS2,SGDID:S000029042,ARS,CHR_8,140349,141274,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+YHRCsigma2,YHRCsigma2,SGDID:S000007003,reverse complement,CHR_8,146331,146671,"""Ty3 LTR""",Genome Release 64-3-1
+YHRWtau3,YHRWtau3,SGDID:S000007010,long_terminal_repeat,CHR_8,146844,147114,"""Ty4 LTR""",Genome Release 64-3-1
+ARS809,ARS809,SGDID:S000118358,ARS,CHR_8,168549,168723,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+ARS810,ARS810,SGDID:S000130147,ARS,CHR_8,212720,213185,"""Putative replication origin; identified in multiple array studies ; not yet confirmed by plasmid-based assay""",Genome Release 64-3-1
+ARS811,ARS811,SGDID:S000130148,ARS,CHR_8,214718,215183,"""Putative replication origin; identified in multiple array studies ; not yet confirmed by plasmid-based assay""",Genome Release 64-3-1
+ARS813,ARS813,SGDID:S000118359,ARS,CHR_8,245773,245847,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+ARS814,ARS814,SGDID:S000130149,ARS,CHR_8,286770,287128,"""Putative replication origin; identified in multiple array studies ; not yet confirmed by plasmid-based assay""",Genome Release 64-3-1
+ARS815,ARS815,SGDID:S000130150,ARS,CHR_8,297060,297179,"""Putative replication origin; identified in multiple array studies ; not yet confirmed by plasmid-based assay""",Genome Release 64-3-1
+YHRCdelta8,YHRCdelta8,SGDID:S000006996,reverse complement,CHR_8,358672,358850,"""Ty1 LTR""",Genome Release 64-3-1
+YHRCtau4,YHRCtau4,SGDID:S000007005,reverse complement,CHR_8,358850,359067,"""Ty4 LTR""",Genome Release 64-3-1
+YHRWdelta9,YHRWdelta9,SGDID:S000007008,long_terminal_repeat,CHR_8,359079,359372,"""Ty1 LTR""",Genome Release 64-3-1
+YHRCdelta10,YHRCdelta10,SGDID:S000006997,reverse complement,CHR_8,389177,389509,"""Ty2 LTR""",Genome Release 64-3-1
+YHRCdelta11,YHRCdelta11,SGDID:S000006998,reverse complement,CHR_8,389613,389845,"""Ty1 LTR""",Genome Release 64-3-1
+ARS818,ARS818,SGDID:S000118360,ARS,CHR_8,392180,392395,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+ARS820,ARS820,SGDID:S000118361,ARS,CHR_8,447714,447795,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+YHRCdelta12,YHRCdelta12,SGDID:S000006999,reverse complement,CHR_8,463920,464147,"""Ty1 LTR""",Genome Release 64-3-1
+YHRWdelta13,YHRWdelta13,SGDID:S000007009,long_terminal_repeat,CHR_8,466549,466863,"""Ty1 LTR""",Genome Release 64-3-1
+YHRCsigma3,YHRCsigma3,SGDID:S000007004,reverse complement,CHR_8,466884,466975,"""Ty3 LTR""",Genome Release 64-3-1
+ARS822,ARS822,SGDID:S000118362,ARS,CHR_8,501756,501996,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+YHRCdelta14,YHRCdelta14,SGDID:S000007000,reverse complement,CHR_8,530049,530379,"""Ty1 LTR""",Genome Release 64-3-1
+YHRCdelta15,YHRCdelta15,SGDID:S000007001,reverse complement,CHR_8,543610,543941,"""Ty1 LTR""",Genome Release 64-3-1
+YHRCTy1-1,YHRCTy1-1,SGDID:S000007006,reverse complement,CHR_8,543610,549637,"""Ty1 element ; LTR retrotransposon of the Copia (Pseudoviridae) group; contains co-transcribed genes TYA Gag and TYB Pol ; encoding proteins involved in structure and function of virus-like particles ; flanked by two direct repeats""",Genome Release 64-3-1
+YHRCdelta16,YHRCdelta16,SGDID:S000007002,reverse complement,CHR_8,549306,549637,"""Ty1 LTR""",Genome Release 64-3-1
+ARS824,ARS824,SGDID:S000118363,ARS,CHR_8,556001,556331,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+TEL08R,TEL08R,SGDID:S000028964,telomere,CHR_8,556105,562643,"""Telomeric region on the right arm of Chromosome VIII; composed of an X element core sequence ; X element combinatorial repeats ; an internal stretch of telomeric repeats ; a short Y' element ; and a terminal stretch of telomeric repeats""",Genome Release 64-3-1
+TEL09L,TEL09L,SGDID:S000028896,reverse complement,CHR_9,1,7784,"""Telomeric region on the left arm of Chromosome IX; composed of an X element core sequence ; X element combinatorial repeats ; a long Y' element ; and a short terminal stretch of telomeric repeats""",Genome Release 64-3-1
+ARS902,ARS902,SGDID:S000130156,ARS,CHR_9,7470,8793,"""Putative replication origin; identified in multiple array studies ; not yet confirmed by plasmid-based assay""",Genome Release 64-3-1
+ARS904,ARS904,SGDID:S000130157,ARS,CHR_9,16141,16784,"""Putative replication origin; identified in multiple array studies ; not yet confirmed by plasmid-based assay""",Genome Release 64-3-1
+ARS907,ARS907,SGDID:S000178111,ARS,CHR_9,73820,73991,"""Autonomously replicating sequence""",Genome Release 64-3-1
+ARS909,ARS909,SGDID:S000118394,ARS,CHR_9,105870,106053,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+ARS910,ARS910,SGDID:S000130158,ARS,CHR_9,113237,113806,"""Putative replication origin; identified in multiple array studies ; not yet confirmed by plasmid-based assay""",Genome Release 64-3-1
+ARS911,ARS911,SGDID:S000118395,ARS,CHR_9,136098,136338,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+ARS912,ARS912,SGDID:S000118396,ARS,CHR_9,175038,175358,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+YILCtau1,YILCtau1,SGDID:S000007015,reverse complement,CHR_9,196653,197023,"""Ty4 LTR""",Genome Release 64-3-1
+YILCdelta1,YILCdelta1,SGDID:S000007011,reverse complement,CHR_9,197140,197488,"""Ty1 LTR""",Genome Release 64-3-1
+YILWsigma1,YILWsigma1,SGDID:S000007017,long_terminal_repeat,CHR_9,205220,205559,"""Ty3 LTR""",Genome Release 64-3-1
+YILWTy3-1,YILWTy3-1,SGDID:S000007020,LTR_retrotransposon,CHR_9,205220,210647,"""Ty3 element ; LTR retrotransposon of the Gypsy (Metaviridae) group; contains co-transcribed genes TYA Gag and TYB Pol ; encoding proteins involved in structure and function of virus-like particles ; flanked by two direct repeats; transposition is induced upon exposure to mating pheromone""",Genome Release 64-3-1
+YILWsigma2,YILWsigma2,SGDID:S000007018,long_terminal_repeat,CHR_9,210308,210647,"""Ty3 LTR""",Genome Release 64-3-1
+ARS913,ARS901,SGDID:S000007644,ARS,CHR_9,214624,214754,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+ARS923,ARS923,SGDID:S000119034,ARS,CHR_9,245756,245925,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+YILWdelta2,YILWdelta2,SGDID:S000007012,long_terminal_repeat,CHR_9,246220,246552,"""Ty2 LTR""",Genome Release 64-3-1
+ARS914,ARS914,SGDID:S000118397,ARS,CHR_9,247705,247760,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+ARS915,ARS915,SGDID:S000130159,ARS,CHR_9,248396,248850,"""Putative replication origin; identified in multiple array studies ; not yet confirmed by plasmid-based assay""",Genome Release 64-3-1
+YILCdelta3,YILCdelta3,SGDID:S000007013,reverse complement,CHR_9,300409,300727,"""Ty1 LTR""",Genome Release 64-3-1
+ARS918,ARS918,SGDID:S000130160,ARS,CHR_9,313861,314035,"""Putative replication origin; identified in multiple array studies ; not yet confirmed by plasmid-based assay""",Genome Release 64-3-1
+YILWsigma3,YILWsigma3,SGDID:S000007019,long_terminal_repeat,CHR_9,324391,324734,"""Ty3 LTR""",Genome Release 64-3-1
+YILWdelta4,YILWdelta4,SGDID:S000007016,long_terminal_repeat,CHR_9,324831,325164,"""Ty1 LTR""",Genome Release 64-3-1
+YILCdelta5,YILCdelta5,SGDID:S000007014,reverse complement,CHR_9,336708,336897,"""Ty1 LTR""",Genome Release 64-3-1
+ARS919,ARS919,SGDID:S000118398,ARS,CHR_9,341976,342045,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+CEN9,CEN9,SGDID:S000006470,centromere,CHR_9,355629,355745,"""Chromosome IX centromere""",Genome Release 64-3-1
+ARS920,ARS920,SGDID:S000118399,ARS,CHR_9,357160,357396,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+ARS921,ARS921,SGDID:S000130161,ARS,CHR_9,362924,363221,"""Putative replication origin; identified in multiple array studies ; not yet confirmed by plasmid-based assay""",Genome Release 64-3-1
+ARS922,ARS922,SGDID:S000118400,ARS,CHR_9,411935,412011,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+YIRCdelta6,YIRCdelta6,SGDID:S000007021,reverse complement,CHR_9,426201,426425,"""Ty1 LTR""",Genome Release 64-3-1
+TEL09R,TEL09R,SGDID:S000028970,telomere,CHR_9,439068,439888,"""Telomeric region on the right arm of Chromosome IX; composed of an X element core sequence ; X element combinatorial repeats ; and a short terminal stretch of telomeric repeats""",Genome Release 64-3-1
+TEL10L,TEL10L,SGDID:S000028901,reverse complement,CHR_10,1,7767,"""Telomeric region on the left arm of Chromosome X; composed of an X element core sequence ; X element combinatorial repeats ; a long Y' element ; and a short terminal stretch of telomeric repeats""",Genome Release 64-3-1
+ARS1001,ARS1001,SGDID:S000028438,ARS,CHR_10,65,577,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+ARS1002,ARS1002,SGDID:S000028439,ARS,CHR_10,7445,7943,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+ARS1003,ARS1003,SGDID:S000028440,ARS,CHR_10,16124,16762,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+ARS1004,ARS1004,SGDID:S000028441,ARS,CHR_10,23662,24158,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+YJLWdelta1,YJLWdelta1,SGDID:S000007027,long_terminal_repeat,CHR_10,59505,59784,"""Ty1 LTR""",Genome Release 64-3-1
+ARS1005,ARS1005,SGDID:S000028442,ARS,CHR_10,67663,67736,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+ARS1006,ARS1006,SGDID:S000028443,ARS,CHR_10,99458,99678,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+ARS1007,ARS1007,SGDID:S000028444,ARS,CHR_10,113678,113749,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+YJLWsigma1,YJLWsigma1,SGDID:S000007035,long_terminal_repeat,CHR_10,197401,197494,"""Ty3 LTR""",Genome Release 64-3-1
+YJLWtau1,YJLWtau1,SGDID:S000007036,long_terminal_repeat,CHR_10,197545,197915,"""Ty4 LTR""",Genome Release 64-3-1
+YJLWTy4-1,YJLWTy4-1,SGDID:S000007039,LTR_retrotransposon,CHR_10,197545,203768,"""Ty4 element ; LTR retrotransposon of the Copia (Pseudoviridae) group; contains co-transcribed genes TYA Gag and TYB Pol ; encoding proteins involved in structure and function of virus-like particles ; flanked by two direct repeats""",Genome Release 64-3-1
+YJLWtau2,YJLWtau2,SGDID:S000007037,long_terminal_repeat,CHR_10,203398,203768,"""Ty4 LTR""",Genome Release 64-3-1
+YJLCdelta3,YJLCdelta3,SGDID:S000007022,reverse complement,CHR_10,203783,204114,"""Ty1 LTR""",Genome Release 64-3-1
+ARS1008,ARS1008,SGDID:S000028445,ARS,CHR_10,204029,204917,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+ARS1009,ARS1009,SGDID:S000028446,ARS,CHR_10,228552,229043,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+ETC3,ETC3,SGDID:S000077074,matrix_attachment_site,CHR_10,247060,247082,"""Chromosome-organizing-clamp; tethers chromosomal regions to the nuclear periphery; binds TFIIIC transcription factor but does not recruit RNA Polymerase III; located between MRPL49 and BCK1""",Genome Release 64-3-1
+ARS1010,ARS1010,SGDID:S000028447,ARS,CHR_10,298981,299245,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+ARS1011,ARS1011,SGDID:S000028448,ARS,CHR_10,337281,337529,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+YJLCdelta4,YJLCdelta4,SGDID:S000007023,reverse complement,CHR_10,354538,355204,"""Ty1 LTR""",Genome Release 64-3-1
+YJLCdelta5,YJLCdelta5,SGDID:S000007024,reverse complement,CHR_10,354844,355175,"""Ty1 LTR""",Genome Release 64-3-1
+YJLCdelta6,YJLCdelta6,SGDID:S000007025,reverse complement,CHR_10,374844,374935,"""Ty1 LTR""",Genome Release 64-3-1
+ARS1012,ARS1012,SGDID:S000028449,ARS,CHR_10,374880,375122,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+ARS1013,ARS1013,SGDID:S000028450,ARS,CHR_10,375706,376227,"""Autonomously Replicating Sequence; inefficient as chromosomal replication origin; replication capacity dependent upon Sum1p""",Genome Release 64-3-1
+YJLCdelta7,YJLCdelta7,SGDID:S000007026,reverse complement,CHR_10,377598,377870,"""Ty1 LTR""",Genome Release 64-3-1
+YJLWtau3,YJLWtau3,SGDID:S000007047,long_terminal_repeat,CHR_10,416266,416441,"""Ty4 LTR""",Genome Release 64-3-1
+YJLWdelta8,YJLWdelta8,SGDID:S000007029,long_terminal_repeat,CHR_10,416506,416650,"""Ty1 LTR""",Genome Release 64-3-1
+YJLWdelta9,YJLWdelta9,SGDID:S000007030,long_terminal_repeat,CHR_10,416899,417026,"""Ty1 LTR""",Genome Release 64-3-1
+ARS1014,ARS1014,SGDID:S000028451,ARS,CHR_10,417195,417440,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+YJLWtau4,YJLWtau4,SGDID:S000007038,long_terminal_repeat,CHR_10,421946,422295,"""Ty4 LTR""",Genome Release 64-3-1
+YJLWdelta10,YJLWdelta10,SGDID:S000007031,long_terminal_repeat,CHR_10,422601,422887,"""Ty1 LTR""",Genome Release 64-3-1
+CEN10,CEN10,SGDID:S000006471,reverse complement,CHR_10,436307,436425,"""Chromosome X centromere""",Genome Release 64-3-1
+ARS1015,ARS1015,SGDID:S000028452,ARS,CHR_10,442556,442965,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+ARS1016,ARS1016,SGDID:S000028453,ARS,CHR_10,454584,455555,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+ARS1017,ARS1017,SGDID:S000028454,ARS,CHR_10,459337,459895,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+YJRWdelta11,YJRWdelta11,SGDID:S000007040,long_terminal_repeat,CHR_10,472463,472800,"""Ty1 LTR""",Genome Release 64-3-1
+YJRWTy1-1,YJRWTy1-1,SGDID:S000007048,LTR_retrotransposon,CHR_10,472463,478384,"""Ty1 element ; LTR retrotransposon of the Copia (Pseudoviridae) group; contains co-transcribed genes TYA Gag and TYB Pol ; encoding proteins involved in structure and function of virus-like particles ; flanked by two direct repeats""",Genome Release 64-3-1
+YJRWdelta12,YJRWdelta12,SGDID:S000007041,long_terminal_repeat,CHR_10,478051,478384,"""Ty1 LTR""",Genome Release 64-3-1
+YJRWTy1-2,YJRWTy1-2,SGDID:S000007049,LTR_retrotransposon,CHR_10,478051,483972,"""Ty1 element ; LTR retrotransposon of the Copia (Pseudoviridae) group; contains co-transcribed genes TYA Gag and TYB Pol ; encoding proteins involved in structure and function of virus-like particles ; flanked by two direct repeats""",Genome Release 64-3-1
+YJRWdelta13,YJRWdelta13,SGDID:S000007042,long_terminal_repeat,CHR_10,483635,483972,"""Ty1 LTR""",Genome Release 64-3-1
+YJRWdelta14,YJRWdelta14,SGDID:S000007043,long_terminal_repeat,CHR_10,517959,518099,"""Ty1 LTR""",Genome Release 64-3-1
+YJRCdelta15,YJRCdelta15,SGDID:S000007032,reverse complement,CHR_10,531516,531675,"""Ty1 LTR""",Genome Release 64-3-1
+YJRCdelta16,YJRCdelta16,SGDID:S000007033,reverse complement,CHR_10,537741,538041,"""Ty1 LTR""",Genome Release 64-3-1
+YJRWdelta17,YJRWdelta17,SGDID:S000007044,long_terminal_repeat,CHR_10,538103,538434,"""Ty1 LTR""",Genome Release 64-3-1
+ARS1018,ARS1018,SGDID:S000028455,ARS,CHR_10,540546,540780,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+YJRWdelta18,YJRWdelta18,SGDID:S000007045,long_terminal_repeat,CHR_10,540766,541087,"""Ty1 LTR""",Genome Release 64-3-1
+YJRCdelta19,YJRCdelta19,SGDID:S000007034,reverse complement,CHR_10,541095,541427,"""Ty1 LTR""",Genome Release 64-3-1
+YJRWdelta20,YJRWdelta20,SGDID:S000007046,long_terminal_repeat,CHR_10,543448,543770,"""Ty1 LTR""",Genome Release 64-3-1
+ARS1019,ARS1019,SGDID:S000028456,ARS,CHR_10,612846,613278,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+ARS1020,ARS1020,SGDID:S000028457,ARS,CHR_10,654375,654614,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+ARS1021,ARS1021,SGDID:S000007553,ARS,CHR_10,684009,684098,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+ARS1022,ARS1022,SGDID:S000028458,ARS,CHR_10,711896,712142,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+ARS1023,ARS1023,SGDID:S000028459,ARS,CHR_10,729983,730513,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+ARS1024,ARS1024,SGDID:S000028460,ARS,CHR_10,737034,737275,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+ARS1025,ARS1025,SGDID:S000028461,ARS,CHR_10,744408,745008,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+TEL10R,TEL10R,SGDID:S000028974,telomere,CHR_10,744902,745751,"""Telomeric region on the right arm of Chromosome X; composed of an X element core sequence ; X element combinatorial repeats ; and a short terminal stretch of telomeric repeats""",Genome Release 64-3-1
+TEL11L,TEL11L,SGDID:S000028906,reverse complement,CHR_11,1,807,"""Telomeric region on the left arm of Chromosome XI; composed of an X element core sequence ; X element combinatorial repeats ; and a short terminal stretch of telomeric repeats""",Genome Release 64-3-1
+ARS1102,ARS1102,SGDID:S000130137,ARS,CHR_11,7528,8309,"""Putative replication origin; identified in multiple array studies ; not yet confirmed by plasmid-based assay""",Genome Release 64-3-1
+ARS1103,ARS1103,SGDID:S000118401,ARS,CHR_11,55671,55917,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+YKLWdelta1,YKLWdelta1,SGDID:S000007055,long_terminal_repeat,CHR_11,74236,74518,"""Ty1 LTR""",Genome Release 64-3-1
+YKLCdelta2,YKLCdelta2,SGDID:S000007050,reverse complement,CHR_11,83808,84115,"""Ty1 LTR""",Genome Release 64-3-1
+ARS1104,ARS1104,SGDID:S000130138,ARS,CHR_11,88789,89287,"""Putative replication origin; identified in multiple array studies ; not yet confirmed by plasmid-based assay""",Genome Release 64-3-1
+ARS1125,ARS1125,SGDID:S000119035,ARS,CHR_11,98364,98523,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+ARS1106,ARS1106,SGDID:S000118402,ARS,CHR_11,153020,153135,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+YKLWdelta3,YKLWdelta3,SGDID:S000007056,long_terminal_repeat,CHR_11,162831,163169,"""Ty1 LTR""",Genome Release 64-3-1
+ARS1126,ARS1126,SGDID:S000119036,ARS,CHR_11,196042,196287,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+YKLCsigma1,YKLCsigma1,SGDID:S000007054,reverse complement,CHR_11,202644,202983,"""Ty3 LTR""",Genome Release 64-3-1
+ARS1127,ARS1127,SGDID:S000119037,ARS,CHR_11,213439,213743,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+YKLCdelta4,YKLCdelta4,SGDID:S000007051,reverse complement,CHR_11,219395,219723,"""Ty1 LTR""",Genome Release 64-3-1
+YKLCdelta5,YKLCdelta5,SGDID:S000007052,reverse complement,CHR_11,302334,302625,"""Ty1 LTR""",Genome Release 64-3-1
+YKLCdelta6,YKLCdelta6,SGDID:S000007053,reverse complement,CHR_11,313602,313919,"""Ty1 LTR""",Genome Release 64-3-1
+YKLWdelta7,YKLWdelta7,SGDID:S000007057,long_terminal_repeat,CHR_11,314193,314524,"""Ty1 LTR""",Genome Release 64-3-1
+ARS1109,ARS1109,SGDID:S000118403,ARS,CHR_11,329682,329930,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+ARS1112,ARS1112,SGDID:S000118404,ARS,CHR_11,388970,389264,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+ARS1113,ARS1113,SGDID:S000118405,ARS,CHR_11,417185,417417,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+CEN11,CEN11,SGDID:S000006472,reverse complement,CHR_11,440129,440246,"""Chromosome XI centromere""",Genome Release 64-3-1
+ARS1114,ARS1114,SGDID:S000118406,ARS,CHR_11,448020,448254,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+YKRCdelta8,YKRCdelta8,SGDID:S000007058,reverse complement,CHR_11,458140,458471,"""Ty1 LTR""",Genome Release 64-3-1
+ARS1115,ARS1115,SGDID:S000130139,ARS,CHR_11,462699,463742,"""Putative replication origin; identified in multiple array studies ; not yet confirmed by plasmid-based assay""",Genome Release 64-3-1
+YKRCdelta9,YKRCdelta9,SGDID:S000007059,reverse complement,CHR_11,490286,490416,"""Ty1 LTR""",Genome Release 64-3-1
+YKRWdelta10,YKRWdelta10,SGDID:S000007062,long_terminal_repeat,CHR_11,490464,490787,"""Ty1 LTR""",Genome Release 64-3-1
+YKRCdelta11,YKRCdelta11,SGDID:S000007060,reverse complement,CHR_11,513532,513846,"""Ty1 LTR""",Genome Release 64-3-1
+ARS1116,ARS1116,SGDID:S000118407,ARS,CHR_11,517017,517265,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+YKRCdelta12,YKRCdelta12,SGDID:S000007061,reverse complement,CHR_11,517453,517784,"""Ty1 LTR""",Genome Release 64-3-1
+ARS1118,ARS1118,SGDID:S000118408,ARS,CHR_11,581833,582070,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+ARS1120,ARS1120,SGDID:S000118409,ARS,CHR_11,612378,612463,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+ARS1123,ARS1123,SGDID:S000118410,ARS,CHR_11,642727,642973,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+YKRWomega1,YKRWomega1,SGDID:S000007063,long_terminal_repeat,CHR_11,665430,665668,"""Ty5 LTR""",Genome Release 64-3-1
+TEL11R,TEL11R,SGDID:S000028978,telomere,CHR_11,665904,666816,"""Telomeric region on the right arm of Chromosome XI; composed of an X element core sequence ; X element combinatorial repeats ; and a terminal stretch of telomeric repeats""",Genome Release 64-3-1
+TEL12L,TEL12L,SGDID:S000028910,reverse complement,CHR_12,1,12085,"""Telomeric region on the left arm of Chromosome XII; composed of an X element core sequence ; X element combinatorial repeats ; and three distinct regions of telomeric repeats separated by two short Y' elements""",Genome Release 64-3-1
+ARS1202,ARS1202,SGDID:S000130180,ARS,CHR_12,30209,31384,"""Putative replication origin; identified in multiple array studies ; not yet confirmed by plasmid-based assay""",Genome Release 64-3-1
+ARS1206,ARS1206,SGDID:S000118469,ARS,CHR_12,91419,91660,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+YLLCdelta1,YLLCdelta1,SGDID:S000007064,reverse complement,CHR_12,92050,92381,"""Ty1 LTR""",Genome Release 64-3-1
+ARS1207,ARS1207,SGDID:S000130181,ARS,CHR_12,138185,139164,"""Putative replication origin; identified in multiple array studies ; not yet confirmed by plasmid-based assay""",Genome Release 64-3-1
+CEN12,CEN12,SGDID:S000006473,reverse complement,CHR_12,150828,150947,"""Chromosome XII centromere""",Genome Release 64-3-1
+ARS1208,ARS1208,SGDID:S000114848,ARS,CHR_12,150947,151389,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+ARS1209,ARS1209,SGDID:S000118470,ARS,CHR_12,156648,156884,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+YLRCsigma1,YLRCsigma1,SGDID:S000007079,reverse complement,CHR_12,168043,168380,"""Ty3 LTR""",Genome Release 64-3-1
+YLRCdelta2,YLRCdelta2,SGDID:S000007065,reverse complement,CHR_12,215080,215417,"""Ty1 LTR""",Genome Release 64-3-1
+YLRCdelta3,YLRCdelta3,SGDID:S000007066,reverse complement,CHR_12,220668,221005,"""Ty1 LTR""",Genome Release 64-3-1
+YLRWdelta4,YLRWdelta4,SGDID:S000007083,long_terminal_repeat,CHR_12,221006,221266,"""Ty1 LTR""",Genome Release 64-3-1
+ARS1210,ARS1210,SGDID:S000178132,ARS,CHR_12,222220,222676,"""Autonomously replicating sequence""",Genome Release 64-3-1
+ARS1211,ARS1211,SGDID:S000118471,ARS,CHR_12,231179,231421,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+ARS1212,ARS1212,SGDID:S000118472,ARS,CHR_12,289315,289444,"""Late-firing chromosomal replication origin""",Genome Release 64-3-1
+ARS1212.5,ARS1212.5,SGDID:S000178135,ARS,CHR_12,343577,344032,"""Strong autonomously replicating sequence""",Genome Release 64-3-1
+YLRCdelta5,YLRCdelta5,SGDID:S000007067,reverse complement,CHR_12,365810,366144,"""Ty1 LTR""",Genome Release 64-3-1
+ARS1213,ARS1213,SGDID:S000118473,ARS,CHR_12,373254,373332,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+YLRWsigma2,YLRWsigma2,SGDID:S000007095,long_terminal_repeat,CHR_12,373999,374338,"""Ty3 LTR""",Genome Release 64-3-1
+ARS1214,ARS1214,SGDID:S000130182,ARS,CHR_12,384534,384725,"""Putative replication origin; identified in multiple array studies ; not yet confirmed by plasmid-based assay""",Genome Release 64-3-1
+ARS1215,ARS1215,SGDID:S000118474,ARS,CHR_12,412686,412893,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+YLRWdelta6,YLRWdelta6,SGDID:S000007084,long_terminal_repeat,CHR_12,448842,449028,"""Ty1 LTR""",Genome Release 64-3-1
+ARS1216,ARS1216,SGDID:S000118475,ARS,CHR_12,450485,450725,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+NTS2-1,NTS2-1,SGDID:S000029329,reverse complement,CHR_12,458433,459675,"""Nontranscribed region of the rDNA repeat; located between RND5 and the 5'ETS; contains RNA polymerase I termination site""",Genome Release 64-3-1
+ARS1200-1,ARS1200-1,SGDID:S000120636,ARS,CHR_12,458991,459097,"""Chromosomal origin of bidirectional DNA replication; an rDNA ARS is presumed to be present in each tandem rDNA repeat ; but fewer than one-third of the rDNA ARSs are actually used as replication origins in a given S phase""",Genome Release 64-3-1
+NTS1-2,NTS1-2,SGDID:S000029714,reverse complement,CHR_12,459797,460711,"""Non-transcribed region of the rDNA repeat between the 3' ETS and RDN5; required for rDNA repeat expansion""",Genome Release 64-3-1
+NTS2-2,NTS2-2,SGDID:S000029706,reverse complement,CHR_12,467570,468812,"""Non-transcribed region of the rDNA repeat; located between RDN5 and the 5' ETS""",Genome Release 64-3-1
+ARS1200-2,ARS1200-2,SGDID:S000120655,ARS,CHR_12,468128,468234,"""Chromosomal origin of bidirectional DNA replication; an rDNA ARS is presumed to be present in each tandem rDNA repeat ; but fewer than one-third of the rDNA ARSs are actually used as replication origins in a given S phase""",Genome Release 64-3-1
+YLRCdelta7,YLRCdelta7,SGDID:S000007068,reverse complement,CHR_12,475976,476310,"""Ty1 LTR""",Genome Release 64-3-1
+YLRCTy1-1,YLRCTy1-1,SGDID:S000007081,reverse complement,CHR_12,475976,481897,"""Ty1 element ; LTR retrotransposon of the Copia (Pseudoviridae) group; contains co-transcribed genes TYA Gag and TYB Pol ; encoding proteins involved in structure and function of virus-like particles ; flanked by two direct repeats""",Genome Release 64-3-1
+YLRCdelta8,YLRCdelta8,SGDID:S000007069,reverse complement,CHR_12,481563,481897,"""Ty1 LTR""",Genome Release 64-3-1
+ARS1217,ARS1217,SGDID:S000118476,ARS,CHR_12,512867,513115,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+YLRCdelta9,YLRCdelta9,SGDID:S000007070,reverse complement,CHR_12,592706,593035,"""Ty1 LTR""",Genome Release 64-3-1
+YLRWdelta10,YLRWdelta10,SGDID:S000007085,long_terminal_repeat,CHR_12,593145,593478,"""Ty1 LTR""",Genome Release 64-3-1
+YLRWTy1-2,YLRWTy1-2,SGDID:S000007098,LTR_retrotransposon,CHR_12,593145,599062,"""Ty1 element ; LTR retrotransposon of the Copia (Pseudoviridae) group; contains co-transcribed genes TYA Gag and TYB Pol ; encoding proteins involved in structure and function of virus-like particles ; flanked by two direct repeats""",Genome Release 64-3-1
+YLRWdelta11,YLRWdelta11,SGDID:S000007086,long_terminal_repeat,CHR_12,598729,599062,"""Ty1 LTR""",Genome Release 64-3-1
+YLRWdelta12,YLRWdelta12,SGDID:S000007087,long_terminal_repeat,CHR_12,599268,599544,"""Ty1 LTR""",Genome Release 64-3-1
+YLRCtau1,YLRCtau1,SGDID:S000007080,reverse complement,CHR_12,599570,599844,"""Ty4 LTR""",Genome Release 64-3-1
+ARS1218,ARS1218,SGDID:S000118477,ARS,CHR_12,603024,603132,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+ARS1219,ARS1219,SGDID:S000130183,ARS,CHR_12,623198,623861,"""Replication origin; identified in multiple array studies ; confirmed by plasmid-based recombinational ARS assay""",Genome Release 64-3-1
+YLRWdelta13,YLRWdelta13,SGDID:S000007088,long_terminal_repeat,CHR_12,650824,651157,"""Ty1 LTR""",Genome Release 64-3-1
+YLRWTy1-3,YLRWTy1-3,SGDID:S000007099,LTR_retrotransposon,CHR_12,650824,656743,"""Ty1 element ; LTR retrotransposon of the Copia (Pseudoviridae) group; contains co-transcribed genes TYA Gag and TYB Pol ; encoding proteins involved in structure and function of virus-like particles ; flanked by two direct repeats""",Genome Release 64-3-1
+YLRWdelta14,YLRWdelta14,SGDID:S000007089,long_terminal_repeat,CHR_12,656410,656743,"""Ty1 LTR""",Genome Release 64-3-1
+YLRWsigma3,YLRWsigma3,SGDID:S000007096,long_terminal_repeat,CHR_12,657022,657365,"""Ty3 LTR""",Genome Release 64-3-1
+YLRWdelta15,YLRWdelta15,SGDID:S000007090,long_terminal_repeat,CHR_12,657449,657767,"""Ty1 LTR""",Genome Release 64-3-1
+ARS1220,ARS1220,SGDID:S000118478,ARS,CHR_12,659884,659935,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+YLRCdelta16,YLRCdelta16,SGDID:S000007071,reverse complement,CHR_12,688119,688368,"""Ty1 LTR""",Genome Release 64-3-1
+YLRWdelta17,YLRWdelta17,SGDID:S000007091,long_terminal_repeat,CHR_12,688369,688664,"""Ty1 LTR""",Genome Release 64-3-1
+ARS1221,ARS1221,SGDID:S000130184,ARS,CHR_12,720784,721418,"""Putative replication origin; identified in multiple array studies ; not yet confirmed by plasmid-based assay""",Genome Release 64-3-1
+YLRCdelta18,YLRCdelta18,SGDID:S000007072,reverse complement,CHR_12,731668,732000,"""Ty2 LTR""",Genome Release 64-3-1
+YLRCdelta19,YLRCdelta19,SGDID:S000007073,reverse complement,CHR_12,734501,734671,"""Ty1 LTR""",Genome Release 64-3-1
+ARS1223,ARS1223,SGDID:S000118479,ARS,CHR_12,744943,745179,"""Autonomously Replicating Sequence; replication capacity dependent upon Sum1p""",Genome Release 64-3-1
+YLRWsigma4,YLRWsigma4,SGDID:S000007097,long_terminal_repeat,CHR_12,793552,793870,"""Ty3 LTR""",Genome Release 64-3-1
+ARS1226,ARS1226,SGDID:S000118480,ARS,CHR_12,794100,794231,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+YLRWdelta20,YLRWdelta20,SGDID:S000007092,long_terminal_repeat,CHR_12,796899,797088,"""Ty1 LTR""",Genome Release 64-3-1
+YLRCdelta21,YLRCdelta21,SGDID:S000007074,reverse complement,CHR_12,818073,818403,"""Ty1 LTR""",Genome Release 64-3-1
+ARS1238,ARS1238,SGDID:S000118987,ARS,CHR_12,888570,888810,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+ARS1228,ARS1228,SGDID:S000130185,ARS,CHR_12,919800,920994,"""Putative replication origin; identified in multiple array studies ; not yet confirmed by plasmid-based assay""",Genome Release 64-3-1
+ARS1230,ARS1230,SGDID:S000130186,ARS,CHR_12,930891,931064,"""Putative replication origin; identified in multiple array studies ; not yet confirmed by plasmid-based assay""",Genome Release 64-3-1
+YLRWdelta22,YLRWdelta22,SGDID:S000007093,long_terminal_repeat,CHR_12,941192,941523,"""Ty2 LTR""",Genome Release 64-3-1
+YLRWTy2-1,YLRWTy2-1,SGDID:S000007100,LTR_retrotransposon,CHR_12,941192,947150,"""Ty2 element ; LTR retrotransposon of the Copia (Pseudoviridae) group; contains co-transcribed genes TYA Gag and TYB Pol ; encoding proteins involved in structure and function of virus-like particles ; flanked by two direct repeats""",Genome Release 64-3-1
+YLRWdelta23,YLRWdelta23,SGDID:S000007094,long_terminal_repeat,CHR_12,946819,947150,"""Ty2 LTR""",Genome Release 64-3-1
+YLRWdelta24,YLRWdelta24,SGDID:S000007075,long_terminal_repeat,CHR_12,963230,963545,"""Ty1 LTR""",Genome Release 64-3-1
+YLRCdelta25,YLRCdelta25,SGDID:S000007076,reverse complement,CHR_12,976258,976589,"""Ty2 LTR""",Genome Release 64-3-1
+YLRCTy2-2,YLRCTy2-2,SGDID:S000007082,reverse complement,CHR_12,976258,981700,"""Ty2 element ; LTR retrotransposon of the Copia (Pseudoviridae) group; contains genes TYA Gag and TYB Pol ; encoding proteins involved in structure and function of virus-like particles ; flanked by two direct repeats; mutated in S288C""",Genome Release 64-3-1
+YLRCdelta26,YLRCdelta26,SGDID:S000007077,reverse complement,CHR_12,981369,981700,"""Ty2 LTR""",Genome Release 64-3-1
+ARS1232,ARS1232,SGDID:S000118481,ARS,CHR_12,1007186,1007475,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+ARS1233,ARS1233,SGDID:S000118482,ARS,CHR_12,1013795,1014022,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+ARS1234,ARS1234,SGDID:S000118483,ARS,CHR_12,1024026,1024186,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+YLRCdelta27,YLRCdelta27,SGDID:S000007078,reverse complement,CHR_12,1052303,1052632,"""Ty1 LTR""",Genome Release 64-3-1
+ARS1235,ARS1235,SGDID:S000178146,ARS,CHR_12,1059439,1059923,"""Autonomously replicating sequence""",Genome Release 64-3-1
+TEL12R,TEL12R,SGDID:S000028982,telomere,CHR_12,1064281,1078177,"""Telomeric region on the right arm of Chromosome XII; composed of an X element core sequence ; X element combinatorial repeats ; two distinct regions of telomeric repeats ; and two long Y' elements""",Genome Release 64-3-1
+TEL13L,TEL13L,SGDID:S000028918,reverse complement,CHR_13,1,6344,"""Telomeric region on the left arm of Chromosome XIII; composed of an X element core sequence ; X element combinatorial repeats ; a short region of telomeric repeats ; a short Y' element ; and a short terminal region of telomeric repeats""",Genome Release 64-3-1
+ARS1303,ARS1303,SGDID:S000118365,ARS,CHR_13,31766,31835,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+ARS1304,ARS1304,SGDID:S000130187,ARS,CHR_13,39824,40187,"""Putative replication origin; identified in multiple array studies ; not yet confirmed by plasmid-based assay""",Genome Release 64-3-1
+ARS1305,ARS1305,SGDID:S000118366,ARS,CHR_13,94217,94463,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+YMLCdelta1,YMLCdelta1,SGDID:S000007101,reverse complement,CHR_13,131989,132321,"""Ty1 LTR""",Genome Release 64-3-1
+ARS1307,ARS1307,SGDID:S000118367,ARS,CHR_13,137300,137548,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+ARS1307.5,ARS1307.5,SGDID:S000178152,ARS,CHR_13,158887,159277,"""Autonomously replicating sequence""",Genome Release 64-3-1
+YMLCdelta2,YMLCdelta2,SGDID:S000007102,reverse complement,CHR_13,168349,168681,"""Ty2 LTR""",Genome Release 64-3-1
+ARS1308,ARS1308,SGDID:S000118368,ARS,CHR_13,183797,183887,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+YMLWdelta3,YMLWdelta3,SGDID:S000007103,long_terminal_repeat,CHR_13,184170,184501,"""Ty1 LTR""",Genome Release 64-3-1
+YMLWTy1-1,YMLWTy1-1,SGDID:S000007107,LTR_retrotransposon,CHR_13,184170,190083,"""Ty1 element ; LTR retrotransposon of the Copia (Pseudoviridae) group; contains co-transcribed genes TYA Gag and TYB Pol ; encoding proteins involved in structure and function of virus-like particles ; flanked by two direct repeats""",Genome Release 64-3-1
+YMLWdelta4,YMLWdelta4,SGDID:S000007104,long_terminal_repeat,CHR_13,189752,190083,"""Ty1 LTR""",Genome Release 64-3-1
+YMLWdelta5,YMLWdelta5,SGDID:S000007105,long_terminal_repeat,CHR_13,196332,196668,"""Ty1 LTR""",Genome Release 64-3-1
+YMLWTy1-2,YMLWTy1-2,SGDID:S000007108,LTR_retrotransposon,CHR_13,196332,202234,"""Ty1 element ; LTR retrotransposon of the Copia (Pseudoviridae) group; contains co-transcribed genes TYA Gag and TYB Pol ; encoding proteins involved in structure and function of virus-like particles ; flanked by two direct repeats""",Genome Release 64-3-1
+YMLWdelta6,YMLWdelta6,SGDID:S000007106,long_terminal_repeat,CHR_13,201919,202234,"""Ty1 LTR""",Genome Release 64-3-1
+ARS1309,ARS1309,SGDID:S000118369,ARS,CHR_13,263063,263296,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+CEN13,CEN13,SGDID:S000006474,centromere,CHR_13,268031,268149,"""Chromosome XIII centromere""",Genome Release 64-3-1
+ARS1310,ARS1310,SGDID:S000118370,ARS,CHR_13,286835,286951,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+YMRCtau1,YMRCtau1,SGDID:S000007117,reverse complement,CHR_13,290049,290224,"""Ty4 LTR""",Genome Release 64-3-1
+YMRCdelta7,YMRCdelta7,SGDID:S000007109,reverse complement,CHR_13,357005,357336,"""Ty1 LTR""",Genome Release 64-3-1
+YMRCTy1-3,YMRCTy1-3,SGDID:S000007119,reverse complement,CHR_13,357005,362918,"""Ty1 element ; LTR retrotransposon of the Copia (Pseudoviridae) group; contains co-transcribed genes TYA Gag and TYB Pol ; encoding proteins involved in structure and function of virus-like particles ; flanked by two direct repeats""",Genome Release 64-3-1
+YMRCdelta8,YMRCdelta8,SGDID:S000007110,reverse complement,CHR_13,362587,362918,"""Ty1 LTR""",Genome Release 64-3-1
+ARS1312,ARS1312,SGDID:S000118371,ARS,CHR_13,371001,371105,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+YMRCdelta9,YMRCdelta9,SGDID:S000007111,reverse complement,CHR_13,372697,373034,"""Ty1 LTR""",Genome Release 64-3-1
+YMRCTy1-4,YMRCTy1-4,SGDID:S000007120,reverse complement,CHR_13,372697,378622,"""Ty1 element ; LTR retrotransposon of the Copia (Pseudoviridae) group; contains co-transcribed genes TYA Gag and TYB Pol ; encoding proteins involved in structure and function of virus-like particles ; flanked by two direct repeats""",Genome Release 64-3-1
+YMRCdelta10,YMRCdelta10,SGDID:S000007112,reverse complement,CHR_13,378285,378622,"""Ty1 LTR""",Genome Release 64-3-1
+YMRCdelta11,YMRCdelta11,SGDID:S000007113,reverse complement,CHR_13,378727,379061,"""Ty1 LTR""",Genome Release 64-3-1
+YMRWdelta12,YMRWdelta12,SGDID:S000007121,long_terminal_repeat,CHR_13,379072,379198,"""Ty1 LTR""",Genome Release 64-3-1
+YMRCdelta13,YMRCdelta13,SGDID:S000007114,reverse complement,CHR_13,463128,463461,"""Ty1 LTR""",Genome Release 64-3-1
+ARS1316,ARS1316,SGDID:S000118372,ARS,CHR_13,468179,468469,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+ARS1317,ARS1317,SGDID:S000130188,ARS,CHR_13,477606,478301,"""Putative replication origin; identified in multiple array studies ; not yet confirmed by plasmid-based assay""",Genome Release 64-3-1
+YMRCdelta14,YMRCdelta14,SGDID:S000007115,reverse complement,CHR_13,481214,481547,"""Ty1 LTR""",Genome Release 64-3-1
+YMRWdelta15,YMRWdelta15,SGDID:S000007122,long_terminal_repeat,CHR_13,481571,481808,"""Ty1 LTR""",Genome Release 64-3-1
+YMRWdelta16,YMRWdelta16,SGDID:S000007123,long_terminal_repeat,CHR_13,503192,503389,"""Ty1 LTR""",Genome Release 64-3-1
+ARS1319,ARS1319,SGDID:S000130189,ARS,CHR_13,503389,503771,"""Putative replication origin; identified in multiple array studies ; not yet confirmed by plasmid-based assay""",Genome Release 64-3-1
+YMRWtau2,YMRWtau2,SGDID:S000007128,long_terminal_repeat,CHR_13,503771,504141,"""Ty4 LTR""",Genome Release 64-3-1
+YMRWdelta17,YMRWdelta17,SGDID:S000007124,long_terminal_repeat,CHR_13,504346,504677,"""Ty1 LTR""",Genome Release 64-3-1
+ARS1320,ARS1320,SGDID:S000118373,ARS,CHR_13,535597,535844,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+ARS1321,ARS1321,SGDID:S000130190,ARS,CHR_13,542881,542978,"""Putative replication origin; identified in multiple array studies ; not yet confirmed by plasmid-based assay""",Genome Release 64-3-1
+ARS1322,ARS1322,SGDID:S000130191,ARS,CHR_13,553422,554331,"""Putative replication origin; identified in multiple array studies ; not yet confirmed by plasmid-based assay""",Genome Release 64-3-1
+YMRCdelta18,YMRCdelta18,SGDID:S000007116,reverse complement,CHR_13,573112,573338,"""Ty1 LTR""",Genome Release 64-3-1
+ARS1323,ARS1323,SGDID:S000118374,ARS,CHR_13,611275,611489,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+ARS1324,ARS1324,SGDID:S000118375,ARS,CHR_13,634501,634588,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+ARS1325,ARS1325,SGDID:S000118376,ARS,CHR_13,649309,649552,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+ETC5,ETC5,SGDID:S000178149,matrix_attachment_site,CHR_13,667324,667346,"""Chromosome-organizing-clamp; tethers chromosomal regions to the nuclear periphery; binds TFIIIC transcription factor but does not recruit RNA Polymerase III; can act as a transcription-blocking insulator or as a heterochromatin barrier element; located within ncRNA RNA170 which lies between divergently transcribed genes RAD14 and ERG2""",Genome Release 64-3-1
+ARS1327,ARS1327,SGDID:S000118377,ARS,CHR_13,758224,758471,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+YMRWdelta19,YMRWdelta19,SGDID:S000007125,long_terminal_repeat,CHR_13,768548,768879,"""Ty2 LTR""",Genome Release 64-3-1
+ARS1328,ARS1328,SGDID:S000118378,ARS,CHR_13,772631,772879,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+ARS1329,ARS1329,SGDID:S000118379,ARS,CHR_13,805152,805282,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+YMRCtau3,YMRCtau3,SGDID:S000007118,reverse complement,CHR_13,808537,808906,"""Ty4 LTR""",Genome Release 64-3-1
+YMRWdelta20,YMRWdelta20,SGDID:S000007126,long_terminal_repeat,CHR_13,809000,809233,"""Ty1 LTR""",Genome Release 64-3-1
+ARS1330,ARS1330,SGDID:S000118380,ARS,CHR_13,815342,815567,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+YMRWdelta21,YMRWdelta21,SGDID:S000007127,long_terminal_repeat,CHR_13,837450,837764,"""Ty1 LTR""",Genome Release 64-3-1
+ARS1331,ARS1331,SGDID:S000130192,ARS,CHR_13,837764,837928,"""Putative replication origin; identified in multiple array studies ; not yet confirmed by plasmid-based assay""",Genome Release 64-3-1
+ARS1332,ARS1332,SGDID:S000118381,ARS,CHR_13,897935,897985,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+ARS1333,ARS1333,SGDID:S000130193,ARS,CHR_13,917896,918366,"""Putative replication origin; identified in multiple array studies ; not yet confirmed by plasmid-based assay""",Genome Release 64-3-1
+ARS1335,ARS1335,SGDID:S000130194,ARS,CHR_13,923015,923494,"""Putative replication origin; identified in multiple array studies ; not yet confirmed by plasmid-based assay""",Genome Release 64-3-1
+TEL13R,TEL13R,SGDID:S000028989,telomere,CHR_13,923541,924431,"""Telomeric region on the right arm of Chromosome XIII; composed of an X element core sequence ; X element combinatorial repeats ; and a terminal stretch of telomeric repeats""",Genome Release 64-3-1
+TEL14L,TEL14L,SGDID:S000028924,reverse complement,CHR_14,1,7428,"""Telomeric region on the left arm of Chromosome XIV; composed of an X element core sequence ; X element combinatorial repeats ; a short stretch of telomeric repeats ; and a long Y' element""",Genome Release 64-3-1
+ARS1405,ARS1405,SGDID:S000118382,ARS,CHR_14,28469,28700,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+ARS1406,ARS1406,SGDID:S000118383,ARS,CHR_14,61599,61895,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+ARS1407,ARS1407,SGDID:S000118384,ARS,CHR_14,89531,89804,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+ARS1409,ARS1409,SGDID:S000130140,ARS,CHR_14,96247,96463,"""Putative replication origin; identified in multiple array studies ; not yet confirmed by plasmid-based assay""",Genome Release 64-3-1
+YNLWtau1,YNLWtau1,SGDID:S000007140,long_terminal_repeat,CHR_14,96451,96609,"""Ty4 LTR""",Genome Release 64-3-1
+YNLCdelta1,YNLCdelta1,SGDID:S000007129,reverse complement,CHR_14,96610,96941,"""Ty1 LTR""",Genome Release 64-3-1
+YNLCTy1-1,YNLCTy1-1,SGDID:S000007134,reverse complement,CHR_14,96610,102523,"""Ty1 element ; LTR retrotransposon of the Copia (Pseudoviridae) group; contains co-transcribed genes TYA Gag and TYB Pol ; encoding proteins involved in structure and function of virus-like particles ; flanked by two direct repeats""",Genome Release 64-3-1
+YNLCdelta2,YNLCdelta2,SGDID:S000007130,reverse complement,CHR_14,102192,102523,"""Ty1 LTR""",Genome Release 64-3-1
+YNLCsigma1,YNLCsigma1,SGDID:S000007133,reverse complement,CHR_14,102632,102700,"""Ty3 LTR""",Genome Release 64-3-1
+ARS1410,ARS1410,SGDID:S000130141,ARS,CHR_14,126599,126805,"""Replication origin; identified in multiple array studies ; confirmed by plasmid-based recombinational ARS assay""",Genome Release 64-3-1
+ARS1411,ARS1411,SGDID:S000077373,ARS,CHR_14,169675,169753,"""ARS activated in late S phase""",Genome Release 64-3-1
+ARS1412,ARS1412,SGDID:S000077374,ARS,CHR_14,196134,196232,"""ARS activated in late S phase""",Genome Release 64-3-1
+ARS1413,ARS1413,SGDID:S000077375,ARS,CHR_14,250315,250931,"""Strong origin of replication activated in late S phase""",Genome Release 64-3-1
+ARS1414,ARS1414,SGDID:S000077376,ARS,CHR_14,279982,280071,"""ARS activated in mid-S phase""",Genome Release 64-3-1
+ARS1415,ARS1415,SGDID:S000118385,ARS,CHR_14,321921,322213,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+ARS1416,ARS1416,SGDID:S000130142,ARS,CHR_14,325054,325267,"""Putative replication origin; identified in multiple array studies ; not yet confirmed by plasmid-based assay""",Genome Release 64-3-1
+ARS1417,ARS1417,SGDID:S000118386,ARS,CHR_14,412267,412496,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+ARS1419,ARS1419,SGDID:S000118387,ARS,CHR_14,449429,449588,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+ARS1420,ARS1420,SGDID:S000118388,ARS,CHR_14,498970,499154,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+YNLWdelta3,YNLWdelta3,SGDID:S000007136,long_terminal_repeat,CHR_14,519163,519496,"""Ty1 LTR""",Genome Release 64-3-1
+YNLWTy1-2,YNLWTy1-2,SGDID:S000007142,LTR_retrotransposon,CHR_14,519163,525062,"""Ty1 element ; LTR retrotransposon of the Copia (Pseudoviridae) group; contains co-transcribed genes TYA Gag and TYB Pol ; encoding proteins involved in structure and function of virus-like particles ; flanked by two direct repeats""",Genome Release 64-3-1
+YNLWdelta4,YNLWdelta4,SGDID:S000007137,long_terminal_repeat,CHR_14,524729,525062,"""Ty1 LTR""",Genome Release 64-3-1
+ARS1421,ARS1421,SGDID:S000118389,ARS,CHR_14,546072,546170,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+YNLWsigma2,YNLWsigma2,SGDID:S000007138,long_terminal_repeat,CHR_14,546423,546714,"""Ty3 LTR""",Genome Release 64-3-1
+YNLWsigma3,YNLWsigma3,SGDID:S000007139,long_terminal_repeat,CHR_14,546738,547077,"""Ty3 LTR""",Genome Release 64-3-1
+ARS1422,ARS1422,SGDID:S000118390,ARS,CHR_14,561111,561388,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+YNLWtau2,YNLWtau2,SGDID:S000007141,long_terminal_repeat,CHR_14,561607,561977,"""Ty4 LTR""",Genome Release 64-3-1
+YNLCdelta5,YNLCdelta5,SGDID:S000007131,reverse complement,CHR_14,562033,562364,"""Ty2 LTR""",Genome Release 64-3-1
+YNLCTy2-1,YNLCTy2-1,SGDID:S000007135,reverse complement,CHR_14,562364,567660,"""Ty2 element ; LTR retrotransposon of the Copia (Pseudoviridae) group; contains genes TYA Gag and TYB Pol ; encoding proteins involved in structure and function of virus-like particles ; flanked by two direct repeats; mutated in S288C""",Genome Release 64-3-1
+YNLCdelta6,YNLCdelta6,SGDID:S000007132,reverse complement,CHR_14,567660,567992,"""Ty2 LTR""",Genome Release 64-3-1
+ARS1423,ARS1423,SGDID:S000130143,ARS,CHR_14,568219,568524,"""Putative replication origin; identified in multiple array studies ; not yet confirmed by plasmid-based assay""",Genome Release 64-3-1
+ARS1424,ARS1424,SGDID:S000118391,ARS,CHR_14,609520,609607,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+ARS1425,ARS1425,SGDID:S000130144,ARS,CHR_14,616311,617125,"""Putative replication origin; identified in multiple array studies ; not yet confirmed by plasmid-based assay""",Genome Release 64-3-1
+CEN14,CEN14,SGDID:S000006475,centromere,CHR_14,628758,628875,"""Chromosome XIV centromere""",Genome Release 64-3-1
+YNRCdelta7,YNRCdelta7,SGDID:S000007143,reverse complement,CHR_14,631998,632114,"""Ty1 LTR""",Genome Release 64-3-1
+YNRCtau3,YNRCtau3,SGDID:S000007146,reverse complement,CHR_14,632119,632489,"""Ty4 LTR""",Genome Release 64-3-1
+ARS1426,ARS1426,SGDID:S000118392,ARS,CHR_14,635664,635904,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+ARS1427,ARS1427,SGDID:S000118393,ARS,CHR_14,691486,691730,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+YNRWsigma4,YNRWsigma4,SGDID:S000007147,long_terminal_repeat,CHR_14,726234,726574,"""Ty3 LTR""",Genome Release 64-3-1
+YNRCdelta8,YNRCdelta8,SGDID:S000007144,reverse complement,CHR_14,726614,726945,"""Ty1 LTR""",Genome Release 64-3-1
+YNRCdelta9,YNRCdelta9,SGDID:S000007145,reverse complement,CHR_14,727363,727661,"""Ty1 LTR""",Genome Release 64-3-1
+TEL14R,TEL14R,SGDID:S000028993,telomere,CHR_14,783278,784333,"""Telomeric region on the right arm of Chromosome XIV; composed of an X element core sequence ; X element combinatorial repeats ; and a terminal stretch of telomeric repeats""",Genome Release 64-3-1
+TEL15L,TEL15L,SGDID:S000028929,reverse complement,CHR_15,1,847,"""Telomeric region on the left arm of Chromosome XV; composed of an X element core sequence ; X element combinatorial repeats ; and a terminal stretch of telomeric repeats""",Genome Release 64-3-1
+YOLCdelta1,YOLCdelta1,SGDID:S000007148,reverse complement,CHR_15,2894,3223,"""Ty1 LTR""",Genome Release 64-3-1
+YOLWtau1,YOLWtau1,SGDID:S000007160,long_terminal_repeat,CHR_15,3809,3986,"""Ty4 LTR""",Genome Release 64-3-1
+YOLCdelta2,YOLCdelta2,SGDID:S000007149,reverse complement,CHR_15,18302,18561,"""Ty1 LTR""",Genome Release 64-3-1
+ARS1531,ARS1531,SGDID:S000118995,ARS,CHR_15,35669,35904,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+ETC2,ETC2,SGDID:S000077073,matrix_attachment_site,CHR_15,58541,58563,"""Chromosome-organizing-clamp; tethers chromosomal regions to the nuclear periphery; binds TFIIIC transcription factor but does not recruit RNA Polymerase III; can act as a transcription-blocking insulator or as a heterochromatin barrier element; remains predominantly localized to the nuclear periphery throughout cell cycle; located between PPM2 and ARG8""",Genome Release 64-3-1
+ARS1507,ARS1507,SGDID:S000118484,ARS,CHR_15,72683,72753,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+ARS1508,ARS1508,SGDID:S000118485,ARS,CHR_15,85270,85361,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+YOLCdelta3,YOLCdelta3,SGDID:S000007150,reverse complement,CHR_15,113294,113626,"""Ty1 LTR""",Genome Release 64-3-1
+ARS1509,ARS1509,SGDID:S000118486,ARS,CHR_15,113885,113983,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+YOLWdelta4,YOLWdelta4,SGDID:S000007154,long_terminal_repeat,CHR_15,117703,118040,"""Ty1 LTR""",Genome Release 64-3-1
+YOLWTy1-1,YOLWTy1-1,SGDID:S000007161,LTR_retrotransposon,CHR_15,117703,123628,"""Ty1 element ; LTR retrotransposon of the Copia (Pseudoviridae) group; contains co-transcribed genes TYA Gag and TYB Pol ; encoding proteins involved in structure and function of virus-like particles ; flanked by two direct repeats""",Genome Release 64-3-1
+YOLWdelta5,YOLWdelta5,SGDID:S000007155,long_terminal_repeat,CHR_15,123291,123628,"""Ty1 LTR""",Genome Release 64-3-1
+ARS1510,ARS1510,SGDID:S000118487,ARS,CHR_15,166976,167221,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+YOLWsigma1,YOLWsigma1,SGDID:S000007158,long_terminal_repeat,CHR_15,226696,227037,"""Ty3 LTR""",Genome Release 64-3-1
+YOLWdelta6,YOLWdelta6,SGDID:S000007156,long_terminal_repeat,CHR_15,227096,227293,"""Ty1 LTR""",Genome Release 64-3-1
+YOLCdelta7,YOLCdelta7,SGDID:S000007151,reverse complement,CHR_15,227851,228178,"""Ty1 LTR""",Genome Release 64-3-1
+ARS1511,ARS1511,SGDID:S000118488,ARS,CHR_15,277530,277778,"""Autonomously Replicating Sequence; replication capacity dependent upon Sum1p""",Genome Release 64-3-1
+YOLCdelta8,YOLCdelta8,SGDID:S000007152,reverse complement,CHR_15,300683,301021,"""Ty1 LTR""",Genome Release 64-3-1
+ARS1512,ARS1512,SGDID:S000130135,ARS,CHR_15,309359,309925,"""Replication origin; identified in multiple array studies ; confirmed by plasmid-based recombinational ARS assay""",Genome Release 64-3-1
+CEN15,CEN15,SGDID:S000006476,reverse complement,CHR_15,326584,326702,"""Chromosome XV centromere""",Genome Release 64-3-1
+ARS1513,ARS1513,SGDID:S000118489,ARS,CHR_15,337424,337491,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+YORCdelta9,YORCdelta9,SGDID:S000007153,reverse complement,CHR_15,340598,340898,"""Ty1 LTR""",Genome Release 64-3-1
+YORWsigma2,YORWsigma2,SGDID:S000007159,long_terminal_repeat,CHR_15,354128,354466,"""Ty3 LTR""",Genome Release 64-3-1
+YORWdelta10,YORWdelta10,SGDID:S000007157,long_terminal_repeat,CHR_15,354681,354958,"""Ty1 LTR""",Genome Release 64-3-1
+YORCdelta11,YORCdelta11,SGDID:S000007162,reverse complement,CHR_15,438175,438483,"""Ty1 LTR""",Genome Release 64-3-1
+ARS1501,ARS1501,SGDID:S000007554,ARS,CHR_15,489683,489942,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+ARS1516,ARS1516,SGDID:S000114843,ARS,CHR_15,566410,566643,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+YORWdelta12,YORWdelta12,SGDID:S000007169,long_terminal_repeat,CHR_15,594512,594819,"""Ty1 LTR""",Genome Release 64-3-1
+YORWdelta13,YORWdelta13,SGDID:S000007170,long_terminal_repeat,CHR_15,594820,595151,"""Ty1 LTR""",Genome Release 64-3-1
+YORWTy1-2,YORWTy1-2,SGDID:S000007182,LTR_retrotransposon,CHR_15,594820,600733,"""Ty1 element ; LTR retrotransposon of the Copia (Pseudoviridae) group; contains co-transcribed genes TYA Gag and TYB Pol ; encoding proteins involved in structure and function of virus-like particles ; flanked by two direct repeats""",Genome Release 64-3-1
+YORWdelta14,YORWdelta14,SGDID:S000007171,long_terminal_repeat,CHR_15,600402,600733,"""Ty1 LTR""",Genome Release 64-3-1
+ARS1502,ARS1502,SGDID:S000007643,ARS,CHR_15,600886,600960,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+ARS1518,ARS1518,SGDID:S000130136,ARS,CHR_15,616670,617517,"""Putative replication origin; identified in multiple array studies ; not yet confirmed by plasmid-based assay""",Genome Release 64-3-1
+ARS1519,ARS1519,SGDID:S000118490,ARS,CHR_15,656701,656772,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+YORCdelta15,YORCdelta15,SGDID:S000007163,reverse complement,CHR_15,664003,664324,"""Ty1 LTR""",Genome Release 64-3-1
+YORWdelta16,YORWdelta16,SGDID:S000007172,long_terminal_repeat,CHR_15,664325,664469,"""Ty1 LTR""",Genome Release 64-3-1
+YORWdelta17,YORWdelta17,SGDID:S000007173,long_terminal_repeat,CHR_15,664813,665145,"""Ty2 LTR""",Genome Release 64-3-1
+YORCdelta18,YORCdelta18,SGDID:S000007164,reverse complement,CHR_15,703429,703582,"""Ty1 LTR""",Genome Release 64-3-1
+YORWdelta19,YORWdelta19,SGDID:S000007174,long_terminal_repeat,CHR_15,703612,703762,"""Ty1 LTR""",Genome Release 64-3-1
+YORWtau2,YORWtau2,SGDID:S000007180,long_terminal_repeat,CHR_15,703772,704062,"""Ty4 LTR""",Genome Release 64-3-1
+YORCdelta20,YORCdelta20,SGDID:S000007165,reverse complement,CHR_15,704063,704395,"""Ty2 LTR""",Genome Release 64-3-1
+YORCTy2-1,YORCTy2-1,SGDID:S000007168,reverse complement,CHR_15,704063,710023,"""Ty2 element ; LTR retrotransposon of the Copia (Pseudoviridae) group; contains co-transcribed genes TYA Gag and TYB Pol ; encoding proteins involved in structure and function of virus-like particles ; flanked by two direct repeats""",Genome Release 64-3-1
+YORCdelta21,YORCdelta21,SGDID:S000007166,reverse complement,CHR_15,709691,710023,"""Ty2 LTR""",Genome Release 64-3-1
+YORWtau3,YORWtau3,SGDID:S000007181,long_terminal_repeat,CHR_15,710024,710107,"""Ty4 LTR""",Genome Release 64-3-1
+ARS1521,ARS1521,SGDID:S000118491,ARS,CHR_15,729740,729969,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+ARS1523,ARS1523,SGDID:S000118492,ARS,CHR_15,766605,766788,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+ETC7,ETC7,SGDID:S000077078,matrix_attachment_site,CHR_15,768106,768128,"""Chromosome-organizing-clamp; tethers chromosomal regions to the nuclear periphery; binds TFIIIC transcription factor but does not recruit RNA Polymerase III; can act as a transcription-blocking insulator or as a heterochromatin barrier element; located between divergently transcribed genes MCP1 and WTM2""",Genome Release 64-3-1
+ARS1524,ARS1524,SGDID:S000118493,ARS,CHR_15,783345,783563,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+YORWsigma3,YORWsigma3,SGDID:S000007178,long_terminal_repeat,CHR_15,854275,854614,"""Ty3 LTR""",Genome Release 64-3-1
+ARS1526,ARS1526,SGDID:S000118494,ARS,CHR_15,874251,874412,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+ARS1528,ARS1528,SGDID:S000118495,ARS,CHR_15,908296,908544,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+YORWsigma4,YORWsigma4,SGDID:S000007179,long_terminal_repeat,CHR_15,968991,969301,"""Ty3 LTR""",Genome Release 64-3-1
+YORWdelta22,YORWdelta22,SGDID:S000007175,long_terminal_repeat,CHR_15,969293,969431,"""Ty1 LTR""",Genome Release 64-3-1
+YORWdelta23,YORWdelta23,SGDID:S000007176,long_terminal_repeat,CHR_15,970286,970617,"""Ty2 LTR""",Genome Release 64-3-1
+YORWTy2-2,YORWTy2-2,SGDID:S000007183,LTR_retrotransposon,CHR_15,970286,976244,"""Ty2 element ; LTR retrotransposon of the Copia (Pseudoviridae) group; contains co-transcribed genes TYA Gag and TYB Pol ; encoding proteins involved in structure and function of virus-like particles ; flanked by two direct repeats""",Genome Release 64-3-1
+YORWdelta24,YORWdelta24,SGDID:S000007177,long_terminal_repeat,CHR_15,975913,976244,"""Ty2 LTR""",Genome Release 64-3-1
+YORCdelta25,YORCdelta25,SGDID:S000007167,reverse complement,CHR_15,980259,980590,"""Ty1 LTR""",Genome Release 64-3-1
+ARS1529,ARS1529,SGDID:S000118496,ARS,CHR_15,981462,981697,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+TEL15R,TEL15R,SGDID:S000028997,telomere,CHR_15,1083922,1091291,"""Telomeric region on the right arm of Chromosome XV; composed of an X element core sequence ; X element combinatorial repeats ; a long Y' element ; and a very short terminal stretch of telomeric repeats""",Genome Release 64-3-1
+TEL16L,TEL16L,SGDID:S000028933,reverse complement,CHR_16,1,7223,"""Telomeric region on the left arm of Chromosome XVI; annotated components include an X element core sequence ; X element combinatorial repeats ; and a long Y' element; TEL16L does have telomeric repeats (TEL16L-TR) ; but they are missing from the genome annotation due to difficulties encountered during sequencing and/or assembly""",Genome Release 64-3-1
+ARS1603,ARS1603,SGDID:S000130195,ARS,CHR_16,18370,19069,"""Putative replication origin; identified in multiple array studies ; not yet confirmed by plasmid-based assay""",Genome Release 64-3-1
+ARS1604,ARS1604,SGDID:S000118411,ARS,CHR_16,42977,43212,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+YPLCdelta1,YPLCdelta1,SGDID:S000007184,reverse complement,CHR_16,55657,55858,"""Ty1 LTR""",Genome Release 64-3-1
+YPLWsigma1,YPLWsigma1,SGDID:S000007198,long_terminal_repeat,CHR_16,56290,56358,"""Ty3 LTR""",Genome Release 64-3-1
+YPLWdelta2,YPLWdelta2,SGDID:S000007189,long_terminal_repeat,CHR_16,56409,56451,"""Ty1 LTR""",Genome Release 64-3-1
+YPLWdelta3,YPLWdelta3,SGDID:S000007190,long_terminal_repeat,CHR_16,56452,56788,"""Ty1 LTR""",Genome Release 64-3-1
+YPLWTy1-1,YPLWTy1-1,SGDID:S000007199,LTR_retrotransposon,CHR_16,56452,62375,"""Ty1 element ; LTR retrotransposon of the Copia (Pseudoviridae) group; contains co-transcribed genes TYA Gag and TYB Pol ; encoding proteins involved in structure and function of virus-like particles ; flanked by two direct repeats""",Genome Release 64-3-1
+YPLWdelta4,YPLWdelta4,SGDID:S000007191,long_terminal_repeat,CHR_16,62039,62375,"""Ty1 LTR""",Genome Release 64-3-1
+YPLWdelta5,YPLWdelta5,SGDID:S000007192,long_terminal_repeat,CHR_16,62389,62720,"""Ty2 LTR""",Genome Release 64-3-1
+YPLWdelta6,YPLWdelta6,SGDID:S000007193,long_terminal_repeat,CHR_16,62724,63006,"""Ty1 LTR""",Genome Release 64-3-1
+ARS1605,ARS1605,SGDID:S000118412,ARS,CHR_16,73032,73227,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+ARS1607,ARS1607,SGDID:S000118413,ARS,CHR_16,116566,116680,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+ARS1608,ARS1608,SGDID:S000130196,ARS,CHR_16,162341,162632,"""Putative replication origin; identified in multiple array studies ; not yet confirmed by plasmid-based assay""",Genome Release 64-3-1
+YPLWdelta7,YPLWdelta7,SGDID:S000007194,long_terminal_repeat,CHR_16,210451,210771,"""Ty1 LTR""",Genome Release 64-3-1
+YPLWdelta8,YPLWdelta8,SGDID:S000007195,long_terminal_repeat,CHR_16,211577,211898,"""Ty2 LTR""",Genome Release 64-3-1
+ARS1611,ARS1611,SGDID:S000130197,ARS,CHR_16,220088,220167,"""Putative replication origin; identified in multiple array studies ; not yet confirmed by plasmid-based assay""",Genome Release 64-3-1
+ARS1612,ARS1612,SGDID:S000130198,ARS,CHR_16,260931,261727,"""Putative replication origin; identified in multiple array studies ; not yet confirmed by plasmid-based assay""",Genome Release 64-3-1
+ARS1614,ARS1614,SGDID:S000118414,ARS,CHR_16,289485,289705,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+ARS1617,ARS1617,SGDID:S000130199,ARS,CHR_16,331699,332100,"""Replication origin; identified in multiple array studies ; confirmed by plasmid-based recombinational ARS assay""",Genome Release 64-3-1
+ARS1618,ARS1618,SGDID:S000118415,ARS,CHR_16,384542,384789,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+ARS1619,ARS1619,SGDID:S000118416,ARS,CHR_16,418138,418364,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+ARS1620,ARS1620,SGDID:S000130200,ARS,CHR_16,422786,422885,"""Putative replication origin; identified in multiple array studies ; not yet confirmed by plasmid-based assay""",Genome Release 64-3-1
+YPLWdelta9,YPLWdelta9,SGDID:S000007196,long_terminal_repeat,CHR_16,436068,436249,"""Ty1 LTR""",Genome Release 64-3-1
+YPLCdelta10,YPLCdelta10,SGDID:S000007185,reverse complement,CHR_16,436250,436587,"""Ty1 LTR""",Genome Release 64-3-1
+YPLWdelta11,YPLWdelta11,SGDID:S000007197,long_terminal_repeat,CHR_16,436594,436731,"""Ty1 LTR""",Genome Release 64-3-1
+YPLCtau1,YPLCtau1,SGDID:S000007186,reverse complement,CHR_16,436890,437260,"""Ty4 LTR""",Genome Release 64-3-1
+YPLCTy4-1,YPLCTy4-1,SGDID:S000007188,reverse complement,CHR_16,436890,443112,"""Ty4 element ; LTR retrotransposon of the Copia (Pseudoviridae) group; contains co-transcribed genes TYA Gag and TYB Pol ; encoding proteins involved in structure and function of virus-like particles ; flanked by two direct repeats""",Genome Release 64-3-1
+YPLCtau2,YPLCtau2,SGDID:S000007187,reverse complement,CHR_16,442742,443112,"""Ty4 LTR""",Genome Release 64-3-1
+ARS1633,ARS1633,SGDID:S000119038,ARS,CHR_16,456563,456810,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+ARS1621,ARS1621,SGDID:S000118417,ARS,CHR_16,511636,511793,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+CEN16,CEN16,SGDID:S000006477,centromere,CHR_16,555957,556073,"""Chromosome XVI centromere""",Genome Release 64-3-1
+YPRWdelta12,YPRWdelta12,SGDID:S000007210,long_terminal_repeat,CHR_16,560481,560812,"""Ty1 LTR""",Genome Release 64-3-1
+ARS1622,ARS1622,SGDID:S000118418,ARS,CHR_16,563852,563967,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+ARS1634,ARS1634,SGDID:S000119040,ARS,CHR_16,565052,565294,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+YPRCdelta13,YPRCdelta13,SGDID:S000007200,reverse complement,CHR_16,571845,572173,"""Ty1 LTR""",Genome Release 64-3-1
+ARS1623,ARS1623,SGDID:S000118419,ARS,CHR_16,633874,634122,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+ARS1624,ARS1624,SGDID:S000118420,ARS,CHR_16,684389,684637,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+ARS1625,ARS1625,SGDID:S000118421,ARS,CHR_16,695461,695574,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+ARS1626,ARS1626,SGDID:S000118422,ARS,CHR_16,749099,749345,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+YPRWsigma2,YPRWsigma2,SGDID:S000007216,long_terminal_repeat,CHR_16,769319,769659,"""Ty3 LTR""",Genome Release 64-3-1
+YPRWdelta14,YPRWdelta14,SGDID:S000007211,long_terminal_repeat,CHR_16,776093,776413,"""Ty1 LTR""",Genome Release 64-3-1
+YPRCdelta15,YPRCdelta15,SGDID:S000007201,reverse complement,CHR_16,776667,776796,"""Ty1 LTR""",Genome Release 64-3-1
+ARS1635,ARS1635,SGDID:S000119041,ARS,CHR_16,776926,777156,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+YPRWdelta16,YPRWdelta16,SGDID:S000007212,long_terminal_repeat,CHR_16,777832,778154,"""Ty1 LTR""",Genome Release 64-3-1
+YPRWdelta17,YPRWdelta17,SGDID:S000007213,long_terminal_repeat,CHR_16,804511,804638,"""Ty1 LTR""",Genome Release 64-3-1
+YPRCdelta18,YPRCdelta18,SGDID:S000007202,reverse complement,CHR_16,804645,804978,"""Ty1 LTR""",Genome Release 64-3-1
+YPRCTy1-2,YPRCTy1-2,SGDID:S000007208,reverse complement,CHR_16,804645,810562,"""Ty1 element ; LTR retrotransposon of the Copia (Pseudoviridae) group; contains co-transcribed genes TYA Gag and TYB Pol ; encoding proteins involved in structure and function of virus-like particles ; flanked by two direct repeats""",Genome Release 64-3-1
+YPRCdelta19,YPRCdelta19,SGDID:S000007203,reverse complement,CHR_16,810229,810562,"""Ty1 LTR""",Genome Release 64-3-1
+ARS1627,ARS1627,SGDID:S000118423,ARS,CHR_16,819160,819399,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+ARS1628,ARS1628,SGDID:S000118424,ARS,CHR_16,842653,842900,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+YPRWdelta20,YPRWdelta20,SGDID:S000007214,long_terminal_repeat,CHR_16,844412,844749,"""Ty1 LTR""",Genome Release 64-3-1
+YPRWTy1-3,YPRWTy1-3,SGDID:S000007220,LTR_retrotransposon,CHR_16,844412,850340,"""Ty1 element ; LTR retrotransposon of the Copia (Pseudoviridae) group; contains co-transcribed genes TYA Gag and TYB Pol ; encoding proteins involved in structure and function of virus-like particles ; flanked by two direct repeats""",Genome Release 64-3-1
+YPRWdelta21,YPRWdelta21,SGDID:S000007215,long_terminal_repeat,CHR_16,850003,850340,"""Ty1 LTR""",Genome Release 64-3-1
+YPRCdelta22,YPRCdelta22,SGDID:S000007204,reverse complement,CHR_16,850357,850512,"""Ty1 LTR""",Genome Release 64-3-1
+ARS1629,ARS1629,SGDID:S000130201,ARS,CHR_16,850512,850629,"""Putative replication origin; identified in multiple array studies ; not yet confirmed by plasmid-based assay""",Genome Release 64-3-1
+YPRCdelta23,YPRCdelta23,SGDID:S000007205,reverse complement,CHR_16,850629,850966,"""Ty1 LTR""",Genome Release 64-3-1
+YPRCTy1-4,YPRCTy1-4,SGDID:S000007209,reverse complement,CHR_16,850629,856554,"""Ty1 element ; LTR retrotransposon of the Copia (Pseudoviridae) group; contains co-transcribed genes TYA Gag and TYB Pol ; encoding proteins involved in structure and function of virus-like particles ; flanked by two direct repeats""",Genome Release 64-3-1
+YPRCdelta24,YPRCdelta24,SGDID:S000007206,reverse complement,CHR_16,856217,856554,"""Ty1 LTR""",Genome Release 64-3-1
+YPRWsigma3,YPRWsigma3,SGDID:S000007217,long_terminal_repeat,CHR_16,856545,856885,"""Ty3 LTR""",Genome Release 64-3-1
+YPRWsigma4,YPRWsigma4,SGDID:S000007218,long_terminal_repeat,CHR_16,880386,880726,"""Ty3 LTR""",Genome Release 64-3-1
+ARS1630,ARS1630,SGDID:S000118425,ARS,CHR_16,880861,881108,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+YPRCtau3,YPRCtau3,SGDID:S000007207,reverse complement,CHR_16,881487,881830,"""Ty4 LTR""",Genome Release 64-3-1
+ARS1631,ARS1631,SGDID:S000118426,ARS,CHR_16,932983,933229,"""Autonomously Replicating Sequence""",Genome Release 64-3-1
+YPRWtau4,YPRWtau4,SGDID:S000007219,long_terminal_repeat,CHR_16,933071,933404,"""Ty4 LTR""",Genome Release 64-3-1
+ARS1632,ARS1632,SGDID:S000130202,ARS,CHR_16,942084,943032,"""Putative replication origin; identified in multiple array studies ; not yet confirmed by plasmid-based assay""",Genome Release 64-3-1
+TEL16R,TEL16R,SGDID:S000029002,telomere,CHR_16,942396,948010,"""Telomeric region on the right arm of Chromosome XVI; annotated components include an X element core sequence and a short Y' element; TEL16R does have telomeric repeats (TEL16R-TR) ; but they are missing from the genome annotation due to difficulties encountered during sequencing and/or assembly""",Genome Release 64-3-1
+ORI1,ORI1,SGDID:S000029667,reverse complement,CHR_MT,4012,4312,"""Mitochondrial origin of replication""",Genome Release 64-3-1
+ORI8,ORI8,SGDID:S000029331,reverse complement,CHR_MT,12510,12780,"""Mitochondrial origin of replication""",Genome Release 64-3-1
+ORI7,ORI7,SGDID:S000029673,origin_of_replication,CHR_MT,30220,30594,"""Mitochondrial origin of replication""",Genome Release 64-3-1
+ORI2,ORI2,SGDID:S000029668,origin_of_replication,CHR_MT,32231,32501,"""Mitochondrial origin of replication""",Genome Release 64-3-1
+ORI6,ORI6,SGDID:S000029672,origin_of_replication,CHR_MT,45227,47927,"""Mitochondrial origin of replication""",Genome Release 64-3-1
+ORI3,ORI3,SGDID:S000029669,reverse complement,CHR_MT,54567,54840,"""Mitochondrial origin of replication""",Genome Release 64-3-1
+ORI4,ORI4,SGDID:S000029670,reverse complement,CHR_MT,56567,56832,"""Mitochondrial origin of replication""",Genome Release 64-3-1
+ORI5,ORI5,SGDID:S000029671,origin_of_replication,CHR_MT,82329,82600,"""Mitochondrial origin of replication""",Genome Release 64-3-1
