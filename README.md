@@ -1,12 +1,9 @@
-# Serohijos-piQTL
-
-## __Genetic landscape of in vivo protein-protein interactions in S. cerevisiae__
+# __Genetic landscape of in vivo protein-protein interactions in S. cerevisiae__
 
 _Savandara Besse 1,2,#, Tatsuya Sakaguchi 1,2,#, Louis Gauthier 1,2, Zahra Sahaf 1,2, Olivier Péloquin 1,2, Lidice Gonzales 1, Xavier Castellanos-Girouard 1,2, Chloe Matta 1,2, Julie Hussin 3,4, Stephen W. Michnick 1,2,\*, Adrian W.R. Serohijos 1,2,\*_
  
 
-### Affiliations
-
+## Affiliations
 1. Department of Biochemistry, Université de Montréal, 2900 Édouard-Montpetit, Montréal, Quebec, Canada H3T 1J4
 
 2. Robert-Cedergren Center for Bioinformatics and Genomics, Université de Montréal, 2900 Édouard-Montpetit, Montréal, Quebec, Canada H3T 1J4
@@ -29,11 +26,11 @@ Mapping effects of genome-wide genetic variation to protein-protein interactions
 ____ 
 
 
-### piQTL website:
+## piQTL website:
 https://ladyson1806.github.io/SerohijosLab-piQTL/
 
 
-### Code guidelines
+## Code guidelines
 - [ ] __08-09-2023__: Modification of relative paths in progress 
 - [ ] __08-09-2023__: Brief description of each folder will be provided soon.
 
