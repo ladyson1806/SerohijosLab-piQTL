@@ -4,8 +4,8 @@ _Savandara Besse 1,2,__#__, Tatsuya Sakaguchi 1,2,__#__, Louis Gauthier 1,2, Zah
 ## 1-sentence summary
 > Mapping effects of genome-wide genetic variation to protein-protein interactions reveals molecular mechanisms of complex traits 
 
-### piQTL website
-https://ladyson1806.github.io/SerohijosLab-piQTL/
+### piQTL website 
+> https://ladyson1806.github.io/SerohijosLab-piQTL/
 
 
 ### Affiliations
