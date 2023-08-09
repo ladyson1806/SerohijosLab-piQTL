@@ -18,9 +18,6 @@ _Savandara Besse 1,2,#, Tatsuya Sakaguchi 1,2,#, Louis Gauthier 1,2, Zahra Sahaf
 
 #These authors contributed equally. 
 
-<br>
-
-
 ### *Correspondence: 
 - adrian.serohijos @ umontreal.ca, 
 - stephen.michnick @ umontreal.ca
