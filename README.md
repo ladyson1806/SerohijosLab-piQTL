@@ -4,7 +4,7 @@ _Savandara Besse 1,2,#, Tatsuya Sakaguchi 1,2,#, Louis Gauthier 1,2, Zahra Sahaf
  
 
 ## 1-sentence summary: 
-Mapping effects of genome-wide genetic variation to protein-protein interactions reveals molecular mechanisms of complex traits 
+> Mapping effects of genome-wide genetic variation to protein-protein interactions reveals molecular mechanisms of complex traits 
 
 
 ### Affiliations
