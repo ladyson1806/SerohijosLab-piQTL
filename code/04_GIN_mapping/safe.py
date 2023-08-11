@@ -724,8 +724,8 @@ class SAFE:
     def plot_network(self, background_color='#ffffff'):
         plot_network(self.graph, background_color=background_color)
         
-        print('Output path: %s' % '../../results/GIN_mapping/Costanzo_Science_2016_GIN.pdf')
-        plt.savefig('../../results/GIN_mapping/Costanzo_Science_2016_GIN.pdf', facecolor=background_color, format='pdf', dpi=300)
+        print('Output path: %s' % '../../results/09_SAFE/GIN_mapping/Costanzo_Science_2016_GIN.pdf')
+        plt.savefig('../../results/09_SAFE/GIN_mapping/Costanzo_Science_2016_GIN.pdf', facecolor=background_color, format='pdf', dpi=300)
 
 
     def plot_network_for_piQTLs(self, show_network=False, show_costanzo2016=True,show_costanzo2016_colors=True, show_costanzo2016_clabels=True, background_color='#ffffff', PPI_label='', DRUG='', PPI=list(), piQTLs=list(), save_fig=''):
@@ -779,6 +779,7 @@ class SAFE:
             piQTLs_nodes_to_color = [ i for i in range(len(self.graph.nodes(data=True))) if self.graph.nodes(data=True)[i]['key'] in piQTLs ]
             ### piQTLs
             print(piQTLs_nodes_to_color)
+            print(len(piQTLs_nodes_to_color))
             nx.draw_networkx_nodes(self.graph, ax=ax, pos=node_xy, nodelist=piQTLs_nodes_to_color, node_size=20, node_color='red')
         
         if save_fig:
