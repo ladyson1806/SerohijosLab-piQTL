@@ -1,8 +1,7 @@
 # __Genetic landscape of in vivo protein-protein interactions in S. cerevisiae__
-_Savandara Besse 1,2,__#__, Tatsuya Sakaguchi 1,2,__#__, Louis Gauthier 1,2, Zahra Sahaf 1,2, Olivier Péloquin 1,2, Lidice Gonzalez 1, Xavier Castellanos-Girouard 1,2, Nazli Koçatug 1,2, Chloé Matta 1,2, Julie G.Hussin 3,4, Stephen W. Michnick 1,2,\*, Adrian W.R. Serohijos 1,2,\*_
+- _Savandara Besse __#__, Tatsuya Sakaguchi __#__, Louis Gauthier, Zahra Sahaf, Olivier Péloquin, Lidice Gonzalez, Xavier Castellanos-Girouard, Nazli Koçatug, Chloé Matta, Julie G.Hussin, Stephen W. Michnick\*, Adrian W.R. Serohijos\*_
+- Université de Montréal (2021-2023)
 
-Savandara Besse1,2,#, Tatsuya Sakaguchi1,2,#, Louis 
- 
 ## 1-sentence summary
 > Mapping effects of genome-wide genetic variation to protein-protein interactions reveals molecular mechanisms of complex traits 
 
@@ -34,19 +33,21 @@ ___
 ## Contact 
 
 ### *Correspondence
-- adrian.serohijos @ umontreal.ca
-- stephen.michnick @ umontreal.ca
+- Adrian Serohijos (@aserohijos) : adrian.serohijos @ umontreal.ca
+- Stephen Michnick (@michnics) : stephen.michnick @ umontreal.ca
 
 ### Website and Code maintenance
-- savandara.besse @ cri-paris.org
+- Savandara Besse (@ladyson1806) : savandara.besse @ cri-paris.org
+
 
 __
 
 
 #### Affiliations
 
-  1. Department of Biochemistry, Université de Montréal, Montréal, Québec, Canada
-  2. Robert-Cedergren Center for Bioinformatics and Genomics, Université de Montréal, Montréal, Québec, Canada
-  3. Institut de Cardiologie de Montréal, Montréal, Québec, Canada
-  4. Département de Médecine, Faculté de Médecine, Université de Montréal, Montréal, Québec, Canada
-  #These authors contributed equally. 
+- Department of Biochemistry, Université de Montréal, Montréal, Québec, Canada
+- Robert-Cedergren Center for Bioinformatics and Genomics, Université de Montréal, Montréal, Québec, Canada
+- Institut de Cardiologie de Montréal, Montréal, Québec, Canada
+- Département de Médecine, Faculté de Médecine, Université de Montréal, Montréal, Québec, Canada
+  
+#These authors contributed equally. 
