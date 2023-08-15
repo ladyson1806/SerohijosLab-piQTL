@@ -8,7 +8,7 @@
 ## piQTL website 
 > https://ladyson1806.github.io/SerohijosLab-piQTL/
 
-<br><br>
+<br>
 ____ 
 
 ## Code guidelines
@@ -26,7 +26,6 @@ ____
     - [] PPI from IntAct database (PCA)
     - [] PPI from BioGrid database (2YH)
     - [] PPI from String
-
 
 ___
 
