@@ -38,10 +38,6 @@ ___
 ### Website and Code maintenance
 - Savandara Besse (@ladyson1806) : savandara.besse @ cri-paris.org
 
-
-__
-
-
 #### Affiliations
 
 - Department of Biochemistry, Université de Montréal, Montréal, Québec, Canada
