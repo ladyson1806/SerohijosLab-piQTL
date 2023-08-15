@@ -1,6 +1,7 @@
 # Genetic landscape of in vivo protein-protein interactions in _S. cerevisiae_
+- __Université de Montréal (2021-2023)__
 - _Savandara Besse __#__, Tatsuya Sakaguchi __#__, Louis Gauthier, Zahra Sahaf, Olivier Péloquin, Lidice Gonzalez, Xavier Castellanos-Girouard, Nazli Koçatug, Chloé Matta, Julie G.Hussin, Stephen W. Michnick\*, Adrian W.R. Serohijos\*_
-- Université de Montréal (2021-2023)
+
 
 ## 1-sentence summary
 > Mapping effects of genome-wide genetic variation to protein-protein interactions reveals molecular mechanisms of complex traits 
