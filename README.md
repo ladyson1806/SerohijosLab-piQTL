@@ -2,10 +2,6 @@
 - __Université de Montréal (2021-2023)__
 - _Savandara Besse __#__, Tatsuya Sakaguchi __#__, Louis Gauthier, Zahra Sahaf, Olivier Péloquin, Lidice Gonzalez, Xavier Castellanos-Girouard, Nazli Koçatug, Chloé Matta, Julie G.Hussin, Stephen W. Michnick\*, Adrian W.R. Serohijos\*_
 
-
-## 1-sentence summary
-> Mapping effects of genome-wide genetic variation to protein-protein interactions reveals molecular mechanisms of complex traits 
-
 ## piQTL website 
 > https://ladyson1806.github.io/SerohijosLab-piQTL/
 
