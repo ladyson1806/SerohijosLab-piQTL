@@ -6,7 +6,6 @@
 > https://ladyson1806.github.io/SerohijosLab-piQTL/
 
 <br>
-____ 
 
 ### 1. Code guidelines
 - [ ] __08-09-2023__: Modification of relative paths for inputs in progress 
