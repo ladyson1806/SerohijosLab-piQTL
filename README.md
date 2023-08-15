@@ -1,6 +1,5 @@
 # Genetic landscape of in vivo protein-protein interactions in _S. cerevisiae_
-
-- __Université de Montréal (2021-2023)__
+## __Université de Montréal (2021-2023)__
 - Savandara Besse __#__, Tatsuya Sakaguchi __#__, Louis Gauthier, Zahra Sahaf, Olivier Péloquin, Lidice Gonzalez, Xavier Castellanos-Girouard, Nazli Koçatug, Chloé Matta, Julie Hussin, Stephen Michnick\*, Adrian Serohijos\*
   - Department of Biochemistry, Université de Montréal, Montréal, Québec, Canada (SB, TS, LoG, ZS, OP, LiG, XCG, NK, CM, SWM, AS)
   - Robert-Cedergren Center for Bioinformatics and Genomics, Université de Montréal, Montréal, Québec, Canada (SB, TS, LoG, ZS, OP, LiG, XCG, NK, CM, SM, AS)
