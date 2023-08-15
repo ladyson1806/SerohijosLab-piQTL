@@ -1,4 +1,4 @@
-# __Genetic landscape of in vivo protein-protein interactions in S. cerevisiae__
+# Genetic landscape of in vivo protein-protein interactions in _S. cerevisiae_
 - _Savandara Besse __#__, Tatsuya Sakaguchi __#__, Louis Gauthier, Zahra Sahaf, Olivier Péloquin, Lidice Gonzalez, Xavier Castellanos-Girouard, Nazli Koçatug, Chloé Matta, Julie G.Hussin, Stephen W. Michnick\*, Adrian W.R. Serohijos\*_
 - Université de Montréal (2021-2023)
 
