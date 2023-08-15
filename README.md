@@ -7,12 +7,12 @@
 
 <br>
 
-### 1. Code guidelines
+## 1. Code guidelines
 - [ ] __08-09-2023__: Modification of relative paths for inputs in progress 
 - [ ] __08-09-2023__: Brief description of each folder will be provided soon.
 - [ ] __08-14-2023__: A table with all the version of the sofwares and the Python and R packages will be provided soon. 
 
-## Additional data
+### Additional data
 - Raw fastq files (Link provided soon)
 - Data not hosted on GitHub (Dropbox Link available soon)
   - [ ] eQTL matrix raw results (61 PPIs * 12K SNPs * 5 environments)
