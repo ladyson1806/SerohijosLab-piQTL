@@ -9,11 +9,11 @@ library(Rtsne)
 base_dir <- getwd()
 
 #### Load PPI matrix
-ppi_matrix <- "/../results/03_ppi_estimation/logratio/all_PPI_logratio_fitness_before_downsampling_minus_ref_for_rMVP.csv"
+ppi_matrix <- "/../results/03_ppi_estimation/logratio/all_PPI_logratio_fitness_before_downsampling_minus_ref_for_rMVP.csv"  # ToDo: modify input path
 ppi_file_name <- paste0(base_dir, ppi_matrix)
 ppi_master <- read_csv(ppi_file_name)
 
-sample_table <- "/../results/03_ppi_estimation/logratio/all_PPI_logratio_minus_ref_metadata.csv"
+sample_table <- "/../results/03_ppi_estimation/logratio/all_PPI_logratio_minus_ref_metadata.csv"  # ToDo: modify input path
 metadata_file_name <- paste0(base_dir, sample_table)
 sample_info <- read_csv(metadata_file_name)
 
@@ -64,13 +64,13 @@ ppi_tsne  <- pc_scores %>%
 ppi_tsne_out <- Rtsne(pc_scores[2:6])
 # tsne_plot_ppi <- data.frame(x = ppi_tsne_out$Y[,1], y = ppi_tsne_out$Y[,2], col = ppi_tsne$PPI)
 # t1 <- ggplot(tsne_plot_ppi) + geom_point(aes(x=x, y=y, color=col)) + guides(colour= "none") + theme_classic()
-tsne_plot_drug <- data.frame(x = ppi_tsne_out$Y[,1], y = ppi_tsne_out$Y[,2], col = ppi_tsne$Drug) 
+tsne_plot_drug <- data.frame(x = ppi_tsne_out$Y[,1], y = ppi_tsne_out$Y[,2], col = ppi_tsne$Drug)
 t2 <- ggplot(tsne_plot_drug) + geom_point(aes(x=x, y=y, color=col)) + labs(x='Dimension 1', y='Dimension 2') + guides(color=guide_legend(ncol=1)) + theme_classic() + theme(legend.text=element_text(size=7), legend.position="bottom", axis.title.x=element_text(size=7), axis.title.y=element_text(size=7), axis.text.x=element_text(size=7), axis.text.y=element_text(size=7)) + coord_fixed()
 tsne_plot_mtx <- data.frame(x = ppi_tsne_out$Y[,1], y = ppi_tsne_out$Y[,2], col = ppi_tsne$MTX)
 t3 <- ggplot(tsne_plot_mtx) + geom_point(aes(x=x, y=y, color=col)) + labs(x='Dimension 1', y='Dimension 2') + guides(color=guide_legend(nrow=2)) + theme_classic() + theme(legend.text=element_text(size=7), legend.position="bottom", axis.title.x=element_text(size=7), axis.title.y=element_text(size=7), axis.text.x=element_text(size=7), axis.text.y=element_text(size=7)) + coord_fixed()
 
 setEPS()
-postscript(file = "../manuscript/figures/EXT_FIGURE_4/minus_ref_logratio_Fitness_tnsne.eps", width = 7.1, height = 3.5, family = "Helvetica", pointsize=7)
+postscript(file = "../manuscript/figures/EXT_FIGURE_4/minus_ref_logratio_Fitness_tnsne.eps", width = 7.1, height = 3.5, family = "Helvetica", pointsize=7)  # ToDo: modify output path
 # print the result (in this case a ggplot)
 grid.arrange(t2, t3, nrow =1)
 dev.off()
@@ -106,7 +106,7 @@ p3_PPI <- p$x %>% # extract the loadings from prcomp
   guides(colour= "none")
 
 setEPS()
-postscript(file = "../manuscript/figures/EXT_FIGURE_4//minus_ref_logratio_Fitness_PCs_per_PPI.eps", width = 12, height = 6, family = "Helvetica", pointsize=12)
+postscript(file = "../manuscript/figures/EXT_FIGURE_4//minus_ref_logratio_Fitness_PCs_per_PPI.eps", width = 12, height = 6, family = "Helvetica", pointsize=12)  # ToDo: modify output path
 # print the result (in this case a ggplot)
 grid.arrange(p1_PPI, p2_PPI, p3_PPI,  nrow =1)
 dev.off()
@@ -173,7 +173,7 @@ p3_DRUG <- p$x %>% # extract the loadings from prcomp
         axis.text.y=element_text(size=7)
   )
 
-pdf(file = "../manuscript/figures/EXT_FIGURE_4/minus_ref_logratio_Fitness_PCs_per_Drug.pdf", width = 6, height = 2, family = "Helvetica", pointsize=5)
+pdf(file = "../manuscript/figures/EXT_FIGURE_4/minus_ref_logratio_Fitness_PCs_per_Drug.pdf", width = 6, height = 2, family = "Helvetica", pointsize=5)  # ToDo: modify output path
 # print the result (in this case a ggplot)
 grid.arrange(p1_DRUG, p2_DRUG, p3_DRUG, nrow = 1)
 dev.off()
@@ -241,6 +241,6 @@ p3_MTX <- p$x %>% # extract the loadings from prcomp
   )
 
 
-pdf(file = "../manuscript/figures/EXT_FIGURE_4/minus_ref_logratio_Fitness_PCs_per_MTX.pdf", width = 6, height = 2, family = "Helvetica", pointsize=5)
+pdf(file = "../manuscript/figures/EXT_FIGURE_4/minus_ref_logratio_Fitness_PCs_per_MTX.pdf", width = 6, height = 2, family = "Helvetica", pointsize=5)  # ToDo: modify output path
 grid.arrange(p1_MTX, p2_MTX, p3_MTX, nrow = 1)
 dev.off()
