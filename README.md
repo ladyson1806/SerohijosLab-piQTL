@@ -1,6 +1,6 @@
 # Genetic landscape of in vivo protein-protein interactions in _S. cerevisiae_
 - __Université de Montréal (2021-2023)__
-- _Savandara Besse __#__, Tatsuya Sakaguchi __#__, Louis Gauthier, Zahra Sahaf, Olivier Péloquin, Lidice Gonzalez, Xavier Castellanos-Girouard, Nazli Koçatug, Chloé Matta, Julie G.Hussin, Stephen W. Michnick\*, Adrian W.R. Serohijos\*_
+- Savandara Besse __#__, Tatsuya Sakaguchi __#__, Louis Gauthier, Zahra Sahaf, Olivier Péloquin, Lidice Gonzalez, Xavier Castellanos-Girouard, Nazli Koçatug, Chloé Matta, Julie G.Hussin, Stephen W. Michnick\*, Adrian W.R. Serohijos\*
 
 ## piQTL website 
 > https://ladyson1806.github.io/SerohijosLab-piQTL/
@@ -8,7 +8,7 @@
 <br>
 ____ 
 
-## Code guidelines
+### 1. Code guidelines
 - [ ] __08-09-2023__: Modification of relative paths for inputs in progress 
 - [ ] __08-09-2023__: Brief description of each folder will be provided soon.
 - [ ] __08-14-2023__: A table with all the version of the sofwares and the Python and R packages will be provided soon. 
@@ -16,17 +16,17 @@ ____
 ## Additional data
 - Raw fastq files (Link provided soon)
 - Data not hosted on GitHub (Dropbox Link available soon)
-  - [] eQTL matrix raw results (61 PPIs * 12K SNPs * 5 environments)
+  - [ ] eQTL matrix raw results (61 PPIs * 12K SNPs * 5 environments)
   - Inputs tables for network loading in NetworkX
-    - [] Tarrasov et al. (PCA)
-    - [] Costanzo et al. (GIN)
-    - [] PPI from IntAct database (PCA)
-    - [] PPI from BioGrid database (2YH)
-    - [] PPI from String
+    - [ ] Tarrasov et al. (PCA)
+    - [ ] Costanzo et al. (GIN)
+    - [ ] PPI from IntAct database (PCA)
+    - [ ] PPI from BioGrid database (2YH)
+    - [ ] PPI from String
 
-___
+<br> 
 
-## Contact 
+## 2. Contact 
 
 ### *Correspondence
 - Adrian Serohijos (@aserohijos) : adrian.serohijos @ umontreal.ca
@@ -35,6 +35,8 @@ ___
 ### Website and Code maintenance
 - Savandara Besse (@ladyson1806) : savandara.besse @ cri-paris.org
 
+_____
+
 #### Affiliations
 
 - Department of Biochemistry, Université de Montréal, Montréal, Québec, Canada
@@ -42,4 +44,4 @@ ___
 - Institut de Cardiologie de Montréal, Montréal, Québec, Canada
 - Département de Médecine, Faculté de Médecine, Université de Montréal, Montréal, Québec, Canada
   
-#These authors contributed equally. 
+\# These authors contributed equally. 
