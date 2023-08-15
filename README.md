@@ -34,7 +34,7 @@
 
 ## 2. Contact 
 
-### *Correspondence
+### \* Correspondence
 - Adrian Serohijos (@aserohijos) : adrian.serohijos @ umontreal.ca
 - Stephen Michnick (@michnics) : stephen.michnick @ umontreal.ca
 
