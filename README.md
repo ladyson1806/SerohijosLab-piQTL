@@ -14,9 +14,19 @@
 <br>
 
 ## 1. Code guidelines
-- [ ] __08-09-2023__: Modification of relative paths for inputs in progress 
-- [ ] __08-09-2023__: Brief description of each folder will be provided soon.
+
+### Progress / Updates
+#### TO DO
+- [ ] __08-15-2023__: Code review by Tatsuya Sakaguchi (@ttskg) for code tidying and cleaning after public access to the repository
 - [ ] __08-14-2023__: A table with all the version of the sofwares and the Python and R packages will be provided soon. 
+
+- [ ] __08-09-2023__: Brief description of each folder will be provided soon.
+#### IN PROGRESS 
+- [ ] __08-09-2023__: Modification of relative paths for inputs
+
+#### DONE
+- [ ] Next expected code update by 08-17-2023
+
 
 ### Additional data
 - Raw fastq files (Link provided soon)
