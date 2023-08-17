@@ -2,20 +2,21 @@ import warnings
 
 warnings.simplefilter(action="ignore", category=FutureWarning)
 
-import cv2, os
-import numpy as np
+# import cv2, os
+from os import makedirs, path
+# import numpy as np
 import pandas as pd
 import seaborn as sns
 import matplotlib as mpl
-import mpl_scatter_density
+# import mpl_scatter_density
 import scipy.stats as stats
 import matplotlib.pyplot as plt
 
 
 from matplotlib.lines import Line2D
-from scipy.stats import gaussian_kde
-from pandas.api.types import CategoricalDtype
-from matplotlib.colors import LinearSegmentedColormap
+# from scipy.stats import gaussian_kde
+# from pandas.api.types import CategoricalDtype
+# from matplotlib.colors import LinearSegmentedColormap
 
 
 # set matplotlib default parameters
@@ -42,7 +43,10 @@ DOUBLE = 18 * CM
 
 
 if __name__ == "__main__":
-    all_A_vs_B = pd.read_csv("./pipeline/A_vs_B_annotated_replicates.csv")
+    curr_path = path.abspath(path.join(__file__, "../"))
+    root_path = path.abspath(path.join(__file__, "../../.."))
+
+    all_A_vs_B = pd.read_csv(f"{curr_path}/pipeline/A_vs_B_annotated_replicates.csv")
 
     print(len(all_A_vs_B))
 
@@ -154,12 +158,14 @@ if __name__ == "__main__":
             loc="upper left",
         )
 
+        if not path.exists(f"{root_path}/figures/EXT_FIGURE_3"):
+            makedirs(f"{root_path}/figures/EXT_FIGURE_3")
         f.savefig(
-            f"../manuscript/figures/EXT_FIGURE_3/duplicate_density_plot_{title[i]}.png",  # ToDo: modify output path
+            f"{root_path}/figures/EXT_FIGURE_3/duplicate_density_plot_{title[i]}.png",  # ToDo: modify output path
             dpi=300,
         )
         f.savefig(
-            f"../manuscript/figures/EXT_FIGURE_3/duplicate_density_plot_{title[i]}.eps",  # ToDo: modify output path
+            f"{root_path}/figures/EXT_FIGURE_3/duplicate_density_plot_{title[i]}.eps",  # ToDo: modify output path
             dpi=300,
         )
         i += 1
