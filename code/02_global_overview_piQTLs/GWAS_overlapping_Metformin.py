@@ -1,16 +1,12 @@
+from os import makedirs, path
+
 import numpy as np
 import pandas as pd
-import seaborn as sns
 import matplotlib as mpl
 import scipy.stats as stats
 import matplotlib.pyplot as plt
 
-from matplotlib_venn import venn2
 from matplotlib_venn import venn3
-from IPython.display import display
-
-from venn import venn
-
 
 # set matplotlib default parameters
 mpl.rcParams["font.family"] = "sans-serif"
@@ -38,8 +34,10 @@ WHOLE = 18 * CM
 
 
 #### Loading all SNPs annotations
+root_path = path.abspath(path.join(__file__, "../../.."))
+
 all_ORF_SNPs = pd.read_csv(
-    "../data/genotype_information/snps_annotations_genome-version-3-64-1.txt"
+    f"{root_path}/data/genotype_information/snps_annotations_genome-version-3-64-1.txt"
 )
 print(
     "Number of SNPs on ORF:", len(all_ORF_SNPs[all_ORF_SNPs["snps_class_up"] == "ORF"])
@@ -48,7 +46,7 @@ ORF_with_SNPs = all_ORF_SNPs[all_ORF_SNPs["snps_class_up"] == "ORF"]["locus_id"]
 
 #### Loading human and yeast orthologs
 human_homologs = pd.read_csv(
-    "../data/gwas_annotations/Yeast_vs_Human_Homologs.txt", sep="\t"
+    f"{root_path}/data/gwas_annotations/Yeast_vs_Human_Homologs.txt", sep="\t"
 )
 yeast_homologs_with_snps = set(human_homologs["Yeast_Gene_stable_ID"]) & set(
     ORF_with_SNPs
@@ -57,15 +55,15 @@ print(len(yeast_homologs_with_snps))
 
 #### Loading piQTL results
 piQTLs = pd.read_csv(
-    "../results/05_piQTL_tables/significant_piQTLs_results_with_genome_annotations_without_MTX_peaks.csv"
+    f"{root_path}/results/05_piQTL_tables/significant_piQTLs_results_with_genome_annotations_without_MTX_peaks.csv"
 )
-ES_piQTLs = pd.read_csv("../results/05_piQTL_tables/ES_vs_NES/Metformin_ES_piQTLs.csv")
+ES_piQTLs = pd.read_csv(f"{root_path}/results/05_piQTL_tables/ES_vs_NES/Metformin_ES_piQTLs.csv")
 NES_piQTLs = pd.read_csv(
-    "../results/05_piQTL_tables/ES_vs_NES/Metformin_NES_piQTLs.csv"
+    f"{root_path}/results/05_piQTL_tables/ES_vs_NES/Metformin_NES_piQTLs.csv"
 )
 
 #### Loading GWAS hits on diabetes type II
-diabetes_typeII_gwas = pd.read_csv("../data/gwas_annotations/diabetes_type2-genes.csv")
+diabetes_typeII_gwas = pd.read_csv(f"{root_path}/data/gwas_annotations/diabetes_type2-genes.csv")
 human_diabetesII_QTLs = diabetes_typeII_gwas[
     ~diabetes_typeII_gwas["Human_Gene_name"].str.contains("-")
 ].drop_duplicates(("Human_Gene_name"))["Human_Gene_name"]
@@ -156,7 +154,7 @@ for locus_id in set(yeast_ES_piQTLs) & set(yeast_diabetes_II_homologs):
 
 TABLE = pd.concat(res)
 TABLE.to_csv(
-    "../results/06_GWAS_overlapping/human_GWAS_vs_piQTLs_metformin_hits.csv",
+    f"{root_path}/results/06_GWAS_overlapping/human_GWAS_vs_piQTLs_metformin_hits.csv",
     index=False,
 )
 TABLE = TABLE.merge(human_homologs, left_on="locus_id", right_on="Yeast_Gene_stable_ID")
