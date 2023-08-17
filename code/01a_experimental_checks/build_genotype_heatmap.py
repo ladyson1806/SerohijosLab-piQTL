@@ -1,3 +1,5 @@
+from os import makedirs, path
+
 import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
@@ -69,7 +71,7 @@ def get_chr_limits(snp_position):
     return chr_limit_table
 
 
-def create_genotype_map(genotype_matrix):
+def create_genotype_map(genotype_matrix, root):
     #### Remove snp_id column
     cols = genotype_matrix.columns
     genotype_matrix = genotype_matrix[cols[1:]]
@@ -87,9 +89,11 @@ def create_genotype_map(genotype_matrix):
     )
     plt.colorbar()
 
-    # ToDo: modify output paths
-    f.savefig("../manuscript/figures/EXT_FIGURE_1/FIGURE_1A.png", dpi=300)
-    f.savefig("../manuscript/figures/EXT_FIGURE_1/FIGURE_1A.eps", dpi=300)
+    if not path.exists(f"{root}/figures/EXT_FIGURE_1"):
+        makedirs(f"{root}/figures/EXT_FIGURE_1")
+
+    f.savefig(f"{root}/figures/EXT_FIGURE_1/FIGURE_1A.png", dpi=300)
+    f.savefig(f"{root}/figures/EXT_FIGURE_1/FIGURE_1A.eps", dpi=300)
 
 
 def format_genotype(x):
@@ -123,14 +127,16 @@ def linkage_disequilibrium(genotype_matrix):
 
 
 if __name__ == "__main__":
+    root_path = path.abspath(path.join(__file__, "../../.."))
+
     genotype_matrix = pd.read_csv(
-        "../data/genotype_information/piQTL_genotype_matrix_dec2022.txt"
+        f"{root_path}/data/genotype_information/piQTL_genotype_matrix_dec2022.txt"
     )
     snp_position = pd.read_csv(
-        "../data/genotype_information/snps_annotations_genome-version-3-64-1.txt"
+        f"{root_path}/data/genotype_information/snps_annotations_genome-version-3-64-1.txt"
     ).rename(columns={"snp_id": "SNP"})
     print(genotype_matrix.shape)
     chr_limits = get_chr_limits(snp_position)
     print("Save panel A for Figure 1")
-    create_genotype_map(genotype_matrix)
+    create_genotype_map(genotype_matrix, root_path)
     print("Input for generating panel B for Figure 1 with Rscript calculate_LD.R ")
