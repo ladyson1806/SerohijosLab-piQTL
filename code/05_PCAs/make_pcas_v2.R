@@ -9,11 +9,11 @@ library(Rtsne)
 base_dir <- getwd()
 
 #### Load PPI matrix
-ppi_matrix <- "/../results/03_ppi_estimation/logratio/all_PPI_logratio_fitness_before_downsampling_minus_ref_noPPI-labelled_for_rMVP.csv"
+ppi_matrix <- "/../results/03_ppi_estimation/logratio/all_PPI_logratio_fitness_before_downsampling_minus_ref_noPPI-labelled_for_rMVP.csv"  # ToDo: modify input path
 ppi_file_name <- paste0(base_dir, ppi_matrix)
 ppi_master <- read_csv(ppi_file_name)
 
-sample_table <- "/../results/03_ppi_estimation/logratio/all_PPI_logratio_minus_ref_noPPI-labelled_metadata.csv"
+sample_table <- "/../results/03_ppi_estimation/logratio/all_PPI_logratio_minus_ref_noPPI-labelled_metadata.csv"  # ToDo: modify input path
 metadata_file_name <- paste0(base_dir, sample_table)
 sample_info <- read_csv(metadata_file_name)
 
@@ -70,7 +70,7 @@ tsne_plot_mtx <- data.frame(x = ppi_tsne_out$Y[,1], y = ppi_tsne_out$Y[,2], col 
 t3 <- ggplot(tsne_plot_mtx) + geom_point(aes(x=x, y=y, color=col)) + guides(colour= "none")
 
 setEPS()
-postscript(file = "../manuscript/figures/EXT_FIGURE_4/minus_ref_noPPI-labelled_logratio_Fitness_tnsne.eps", width = 12, height = 6, family = "Helvetica", pointsize=12)
+postscript(file = "../manuscript/figures/EXT_FIGURE_4/minus_ref_noPPI-labelled_logratio_Fitness_tnsne.eps", width = 12, height = 6, family = "Helvetica", pointsize=12)  # ToDo: modify output path
 # print the result (in this case a ggplot)
 grid.arrange(t1, t2, t3, nrow =1)
 dev.off()
@@ -106,7 +106,7 @@ p3_PPI <- p$x %>% # extract the loadings from prcomp
   guides(colour= "none")
 
 setEPS()
-postscript(file = "../manuscript/figures/EXT_FIGURE_4//minus_ref_noPPI-labelled_logratio_Fitness_PCs_per_PPI.eps", width = 12, height = 6, family = "Helvetica", pointsize=12)
+postscript(file = "../manuscript/figures/EXT_FIGURE_4//minus_ref_noPPI-labelled_logratio_Fitness_PCs_per_PPI.eps", width = 12, height = 6, family = "Helvetica", pointsize=12)  # ToDo: modify output path
 # print the result (in this case a ggplot)
 grid.arrange(p1_PPI, p2_PPI, p3_PPI,  nrow =1)
 dev.off()
@@ -141,7 +141,7 @@ p3_DRUG <- p$x %>% # extract the loadings from prcomp
   geom_point()
 
 setEPS()
-postscript(file = "../manuscript/figures/EXT_FIGURE_4/minus_ref_noPPI-labelled_logratio_Fitness_PCs_per_Drug.eps", width = 18, height = 6, family = "Helvetica", pointsize=12)
+postscript(file = "../manuscript/figures/EXT_FIGURE_4/minus_ref_noPPI-labelled_logratio_Fitness_PCs_per_Drug.eps", width = 18, height = 6, family = "Helvetica", pointsize=12)  # ToDo: modify output path
 # print the result (in this case a ggplot)
 grid.arrange(p1_DRUG, p2_DRUG, p3_DRUG, nrow = 1)
 dev.off()
@@ -176,6 +176,6 @@ p3_MTX <- p$x %>% # extract the loadings from prcomp
   geom_point()
 
 setEPS()
-postscript(file = "../manuscript/figures/EXT_FIGURE_4/minus_ref_noPPI-labelled_logratio_Fitness_PCs_per_MTX.eps", width = 18, height = 6, family = "Helvetica", pointsize=12)
+postscript(file = "../manuscript/figures/EXT_FIGURE_4/minus_ref_noPPI-labelled_logratio_Fitness_PCs_per_MTX.eps", width = 18, height = 6, family = "Helvetica", pointsize=12)  # ToDo: modify output path
 grid.arrange(p1_MTX, p2_MTX, p3_MTX, nrow = 1)
 dev.off()

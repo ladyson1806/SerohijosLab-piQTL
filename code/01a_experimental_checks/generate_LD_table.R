@@ -20,7 +20,7 @@ summary(gdata)
 ld.piQTL <- ld(gdata, stats=c("D.prime", "R.squared"), depth=1000)
 
 
-####### 
+#######
 
 pos <- gsupport$position
 diags <- vector("list", 1000)
