@@ -6,7 +6,7 @@ import os
 
 import matplotlib as mpl
 import matplotlib.pyplot as plt
-import mpl_scatter_density  # ToDo: no definition
+import mpl_scatter_density
 import numpy as np
 import pandas as pd
 import scipy.stats as stats
@@ -149,7 +149,7 @@ def using_mpl_scatter_density(fig, x, y):
     return fig, ax
 
 
-def display_density_plot(all_A_vs_B, MTX, SINGLE):
+def display_density_plot(all_A_vs_B, MTX, SINGLE, root):
     f = plt.figure(figsize=(SINGLE, 9 * CM))
 
     all_A_vs_B = all_A_vs_B[~all_A_vs_B["strain_id"].str.contains("_ref")]
@@ -174,10 +174,14 @@ def display_density_plot(all_A_vs_B, MTX, SINGLE):
         xycoords="figure points",
     )
     plt.title(MTX)
-    fig.savefig(f"../../figures/figure_1/replicability_density_plot_{MTX}.eps", dpi=300)
+
+    if not os.path.exists(f"{root}/figures/figure_1"):
+        os.makedirs(f"{root}/figures/figure_1")
+
+    fig.savefig(f"{root}/figures/figure_1/replicability_density_plot_{MTX}.eps", dpi=300)
 
 
-def plot_number_strains_stat(logs, SINGLE):
+def plot_number_strains_stat(logs, SINGLE, root):
     f = plt.figure(figsize=(SINGLE, SINGLE))
     nb_strain_stats = pd.concat(logs).reset_index(drop=True)
     nb_strain_stats["REP"] = [
@@ -229,29 +233,32 @@ def plot_number_strains_stat(logs, SINGLE):
     )
     plt.ylabel("Percentage (%)")
     plt.xlabel("Number of retrieved strains")
-    f.savefig(f"../../figures/figure_1/strain_mapping_distribution.eps", dpi=300)
+    f.savefig(f"{root}/figures/figure_1/strain_mapping_distribution.eps", dpi=300)
 
 
 if __name__ == "__main__":
-    lineage_tracking_stats = pd.read_csv("./lineage_tracking_stats.csv")
-    all_A_vs_B = pd.read_csv("./A_vs_B_annotated.csv")
+    curr_path = os.path.abspath(os.path.join(__file__, "../"))
+    root_path = os.path.abspath(os.path.join(__file__, "../../.."))
+
+    lineage_tracking_stats = pd.read_csv(f"{curr_path}/lineage_tracking_stats.csv")
+    all_A_vs_B = pd.read_csv(f"{curr_path}/A_vs_B_annotated.csv")
 
     print(len(all_A_vs_B))
 
-    #### FIGURE PANEL B
-    display_density_plot(all_A_vs_B, "", SINGLE)
+    #### FIGURE PANEL G
+    # display_density_plot(all_A_vs_B, "", SINGLE, root_path)
     MTX = all_A_vs_B[all_A_vs_B["MTX_condition"].str.contains("_MTX")].reset_index(
         drop=True
     )
-    display_density_plot(MTX, "MTX", SINGLE)
-    noMTX = all_A_vs_B[all_A_vs_B["MTX_condition"].str.contains("_noMTX")].reset_index(
-        drop=True
-    )
-    display_density_plot(noMTX, "noMTX", SINGLE)
+    display_density_plot(MTX, "MTX", SINGLE, root_path)
+    # noMTX = all_A_vs_B[all_A_vs_B["MTX_condition"].str.contains("_noMTX")].reset_index(
+    #     drop=True
+    # )
+    # display_density_plot(noMTX, "noMTX", SINGLE, root_path)
 
-    #### FIGURE PANEL C
-    log_folder = "../../results/01_barcode_count/log"
+    #### FIGURE PANEL F
+    log_folder = f"{root_path}/results/01_barcode_count/log"
     logs = [
         pd.read_csv(os.path.join(log_folder, log)) for log in os.listdir(log_folder)
     ]
-    plot_number_strains_stat(logs, SINGLE)
+    plot_number_strains_stat(logs, SINGLE, root_path)
