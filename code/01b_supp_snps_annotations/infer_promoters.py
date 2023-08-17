@@ -1,3 +1,5 @@
+from os import makedirs, path
+
 import numpy as np
 import pandas as pd
 import plotnine as p9
@@ -61,11 +63,14 @@ def build_promoter_table(minus_one, plus_one):
 
 
 if __name__ == "__main__":
+    curr_path = path.abspath(path.join(__file__, "../"))
+    # root_path = path.abspath(path.join(__file__, "../../.."))
+
     minus_one = pd.read_csv(
-        "./data/nucleosome_position/minus_one_nucleosome_positions.csv"
+        f"{curr_path}/data/nucleosome_position/minus_one_nucleosome_positions.csv"
     ).rename(columns={"chromosome": "chrom", "gene orientation": "orientation"})
     plus_one = pd.read_csv(
-        "./data/nucleosome_position/plus_one_nucleosome_positions.csv"
+        f"{curr_path}/data/nucleosome_position/plus_one_nucleosome_positions.csv"
     ).rename(columns={"chromosome": "chrom"})
     promoter_position = build_promoter_table(minus_one, plus_one)
     # promoter_position.to_csv('./data/yeast_promoter_loc.txt', index=False)
@@ -87,7 +92,7 @@ if __name__ == "__main__":
         + p9.labs(x="Promoter type")
         + p9.theme_classic()
     )
-    NFR_COUNTPLOT.save("./figures/NFR_counts.png", dpi=150)
+    NFR_COUNTPLOT.save(f"{curr_path}/figures/NFR_counts.png", dpi=150)
 
     NFR_BOXPLOT = (
         p9.ggplot(data=promoter_position)
@@ -95,4 +100,4 @@ if __name__ == "__main__":
         + p9.labs(x="Promoter type", y="Promoter length")
         + p9.theme_classic()
     )
-    NFR_BOXPLOT.save("./figures/NFR_length_violinplot.png", dpi=150)
+    NFR_BOXPLOT.save(f"{curr_path}/figures/NFR_length_violinplot.png", dpi=150)
