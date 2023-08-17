@@ -1,4 +1,4 @@
-from os import makedirs, path
+from os import path
 
 import numpy as np
 import pandas as pd
