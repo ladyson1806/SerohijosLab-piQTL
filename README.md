@@ -29,7 +29,7 @@
 
 ### Python
 
-- Python 3.11.4
+- Python 3.8.4
 - [assocplots](https://github.com/khramts/assocplots)
 - [biopython 1.78](https://pypi.org/project/biopython/)
 - [gffpandas 1.2.0](https://pypi.org/project/gffpandas/)
