@@ -116,10 +116,11 @@ class SAFE:
         """
 
         # Location of this code
-        loc = os.path.dirname(os.path.abspath(__file__))
+        # loc = os.path.dirname(os.path.abspath(__file__))
+        loc = os.path.abspath(os.path.join(os.path.abspath(__file__), "../../"))
 
         # Load default settings
-        default_config_path = os.path.join(loc, 'safe_default.ini')
+        default_config_path = os.path.join(loc, 'safepy/safe_default.ini')
         default_config = configparser.ConfigParser(allow_no_value=True,
                                                    comment_prefixes=('#', ';', '{'),
                                                    inline_comment_prefixes='#')
@@ -254,8 +255,8 @@ class SAFE:
 
             if file_extension == '.gpickle':
                 self.graph = load_network_from_gpickle(self.path_to_network_file, verbose=self.verbose)
-                 
-            
+
+
 
     def load_network(self, **kwargs):
         """
@@ -723,7 +724,7 @@ class SAFE:
 
     def plot_network(self, background_color='#ffffff'):
         plot_network(self.graph, background_color=background_color)
-        
+
         print('Output path: %s' % '../../results/09_SAFE/GIN_mapping/Costanzo_Science_2016_GIN.pdf')
         plt.savefig('../../results/09_SAFE/GIN_mapping/Costanzo_Science_2016_GIN.pdf', facecolor=background_color, format='pdf', dpi=300)
 
@@ -743,8 +744,9 @@ class SAFE:
             axes = np.array([axes])
 
         # First, plot the network (if required)
+        ax = axes
         if show_network:
-            ax = axes[0]
+            # ax = axes[0]
             ax, node_xy = plot_network(self.graph, ax=ax, background_color=background_color)
 
         if show_costanzo2016:
@@ -752,36 +754,36 @@ class SAFE:
                 colors=show_costanzo2016_colors,
                 clabels=show_costanzo2016_clabels,
                 background_color=background_color)
-        
+
         if PPI:
             if PPI_label:
                 ax.set_title(f'piQTLs ({PPI_label}) under {DRUG}')
                 PPI_nodes_to_color = [ i for i in range(len(self.graph.nodes(data=True))) if self.graph.nodes(data=True)[i]['key'] in PPI ]
                 # PPI_labels = {}
                 # for i in range(len(self.graph.nodes(data=True))) :
-                #     if i in PPI_nodes_to_color : 
+                #     if i in PPI_nodes_to_color :
                 #         PPI_labels[i] = self.graph.nodes(data=True)[i]['label']
                 print(PPI)
                 # print(PPI_labels)
                 # nx.draw_networkx_labels(self.graph, ax=ax, pos=node_xy, labels=PPI_labels, font_size=12, font_color='cyan')
-                nx.draw_networkx_nodes(self.graph, ax=ax, pos=node_xy, nodelist=PPI_nodes_to_color, node_size=25, node_color='blue')  
+                nx.draw_networkx_nodes(self.graph, ax=ax, pos=node_xy, nodelist=PPI_nodes_to_color, node_size=25, node_color='blue')
 
         # Color the specified nodes
         if piQTLs:
             if DRUG != '':
                 ax.set_title(f'piQTLs under {DRUG}')
-            else : 
+            else :
                 ax.set_title(f'PPI reporters')
             PPI_nodes_to_color = [ i for i in range(len(self.graph.nodes(data=True))) if self.graph.nodes(data=True)[i]['key'] in PPI ]
-            nx.draw_networkx_nodes(self.graph, ax=ax, pos=node_xy, nodelist=PPI_nodes_to_color, node_size=25, node_color='blue')  
-            
+            nx.draw_networkx_nodes(self.graph, ax=ax, pos=node_xy, nodelist=PPI_nodes_to_color, node_size=25, node_color='blue')
+
             # print(self.graph.nodes(data=True))
             piQTLs_nodes_to_color = [ i for i in range(len(self.graph.nodes(data=True))) if self.graph.nodes(data=True)[i]['key'] in piQTLs ]
             ### piQTLs
             print(piQTLs_nodes_to_color)
             print(len(piQTLs_nodes_to_color))
             nx.draw_networkx_nodes(self.graph, ax=ax, pos=node_xy, nodelist=piQTLs_nodes_to_color, node_size=20, node_color='red')
-        
+
         if save_fig:
             path_to_fig = save_fig
             print('Output path: %s' % path_to_fig)
@@ -1291,4 +1293,3 @@ if __name__ == '__main__':
     print('Saving the results...')
     with open(output_file, 'wb') as handle:
         pickle.dump(all_nes, handle)
-
