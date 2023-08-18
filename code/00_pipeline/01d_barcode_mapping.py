@@ -3,7 +3,7 @@ NAME 01d_barcode_mapping.py
 
 =========
 
-DESCRIPTION 
+DESCRIPTION
 
 XXXXX
 
@@ -33,13 +33,13 @@ LICENCE
 2022, Copyright Savandara Besse (savandara.besse@umontreal.ca)
 
 
-""" 
+"""
 import multiprocessing, os, signal, textdistance
 import numpy as np
-import pandas as pd 
-import seaborn as sns 
-import scipy.stats as stats 
-import matplotlib.pyplot as plt  
+import pandas as pd
+import seaborn as sns
+import scipy.stats as stats
+import matplotlib.pyplot as plt
 
 from tqdm import tqdm
 from functools import reduce
@@ -68,7 +68,7 @@ def retrieve_strain_id(x, barcode_reference_library):
     return np.nan
 
 def retrieve_strain_id_strict(x, all_true_barcodes):
-    if x in all_true_barcodes.keys() : 
+    if x in all_true_barcodes.keys() :
         return all_true_barcodes[x]
     else :
         for true_barcode in all_true_barcodes.keys():
@@ -108,8 +108,8 @@ if __name__ == "__main__":
     barcode_reference_library = pd.read_csv('../../data/pipeline/barcode_collection_with_ubarcodes.csv')
     barcode_reference_library = barcode_reference_library[['strain_number','revComp']]
     print(barcode_reference_library)
-    all_true_barcodes = dict(zip(barcode_reference_library.revComp, barcode_reference_library.strain_number)) 
-    
+    all_true_barcodes = dict(zip(barcode_reference_library.revComp, barcode_reference_library.strain_number))
+
     barcode_extraction_folder = '/home/savvy/PROJECTS/PHD/DATA/FINAL_DATASET/barcode_extracted/'
 
     base_folder = '../../results'

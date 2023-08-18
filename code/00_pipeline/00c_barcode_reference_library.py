@@ -5,9 +5,9 @@ NAME 00_barcode_reference_library.py
 
 =========
 
-DESCRIPTION 
+DESCRIPTION
 
-Build the barcode table (Well Index) needed by Adapter Removal based on the plate design 
+Build the barcode table (Well Index) needed by Adapter Removal based on the plate design
 
 ===========
 
@@ -19,7 +19,7 @@ INPUTS
 
 OUTPUTS
 
-- CSV file : ../../data/pipeline/PPI_reference_barcodes.csv #### Modified version of sample_position_and_barcodes.csv 
+- CSV file : ../../data/pipeline/PPI_reference_barcodes.csv #### Modified version of sample_position_and_barcodes.csv
                                                                 with addition of 3 columns : N_barcode, S_barcode, PPI
 - CSV file : ../../data/pipeline/PPI_reference_barcodes.txt #### Required file needed for 01_barcode_extraction.py
 
@@ -39,13 +39,15 @@ LICENCE
 
 """
 
-import pandas as pd 
+from os import path
+
+import pandas as pd
 
 
 
 #### Nseries - Left inner barcode (already reverse complement)
 N_series = {
-    'N701': 'TCGCCTTA', 
+    'N701': 'TCGCCTTA',
     'N702':	'CTAGTACG',
     'N703':	'TTCTGCCT',
     'N704':	'GCTCAGGA',
@@ -83,11 +85,13 @@ def get_reference_barcode(x, series_type):
         return S_series[x]
 
 if __name__ == "__main__":
-    plate_design = pd.read_csv('../../data/pipeline/sample_position_and_barcodes.csv')
+    root_path = path.abspath(path.join(__file__, "../../.."))
+
+    plate_design = pd.read_csv(f'{root_path}/data/pipeline/sample_position_and_barcodes.csv')
     plate_design['N_barcode'] = plate_design['N-index'].apply(get_reference_barcode, args=('N',))
     plate_design['S_barcode'] = plate_design['S-index'].apply(get_reference_barcode, args=('S',))
     plate_design['PPI'] = [ plate_design['ppi'][i].replace(':','_') for i in plate_design.index ]
     print(plate_design)
 
-    plate_design.to_csv('../../data/pipeline/PPI_reference_barcodes.csv', index=False)
-    plate_design[['PPI', 'N_barcode', 'S_barcode']].to_csv('../../data/pipeline/PPI_reference_barcodes.txt', index=False, sep='\t', header=False)
+    plate_design.to_csv(f'{root_path}/data/pipeline/PPI_reference_barcodes.csv', index=False)
+    plate_design[['PPI', 'N_barcode', 'S_barcode']].to_csv(f'{root_path}/data/pipeline/PPI_reference_barcodes.txt', index=False, sep='\t', header=False)

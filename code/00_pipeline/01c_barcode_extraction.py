@@ -3,7 +3,7 @@ NAME 01c_barcode_extraction.py
 
 =========
 
-DESCRIPTION 
+DESCRIPTION
 
 XXXXX
 
@@ -33,7 +33,7 @@ LICENCE
 2022, Copyright Savandara Besse (savandara.besse@umontreal.ca)
 
 
-""" 
+"""
 
 import multiprocessing, os, signal, subprocess
 from tqdm import tqdm
@@ -47,20 +47,20 @@ def barcode_extraction(bartender_input):
     fastq = bartender_input
     output = f'{bartender_input.replace(".assembled.fastq","")}'
     log = f'{bartender_input.replace(".assembled.fastq","")}.log'
-    bartender_extract_cmd = f'bartender_extractor_com -f {fastq} -o {output} -q "?" -p "TGGGC[5]CAGGTCTGAAGCTGTCGCAC[5]GAAAT" -m 4 -d both >> {log}' 
+    bartender_extract_cmd = f'bartender_extractor_com -f {fastq} -o {output} -q "?" -p "TGGGC[5]CAGGTCTGAAGCTGTCGCAC[5]GAAAT" -m 4 -d both >> {log}'
     subprocess.run(bartender_extract_cmd, shell=True)
 
 
 def main(arg):
     bartender_input = arg
-    
+
     barcode_extraction(bartender_input)
 
 
 if __name__ == "__main__":
     base_folder = '/home/savvy/PROJECTS/PHD/DATA/FINAL_DATASET'
     print('Step 4 - Barcode extraction')
-    barcode_extracted_folder = os.path.join(base_folder,'barcode_extracted') 
+    barcode_extracted_folder = os.path.join(base_folder,'barcode_extracted')
     for condition in os.listdir(barcode_extracted_folder):
         print(f"Barcode extraction for {condition}")
         pooled_folder = f'/home/savvy/PROJECTS/PHD/DATA/FINAL_DATASET/barcode_extracted/{condition}/pooled'
@@ -79,4 +79,3 @@ if __name__ == "__main__":
             p.terminate()
             p.join()
             exit(1)
-

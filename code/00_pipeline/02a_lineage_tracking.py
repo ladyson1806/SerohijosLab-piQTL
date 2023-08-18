@@ -1,14 +1,14 @@
 import warnings
 warnings.simplefilter(action='ignore', category=FutureWarning)
 
-import cv2, multiprocessing, os, signal 
-import numpy as np 
+import cv2, multiprocessing, os, signal
+import numpy as np
 import pandas as pd
-import seaborn as sns 
+import seaborn as sns
 import scipy.stats as stats
 import matplotlib.pyplot as plt
 
-from tqdm import tqdm 
+from tqdm import tqdm
 from functools import reduce
 from IPython.display import display
 from matplotlib.lines import Line2D
@@ -28,34 +28,34 @@ def init_worker(tqdm_lock=None):
 def vconcat_resize(img_list, interpolation=cv2.INTER_CUBIC):
     # take minimum width
     w_min = min(img.shape[1] for img in img_list)
-      
+
     # resizing images
     im_list_resize = [cv2.resize(img, (w_min, int(img.shape[0] * w_min / img.shape[1])), interpolation = interpolation) for img in img_list]
     # return final image
     return cv2.vconcat(im_list_resize)
-    
+
 def hconcat_resize(img_list, interpolation=cv2.INTER_CUBIC):
     # take minimum hights
     h_min = min(img.shape[0] for img in img_list)
-      
-    # image resizing 
-    im_list_resize = [cv2.resize(img, (int(img.shape[1] * h_min / img.shape[0]), h_min), interpolation = interpolation) 
+
+    # image resizing
+    im_list_resize = [cv2.resize(img, (int(img.shape[1] * h_min / img.shape[0]), h_min), interpolation = interpolation)
                       for img in img_list]
-      
+
     # return final image
     return cv2.hconcat(im_list_resize)
 
-def fitness_comparison(PPI, DRUG, res):
+def fitness_comparison(PPI, DRUG, res, root):
     f, axes = plt.subplots(ncols=2, sharex=True, sharey=True, figsize=(12,8))
     i = 0
     REPS = []
     LT = []
     for REP in ['A', 'B']:
         for MTX in ['MTX', 'noMTX']:
-            PPI_table = pd.read_csv(f'../../results/01_barcode_count/per_PPI/{PPI}_read_number.csv')
+            PPI_table = pd.read_csv(f'{root}/results/01_barcode_count/per_PPI/{PPI}_read_number.csv')
             R = PPI_table[['strain_id', f'T0_noMTX_noDrug.{PPI}', f'{REP}_{MTX}_{DRUG}.{PPI}']]
-            R[f'{REP}_{MTX}_{DRUG}.{PPI}'] = R[f'{REP}_{MTX}_{DRUG}.{PPI}'] + 1 
-            R[f'T0.{PPI}'] = R[f'T0_noMTX_noDrug.{PPI}'] + 1 
+            R[f'{REP}_{MTX}_{DRUG}.{PPI}'] = R[f'{REP}_{MTX}_{DRUG}.{PPI}'] + 1
+            R[f'T0.{PPI}'] = R[f'T0_noMTX_noDrug.{PPI}'] + 1
 
             R[f'{REP}_{MTX}_{DRUG}.{PPI}_RPM'] = (R[f'{REP}_{MTX}_{DRUG}.{PPI}'] / sum(R[f'{REP}_{MTX}_{DRUG}.{PPI}'])) * 10**6
             R[f'T0.{PPI}_RPM'] = (R[f'T0.{PPI}'] / sum(R[f'T0.{PPI}'])) * 10**6
@@ -67,19 +67,19 @@ def fitness_comparison(PPI, DRUG, res):
 
             table_per_timepoint = []
             TMP = R[['strain_id', f'T0.{PPI}_RPM', f'logratio_Fitness']].rename(columns={f'T0.{PPI}_RPM': 'RPM'})
-            TMP['Time'] = '0' 
+            TMP['Time'] = '0'
             table_per_timepoint.append(TMP)
             TMP = R[['strain_id', f'{REP}_{MTX}_{DRUG}.{PPI}_RPM', f'logratio_Fitness']].rename(columns={f'{REP}_{MTX}_{DRUG}.{PPI}_RPM': 'RPM'})
             TMP['Time'] = '96'
             table_per_timepoint.append(TMP)
-            
+
             scatter_table =  pd.concat(table_per_timepoint).reset_index(drop=True)
             scatter_table['Time'] = scatter_table['Time'].astype(int)
             LT.append(scatter_table)
-            
+
         #### Lineage tracking plot
         ref_colors = ['paleturquoise', 'darkturquoise', 'darkcyan', 'yellow', 'orange', 'brown']
- 
+
         g, g_axes = plt.subplots(ncols=2, nrows=2, sharex=False, sharey=False, figsize=(12,12))
 
         custom_lines = [
@@ -90,14 +90,14 @@ def fitness_comparison(PPI, DRUG, res):
             Line2D([0], [0], color='orange', linestyle='--', lw=2),
             Line2D([0], [0], color='brown', linestyle='--', lw=2),
             ]
-        
+
         g_axes[0,1].legend(custom_lines, ['43','43_ref1', '43_ref2', '599', '599_ref1', '599_ref2'], loc='center right', fontsize=8)
         g_axes[1,1].legend(custom_lines, ['43','43_ref1', '43_ref2', '599', '599_ref1', '599_ref2'], loc='center right', fontsize=8)
 
 
         A_segregants = LT[0][~LT[0]['strain_id'].str.contains('ref')].reset_index(drop=True)
         A_ref_segregants = LT[0][LT[0]['strain_id'].str.contains('ref') | (scatter_table['strain_id'].isin(['43','599'])) ].reset_index(drop=True)
-        
+
         sns.lineplot(data=A_segregants, x='Time', y='RPM', hue='logratio_Fitness', legend=False, ax=g_axes[0, 0])
         sns.lineplot(data=A_ref_segregants, x='Time', y='RPM', hue='strain_id',  palette=ref_colors, linestyle='dashed', legend=False, ax=g_axes[0, 0])
         g_axes[0, 0].set_yscale('log')
@@ -114,7 +114,7 @@ def fitness_comparison(PPI, DRUG, res):
 
         B_segregants = LT[1][~LT[1]['strain_id'].str.contains('ref')].reset_index(drop=True)
         B_ref_segregants = LT[1][LT[1]['strain_id'].str.contains('ref') | (scatter_table['strain_id'].isin(['43','599'])) ].reset_index(drop=True)
-        
+
         sns.lineplot(data=B_segregants, x='Time', y='RPM', hue='logratio_Fitness', legend=False, ax=g_axes[1, 0])
         sns.lineplot(data=B_ref_segregants, x='Time', y='RPM', hue='strain_id', palette=ref_colors, linestyle='dashed', legend=False, ax=g_axes[1, 0])
         g_axes[1, 0].set_yscale('log')
@@ -128,10 +128,10 @@ def fitness_comparison(PPI, DRUG, res):
             # print(ref, ref_fitness)
             g_axes[1,1].axvline(x=ref_fitness, linestyle='dashed', color=ref_colors[k2])
             k2 += 1
-        
+
         g.savefig(f'./tmp_{MTX}_bd.png', dpi=300)
-            
-    #### Fitness comparison 
+
+    #### Fitness comparison
     REP_MERGED = pd.merge(REPS[0], REPS[1], on=['strain_id', f'T0.{PPI}_RPM'], suffixes=['_A', '_B'])
     REP_MERGED_REF = REP_MERGED[REP_MERGED['strain_id'].str.contains('_ref')]
     # print(REP_MERGED)
@@ -162,8 +162,8 @@ def fitness_comparison(PPI, DRUG, res):
     img3 = cv2.imread('./tmp_fitness_bd.png')
 
     img_v_resize = vconcat_resize([img1, img2, img3])
-    cv2.imwrite(f'../../results/02_lineage_tracking/{PPI}_{DRUG}.png', img_v_resize)
-    return REP_MERGED[['strain_id', 'logratio_Fitness_A', 'logratio_Fitness_B', 'MTX_condition']], res, f'../../results/02_lineage_tracking/{PPI}_{DRUG}.png'
+    cv2.imwrite(f'{root}/results/02_lineage_tracking/{PPI}_{DRUG}.png', img_v_resize)
+    return REP_MERGED[['strain_id', 'logratio_Fitness_A', 'logratio_Fitness_B', 'MTX_condition']], res, f'{root}/results/02_lineage_tracking/{PPI}_{DRUG}.png'
 
 def merge_plots(PPI, ALL_DRUGS):
     all_imgs = [ cv2.imread(img) for img in ALL_DRUGS ]
@@ -177,8 +177,10 @@ def main(args):
     merge_plots(args)
 
 if __name__ == "__main__":
-    PPI_list = pd.read_csv('../../data/pipeline/PPI_reference_barcodes.csv')['PPI']  
-    results_folder = '../../results'
+    root_path = os.path.abspath(os.path.join(__file__, "../../.."))
+
+    PPI_list = pd.read_csv(f'{root_path}/data/pipeline/PPI_reference_barcodes.csv')['PPI']
+    results_folder = f'{root_path}/results'
     try :
         for fld in [os.path.join(results_folder, '02_lineage_tracking'),  os.path.join(results_folder, '02_lineage_tracking', 'before_downsampling')]:
             os.mkdir(fld)
@@ -191,7 +193,7 @@ if __name__ == "__main__":
     #     ALL_DRUGS = []
     #     print(f'Lineage Tracking for {PPI} in progress')
     #     for MTX in ['noMTX', 'MTX']:
-    #         for DRUG in ['noDrug', '5-FC', 'Fluconazole', 'Metformin', 'Trifluoperazine'] : 
+    #         for DRUG in ['noDrug', '5-FC', 'Fluconazole', 'Metformin', 'Trifluoperazine'] :
     #             TABLE, res = fitness_comparison(PPI, DRUG, MTX, res)
     #             ALL_TABLE.append(TABLE)
 
@@ -202,11 +204,11 @@ if __name__ == "__main__":
     for PPI in tqdm(PPI_list_10) :
         ALL_DRUGS = []
         print(f'Lineage Tracking for {PPI} in progress')
-        for DRUG in ['noDrug', '5-FC', 'Fluconazole', 'Metformin', 'Trifluoperazine'] : 
-            TABLE, res , drug_image = fitness_comparison(PPI, DRUG, res)
+        for DRUG in ['noDrug', '5-FC', 'Fluconazole', 'Metformin', 'Trifluoperazine'] :
+            TABLE, res , drug_image = fitness_comparison(PPI, DRUG, res, root_path)
             ALL_DRUGS.append(drug_image)
             ALL_TABLE.append(TABLE)
-        
+
     # #### Dump all fitness of A and B in a master table
     # pd.concat(ALL_TABLE).to_csv('./A_vs_B_10.csv', index=False)
 
@@ -216,7 +218,7 @@ if __name__ == "__main__":
     #     f.write(f"{PPI},{res[PPI]['corr']},{res[PPI]['pval']}\n")
     # f.close()
 
-        
+
     #### Merge plots
     args.append((PPI, ALL_DRUGS))
     p = multiprocessing.Pool(initializer=init_worker, initargs=(tqdm.get_lock(),), processes=12)

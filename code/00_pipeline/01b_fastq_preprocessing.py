@@ -3,7 +3,7 @@ NAME 01b_fastq_preprocessing.py
 
 =========
 
-DESCRIPTION 
+DESCRIPTION
 
 XXXXX
 
@@ -33,22 +33,22 @@ LICENCE
 2022, Copyright Savandara Besse (savandara.besse@umontreal.ca)
 
 
-""" 
+"""
 
 
 from importlib.metadata import metadata
 import os, re, subprocess
 import numpy as np
-import pandas as pd 
+import pandas as pd
 
-from tqdm import tqdm 
+from tqdm import tqdm
 
 def get_env_cdts(x):
-    if 'Time0' not in x : 
+    if 'Time0' not in x :
         REP = x.split('_')[1]
         MTX = x.split('_')[2]
         DRUG = x.split('_')[3]
-    else :  
+    else :
         REP = 'T0'
         MTX = 'noMTX'
         DRUG = 'noDrug'
@@ -79,9 +79,9 @@ def merge_reads(sample_fastq):
 
 if __name__ == "__main__":
     table_folder = ('../../piQTL/data/pipeline')
-    PPI_list = pd.read_csv(os.path.join(table_folder, 'PPI_reference_barcodes.csv'))['PPI'] 
+    PPI_list = pd.read_csv(os.path.join(table_folder, 'PPI_reference_barcodes.csv'))['PPI']
     barcode_list = os.path.join(table_folder,'PPI_reference_barcodes.txt')
-    
+
     base_folder = '/media/UTELifeNAS/homes/Savvy/piQTL/DATA' #### Folder where are the final dataset with the concatanated fastq.gz are
 
     print('piQTL pipeline - Barcode extraction')
@@ -89,7 +89,7 @@ if __name__ == "__main__":
     ### 1. Demultiplexing + inner barcode trimming
     original_folder = os.path.join(base_folder,'original') #'/home/savvy/PROJECTS/PHD/DATA/original/'
     print('Step 1 - Demultiplexing + inner barcode trimming')
-    for folder in sorted(os.listdir(original_folder)): 
+    for folder in sorted(os.listdir(original_folder)):
         for fold in ['demultiplexed', 'merged', 'pooled']:
             if not os.path.isdir(os.path.join(base_folder, fold)):
                 os.mkdir(os.path.join(base_folder, fold))
@@ -97,18 +97,18 @@ if __name__ == "__main__":
         curr_folder = os.path.join(original_folder, folder)
         print(f'Woking on {folder} ...')
         print('Step 1 - Demultiplexing + inner barcode trimming')
-        sample_name = demultiplexed_fastq(curr_folder, barcode_list)   
-        if not os.path.isdir(os.path.join(base_folder, sample_name)):      
+        sample_name = demultiplexed_fastq(curr_folder, barcode_list)
+        if not os.path.isdir(os.path.join(base_folder, sample_name)):
             os.mkdir(os.path.join(base_folder, sample_name))
 
-        #### 2. Pair-end read merging files added in pooled folder 
+        #### 2. Pair-end read merging files added in pooled folder
         print('Step 2 - Pair-end read merging')
         demultiplex_folder = os.path.join(base_folder,'demultiplexed') #'/home/savvy/PROJECTS/PHD/DATA/demultiplexed/'
         u_cdt_name = [ f'{sample_name}.{PPI}' for PPI in PPI_list ]
 
         print(u_cdt_name[0])
         os.chdir(demultiplex_folder)
-        for condition in tqdm(np.unique(u_cdt_name)): 
+        for condition in tqdm(np.unique(u_cdt_name)):
             merge_reads(condition)
         merged_folder = os.path.join(base_folder,'merged') #'/home/savvy/PROJECTS/PHD/DATA/merged/'
         os.chdir(merged_folder)
@@ -120,7 +120,7 @@ if __name__ == "__main__":
 #         os.chdir(pooled_folder)
 #         for condition in tqdm(np.unique(u_cdt_name)):
 #             ##### With new barcode pattern, no need to have the cut step
-#             bartender_extract_cmd = f'bartender_extractor_com -f {condition}.assembled.fastq -o {condition} -q "?" -p "TGGGC[5]CAGGTCTGAAGCTGTCGCAC[5]GAAAT" -m 4 -d both >> {condition}.log' 
+#             bartender_extract_cmd = f'bartender_extractor_com -f {condition}.assembled.fastq -o {condition} -q "?" -p "TGGGC[5]CAGGTCTGAAGCTGTCGCAC[5]GAAAT" -m 4 -d both >> {condition}.log'
 #             subprocess.run(bartender_extract_cmd, shell=True)
 
         #### 3. Move processed folders to associated condition folder and the final output
