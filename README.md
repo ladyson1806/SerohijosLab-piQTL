@@ -1,4 +1,4 @@
-# Genetic landscape of in vivo protein-protein interactions in _S. cerevisiae_
+# Genetic landscape of an in vivo protein interactome
 
 ## __Université de Montréal (2021-2023)__
 
