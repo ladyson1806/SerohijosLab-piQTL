@@ -1,4 +1,4 @@
-# Genetic landscape of an in vivo protein interactome
+# Genetic landscape of an _in vivo_ protein interactome
 
 ## __Université de Montréal (2021-2023)__
 
