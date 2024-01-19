@@ -31,7 +31,9 @@ ui <- fluidPage(
                actionButton("addTracks_0", "Add LD blocks, CUT, SUT and XUT annotations"),
                br(), br(),
                actionButton("addGwasTrackButton_DrugMTX", "Add piQTL Track (DRUG & MTX+)"),
+               actionButton("addGwasTrackButton_DrugnoMTX", "Add piQTL Track (DRUG & MTX-)"),
                actionButton("addGwasTrackButton_noDrugMTX", "Add piQTL Track (noDRUG & MTX+)"),
+               actionButton("addGwasTrackButton_noDrugnoMTX", "Add piQTL Track (noDRUG & MTX-)"),
                br(), br(),
                h4("Region of interest"),
                textInput("roi", label="", placeholder="Gene or chrN:start-end"),
@@ -113,6 +115,15 @@ server <- function(input, output, session) {
     tbl.gwasTrack <- GWASTrack(glue('{input$ppi} with {input$drug} (MTX+)'), tbl.gwas, chrom.col=2, pos.col=3, pval.col=6, trackHeight=200)
     display(tbl.gwasTrack, session, id="igvShiny_0", deleteTracksOfSameName = TRUE)
   })
+
+    observeEvent(input$addGwasTrackButton_DrugnoMTX, {
+    printf(glue("---- Adding GWASTrack for {input$ppi} with {input$drug} (MTX-)"))
+    # colors <- as.list(rep(c("black", "lightgray"), 17))
+    f <- glue("https://raw.githubusercontent.com/ladyson1806/public_hosting/main/piQTL_mapping/formatted_for_genome_browser/{input$ppi}_noMTX_{input$drug}_avg_logratio_Fitness_minus_ref.csv")
+    tbl.gwas <- read.csv(f, sep='\t')
+    tbl.gwasTrack <- GWASTrack(glue('{input$ppi} with {input$drug} (MTX-)'), tbl.gwas, chrom.col=2, pos.col=3, pval.col=6, trackHeight=200)
+    display(tbl.gwasTrack, session, id="igvShiny_0", deleteTracksOfSameName = TRUE)
+  })
   
   observeEvent(input$addGwasTrackButton_noDrugMTX, {
     printf(glue("---- Adding GWASTrack for {input$ppi} without {input$drug} (MTX+)"))
@@ -120,6 +131,15 @@ server <- function(input, output, session) {
     f <- glue("https://raw.githubusercontent.com/ladyson1806/public_hosting/main/piQTL_mapping/formatted_for_genome_browser/{input$ppi}_MTX_noDrug_avg_logratio_Fitness_minus_ref.csv")
     tbl.gwas <- read.csv(f, sep='\t')
     tbl.gwasTrack <- GWASTrack(glue('{input$ppi} without {input$drug} (MTX+)'), tbl.gwas, chrom.col=2, pos.col=3, pval.col=6, trackHeight=200)
+    display(tbl.gwasTrack, session, id="igvShiny_0", deleteTracksOfSameName = TRUE)
+  })
+
+  observeEvent(input$addGwasTrackButton_noDrugnoMTX, {
+    printf(glue("---- Adding GWASTrack for {input$ppi} without {input$drug} (MTX-)"))
+    # colors <- as.list(rep(c("black", "lightgray"), 17))
+    f <- glue("https://raw.githubusercontent.com/ladyson1806/public_hosting/main/piQTL_mapping/formatted_for_genome_browser/{input$ppi}_noMTX_noDrug_avg_logratio_Fitness_minus_ref.csv")
+    tbl.gwas <- read.csv(f, sep='\t')
+    tbl.gwasTrack <- GWASTrack(glue('{input$ppi} without {input$drug} (MTX-)'), tbl.gwas, chrom.col=2, pos.col=3, pval.col=6, trackHeight=200)
     display(tbl.gwasTrack, session, id="igvShiny_0", deleteTracksOfSameName = TRUE)
   })
 
