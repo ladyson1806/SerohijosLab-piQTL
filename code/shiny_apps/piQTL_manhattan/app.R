@@ -26,36 +26,55 @@ ui <- fluidPage(
       br(),
       column(
         width = 8,
-        plotlyOutput(outputId = "MTX_manhattanplot")
+        plotlyOutput(outputId = "Drug_MTX_manhattanplot")
         ),
       
       column(
         width = 4,
-        plotlyOutput(outputId = "MTX_qqplot")
+        plotlyOutput(outputId = "Drug_MTX_qqplot")
       ),
       
-      # column(
-      #   width = 3,
-      #   plotlyOutput(outputId = "MTX_volcanoplot")
-      # ),
-      
       br(),
       br(),
-      h3("noDrug + MTX"),
+
+      h3("Drug + noMTX"),
       column(
         width = 8,
-        plotlyOutput(outputId = "noMTX_manhattanplot")
+        plotlyOutput(outputId = "Drug_noMTX_manhattanplot")
       ),
       
       column(
         width = 4,
-        plotlyOutput(outputId = "noMTX_qqplot")
+        plotlyOutput(outputId = "Drug_noMTX_qqplot")
+      ),  
+
+      br(),
+      br(),
+
+      h3("noDrug + MTX"),
+      column(
+        width = 8,
+        plotlyOutput(outputId = "noDrug_MTX_manhattanplot")
       ),
       
-      # column(
-      #   width = 3,
-      #   plotlyOutput(outputId = "noMTX_volcanoplot")
-      # )   
+      column(
+        width = 4,
+        plotlyOutput(outputId = "noDrug_MTX_qqplot")
+      ),
+
+      br(),
+      br(),
+
+      h3("noDrug + noMTX"),
+      column(
+        width = 8,
+        plotlyOutput(outputId = "noDrug_noMTX_manhattanplot")
+      ),
+      
+      column(
+        width = 4,
+        plotlyOutput(outputId = "noDrug_noMTX_qqplot")
+      )   
     )
   )
 )
@@ -66,45 +85,68 @@ library(manhattanly)
 
 server <- function(input, output) {
   
-  MTX_datasetInput <- reactive({
+  Drug_MTX_datasetInput <- reactive({
     PPI <- input$ppi
     DRUG <- input$drug
     infile = glue('https://raw.githubusercontent.com/ladyson1806/public_hosting/main/piQTL_mapping/formatted_for_manhattan/{PPI}_MTX_{DRUG}_avg_logratio_Fitness_minus_ref.csv')
     read.csv(infile)
   })
+
+  Drug_noMTX_datasetInput <- reactive({
+    PPI <- input$ppi
+    DRUG <- input$drug
+    infile = glue('https://raw.githubusercontent.com/ladyson1806/public_hosting/main/piQTL_mapping/formatted_for_manhattan/{PPI}_noMTX_{DRUG}_avg_logratio_Fitness_minus_ref.csv')
+    read.csv(infile)
+  })
   
-  noMTX_datasetInput <- reactive({
+  noDrug_MTX_datasetInput <- reactive({
     PPI <- input$ppi
     DRUG <- input$drug
     infile = glue('https://raw.githubusercontent.com/ladyson1806/public_hosting/main/piQTL_mapping/formatted_for_manhattan/{PPI}_MTX_noDrug_avg_logratio_Fitness_minus_ref.csv')
     
     read.csv(infile)
   })
-  
-  
-  output$MTX_manhattanplot <- renderPlotly({
-    manhattanly(MTX_datasetInput(), chr='CHR', snp="SNP", gene="GENE", labelChr=c(1:16,"MT"), suggestiveline = -log10(1e-04), genomewideline=F, title=glue('{input$ppi} with {input$drug}' ))
+
+  noDrug_noMTX_datasetInput <- reactive({
+    PPI <- input$ppi
+    DRUG <- input$drug
+    infile = glue('https://raw.githubusercontent.com/ladyson1806/public_hosting/main/piQTL_mapping/formatted_for_manhattan/{PPI}_noMTX_noDrug_avg_logratio_Fitness_minus_ref.csv')
+    
+    read.csv(infile)
   })
   
-  output$MTX_qqplot <- renderPlotly({
-    qqly(MTX_datasetInput(), chr='CHR', snp="SNP", gene="GENE")
+  
+  output$Drug_MTX_manhattanplot <- renderPlotly({
+    manhattanly(Drug_MTX_datasetInput(), chr='CHR', snp="SNP", gene="GENE", labelChr=c(1:16,"MT"), suggestiveline = -log10(1e-04), genomewideline=F, title=glue('{input$ppi} with {input$drug}' ))
   })
   
-  output$MTX_volcanoplot <- renderPlotly({
-    volcanoly(MTX_datasetInput(), genomewideline=-log10(1e-04))
+  output$Drug_MTX_qqplot <- renderPlotly({
+    qqly(Drug_MTX_datasetInput(), chr='CHR', snp="SNP", gene="GENE")
   })
   
-  output$noMTX_manhattanplot <- renderPlotly({
-    manhattanly(noMTX_datasetInput(), chr='CHR', snp="SNP", gene="GENE", labelChr=c(1:16,"MT"), suggestiveline = -log10(1e-04), genomewideline=F, title=glue('{input$ppi} without {input$drug}'))
+  output$Drug_noMTX_manhattanplot <- renderPlotly({
+    manhattanly(Drug_noMTX_datasetInput(), chr='CHR', snp="SNP", gene="GENE", labelChr=c(1:16,"MT"), suggestiveline = -log10(1e-04), genomewideline=F, title=glue('{input$ppi} withss {input$drug}'))
   })
   
-  output$noMTX_qqplot <- renderPlotly({
-    qqly(noMTX_datasetInput(), chr='CHR', snp="SNP", gene="GENE")
+  output$Drug_noMTX_qqplot <- renderPlotly({
+    qqly(Drug_noMTX_datasetInput(), chr='CHR', snp="SNP", gene="GENE")
+  })
+
+  output$noDrug_MTX_manhattanplot <- renderPlotly({
+    manhattanly(noDrug_MTX_datasetInput(), chr='CHR', snp="SNP", gene="GENE", labelChr=c(1:16,"MT"), suggestiveline = -log10(1e-04), genomewideline=F, title=glue('{input$ppi} without {input$drug}'))
   })
   
-  # output$noMTX_volcanoplot <- renderPlotly({
-  #   volcanoly(noMTX_datasetInput(), genomewideline=-log10(1e-04))
-  # })
+  output$noDrug_MTX_qqplot <- renderPlotly({
+    qqly(noDrug_MTX_datasetInput(), chr='CHR', snp="SNP", gene="GENE")
+  })
+
+  output$noDrug_noMTX_manhattanplot <- renderPlotly({
+    manhattanly(noDrug_noMTX_datasetInput(), chr='CHR', snp="SNP", gene="GENE", labelChr=c(1:16,"MT"), suggestiveline = -log10(1e-04), genomewideline=F, title=glue('{input$ppi} without {input$drug}'))
+  })
+  
+  output$noDrug_noMTX_qqplot <- renderPlotly({
+    qqly(noDrug_noMTX_datasetInput(), chr='CHR', snp="SNP", gene="GENE")
+  })
   
 }
 
