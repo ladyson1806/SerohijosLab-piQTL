@@ -1,6 +1,6 @@
 # Genetic landscape of an _in vivo_ protein interactome
 
-## __Université de Montréal (2021-2023)__
+## __Université de Montréal (2021-2025)__
 
 - Savandara Besse __#__, Tatsuya Sakaguchi __#__, Louis Gauthier, Zahra Sahaf, Olivier Péloquin, Lidice Gonzalez, Xavier Castellanos-Girouard, Nazli Koçatug, Chloé Matta, Julie Hussin, Stephen Michnick\*, Adrian Serohijos\*
   - Department of Biochemistry, Université de Montréal, Montréal, Québec, Canada (SB, TS, LoG, ZS, OP, LiG, XCG, NK, CM, SWM, AS)
@@ -23,7 +23,7 @@
 
 ### Website and Code maintenance
 
-- Savandara Besse (@ladyson1806) : savandara.besse @ cri-paris.org
+- Savandara Besse (@ladyson1806) : savandara.besse @ cnrs.fr
 
 
 ## 2. Software and libraries
